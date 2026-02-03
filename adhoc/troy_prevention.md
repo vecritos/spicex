@@ -8,4 +8,7 @@ Chains shaped in this manner are more likely to bind when deployed.
 Centralizing surface area to chain section that touches the wheel may allow for less binding during deployment.
 
 Assist: ChatGPT-5
+
+Rover automatic chain deployment system. Use flat links with 3D printed flexible animal joint mechanics, deployment creates potential for inter-chain binding, possibly prevent with centralizing surface area of links to region under wheel. Anti-Troy.
+
 Useless Idea
