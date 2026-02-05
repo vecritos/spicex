@@ -12,7 +12,7 @@
 - mexican
   - onion, green pepper, tomato, chili
 - farmers
-  - bacon, ham, onion, cheese
+  - bacon, ham, onion, cheese, hash
 - gyro
   - gyro, tomato, onion
 - vegetarian
