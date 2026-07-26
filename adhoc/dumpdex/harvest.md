@@ -1,1 +1,0 @@
-make dried fruits spicy and you'll eat a few of them but won't over eat, natural sugars, plus whatever else we can make, if you want to breed mutations use plants like mustard because we have 6fold mutation harvesting rates instead of like avocados or something
