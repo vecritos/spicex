@@ -80,6 +80,7 @@
     - rechargable flashlight w/ different modes
     - tournqt (spelling challenging)
       - -- please add duct tape strips 2x to make one handed open easier (due to velcro, they just fall out on deployment)
+      - [ ] will need to get a carrying loop for the belt area, will build into non-hip location due to hip belts
     - gauze pack
       - medic ensignia
       - facemasks
