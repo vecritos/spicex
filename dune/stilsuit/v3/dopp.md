@@ -22,4 +22,7 @@
 - talcum|foot powder
 - hair treatment 
 - skin treatment 
+- mc it's okay to be stinky optionals section
+  - bar soap
+  - deoderant 
 
