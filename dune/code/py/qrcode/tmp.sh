@@ -1,0 +1,1 @@
+https://www.bhphotovideo.com/c/product/1846324-REG/asus_xg27acmg_rog_strix_27_qhd.html/?ap=y&ap=y&smp=y&smp=y&store=420&lsft=BI%3A5451&gad_source=1&gad_campaignid=21407301513&gclid=CjwKCAiAwNDMBhBfEiwAd7ti1GxVsTrXGmVAt6e2DPv9AZtR6sygJYCMyUJA8fyOqoeikWQuUftqmBoCXQkQAvD_BwE

@@ -1,0 +1,27 @@
+# Shopping (mai dong xi, my dohng she)
+
+- [x] i need some sanitary napkins, wo xu yao yue jing dai, woh shee yee ow yuu eh jeeng
+- [x] i need some toilet paper, wo xu yao wei sheng zhi, woh shee yee ow way sherng jr
+- [x] how much is this, zhe ge duo shao qian, jay guh dwoh shou chee an
+- [x] how much is that, na ge duo shao qian, nah guh swoh shuo chee an
+- [x] i want that, yo yao na ge, woh yee ow nah guh
+- [x] may i have a receipt, neng gei wo yi ge shou ju ma, nerng gay woh ee guh show jwee mah
+- [x] do you take us dollar, ni men shou mei yuan ma, nee mern show may ywahn mah
+- [x] do you take british pounds, ni men shou ying bang ma, nee mern show eeng bahng mah
+- [x] do you take travelers checks, ni men shou lu you zhi piao ma, nee mern show lwee you jr pee ow mah
+- [x] do you take credit cards, ni men shouxing yong ka ma, nee mern show sheeng yohng kah mah
+- [x] shopping center, shang chang, shahng chahng
+- [x] shop / store, shang dian, shahng dee an
+- [x] department store, hai huo shang dian, by hwoh shahng dee an
+- [x] street market, shi chang, she chahng
+- [x] book store, shu dian, shoo dee an
+- [x] where can i buy an umbrella, na li ke yi mai yu san, nah lee ker ee my yuu sahn
+- [x] is there a department store near here, zhe fu jin you bai huo shang dian ma, jur foo jeen yoh by hwoh shahng dee an mah
+- [x] what time do you open, ni men shen me shi hou kai men, nee mern shern mo shr hoe kigh mern
+- [x] i want to do to a street market, wo yao qu shi chang, woh yee ow chwee shr chahng
+- [x] how much is this in us dollars, zhe zhi duo shao mei yuan, jur jr dwoh show may ywahn
+- [x] im just looking, wo zhi kan kan, woh jr kahn kahn
+- [x] id like a raincoat please, qing gei wo yu yi, cheeng gay woh yuu ee
+- [x] id like a pair of sandals please, wo xiang mai liang xie, wo she ahng my lee ahng shay
+- [x] i need some razor blades, wo xu yao gua hu dao, woh shee yee ow gwah hoo dow
+- [x] i am looking for (), wo zai shao (), woh zigh jow ()

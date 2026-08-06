@@ -1,0 +1,3 @@
+whois 8.8.8.8
+nslookup 
+curl https://rdap.arin.net/registry/ip/8.8.8.8

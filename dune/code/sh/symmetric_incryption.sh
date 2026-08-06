@@ -1,0 +1,1 @@
+gpg --batch --yes --symmetric --cipher-algo AES256 secret.txt
