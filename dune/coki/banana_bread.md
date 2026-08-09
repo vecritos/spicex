@@ -10,7 +10,7 @@
         - 1.5cup sugar
       - 1tsp vanilla
       - 2 eggs
-    - 3 bananas, ripe, smashed
+    - 3 bananas, ripe, smashed, `4 is good, 5 if non ripe`
     - 0.25cup milk
     - combine
       - 2cup flour
