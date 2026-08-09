@@ -14,7 +14,7 @@
     - 0.25cup milk
     - combine
       - 2cup flour
-      - 0.5tsp salt
+      - 0.5tsp salt `extra spice like nutmeg, optional`
       - 0.5tsp bakingsoda
       - 0.5+cup treenuts, chopped, optional
   - grease `betterhomes recommended 0.5 wall height covered`
