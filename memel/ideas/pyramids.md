@@ -1,0 +1,1 @@
+so the pyramids were actually people we didnt like at all and were put there as a warning against slavery and facism, the more of an asshole you were the smaller the pyramid and the deeper into the desert we built your warning tomb for your fkin soul
