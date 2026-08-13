@@ -8,7 +8,7 @@ ap pa                  | .. .. .. .. .. .. ..
 ye et                  | nickname for the person who can throw the more dense bullet like aerodynamic (-ham-)pigskin over the largest bridge in the world via (one owo arm), aka hampskins
 xi ti                  | small pasta, small meme, short jokes, etc.., small edits like an update on eta(s) or a negotiation agreement (jaki role self-assignment) accepted, etc..
 bo at                  | our way out of here
-po ke  | pokae[mon]     | the three people on the planet who are allowed a single poke each, they poke somebody and say poke, and then that person becomes a poke, and so on, if the original three are poked by someone they harvest the experience points, but should not tell, because then nobody will poke them, they must feign dismay
+po ke  | pokae[mon]    | the three people on the planet who are allowed a single poke each, they poke somebody and say poke, and then that person becomes a poke, and so on, if the original three are poked by someone they harvest the experience points, but should not tell, because then nobody will poke them, they must feign dismay
 pu bs  | pu++bs        | sharing things on the public servers aka internet or possibly intranet or bluetooth
 bo ki  | booky         | paper books library, mostly poetry or arts that can't fit in to the town's lbki, essentially the largest of the little (house libraries)
 hi ve  | hi++ve        | loci giga hxki inte area
@@ -18,6 +18,10 @@ hi ky  | hiky          | that
 hi ..  |               | this
 hi ..  |               | those
 hi ..  |               | thing
+hi hl  | hiihuulh      | entity (noun)
+hi ka  | hiika         | emotional predesignation { alignment grid } (hi'ka lin :: not bad) (hi'ka owo :: lets do that again)
+hi ll  | hiill         | modernization framework for language
+hi hn  | hihnn         | diagnostics
 bo ky  | booky         | also the paper books library ;) te he
 re fl  | refl          | pronoun used to replace any topic of discussion in the skill tree ;; depth enth part is basically known to be assumed in syntax part of skill topic
 xm     | ximi          | task manager, special file or indication of :: for things to do
@@ -60,7 +64,12 @@ ku ..  | ku ..         | to quit
 ku ke  | ku keah       | to have help, (wo ku ke)=(i had some help from my friends)
 ku al  | ku al         | to have friends involved in a project (ku aro al ko)=(i have 3 friends going)
 ku ul  | ku'uhl        | to have a mentee, offspring, or trainee, etc (ku i2 hl leep jeep)
+hl lu  | huuluu        | origin point
 hl     | huu(soft)l    | to be 
+hl es  |               | () is
+hl se  |               | () is not
+do     |               | do
+od     |               | do not
                        | pass, ticket
 wo hl  | wo hl         | i am, (wo bu hl)=(i am not)
 ku hl  | ku hl         | to understand, to be in alignment, (wo ku hl)=(i have to be cognisant of what you said), (bu ku hl)=(i do not understand)
@@ -71,6 +80,13 @@ sk in  | skin          | armored soul outfit
 fa ir  | fair          | astra inclinant sed non obligant
 st ar  | star          | common sense principles e.g. the worldwide meta
 sp el  | spell         | emotionally charged nouns, fuck, shit, damn
+em el                  | proper spelling for memel (because it compiles)
+of     |               | false
+fo     |               | true
+el of  | elloof        | off
+el on  | elloon        | on
+el na  | elnah         | standby 
+al oe  | aloe          | aloe
 is     | weather       | natural disasters are the only mass killings that should, relatively of course, occur, i need some sightseeing or some experiences, better climate
 is na  | john cena jk  | invisible and pathogenic, typically airbourne problems, viruses and the like (tu is na ma)=(are you sick)
 is ma  | is ma         | how's the weather there, what's the weather today? (if you are both outside it's a pretty obvious question so it loosely translates to (what's up?))
@@ -133,6 +149,8 @@ ki     | key           | **confirm** `10**{number} * {following}`, (foh ki wok)=
 ki ci  | key cie       | **confirm** decimalized versions (ki ci 4)=(one quarter amount)
 ki:ky  | ki:ky         | can use any filler, is also the shared mate room, enumerate ki:ky, so kinky is love of the (night -- dark, fear, pain)
 ke     | keh           | able, ability to do, can do, can do-esville baby-doll
+ke of  |               | cannot be bothered
+ke od  | keh odd       | do not have the capacity 
 ke al  | keh al        | able to have friends, **refactor** loose translation for { us | we }
 ke y4  | keh ky        | hunting
 y4 ma  | ky ma         | executioners, draws the shapes for the red wall
@@ -146,6 +164,18 @@ ma ko  | mah ko        | asking to speed up to go as fast as a mako shark litera
 kv kv  | kuhv kuhv     | fuck..it was at this point {they} knew they had fucked up
 kv y4  | kuhv ky       | this is the only insult in the language, if you use anything else to insult disabled or less fortunate, you are an asshole
 cw     | cwuoh         | affirmative like ja, but with the connotation of (i am not proud of this) 
+cy     | cye           | uncertainty levels
+cy i0  | cye iilin     | hesitant
+cy i1  | cye iiowo     | absolutely certain
+cy i2  | cye iiwok     | guarentee (tu'll cy'i2 ma :: you're willing to guarentee this? thank you, etc..)
+cy i3  | cye ii        | conclusive
+cy i4  | cye ii        | assured
+cy i5  | cye ii        | unquestionable
+cy i6  | cye ii        | indeterminate
+cy i7  | cye ii        | tentative
+cy i8  | cye ii        | assurance
+cy i9  | cye ii        | pending no unpredictable further issues this is fine with me
+cy ix  | cye iixx      | 
 ci     | cie           | careful
 ci y4  | cie ky        | accident
 ci x4  | cie chi for   | hospital, medical center
@@ -182,7 +212,13 @@ qi ma  | zhi ma        | i will trust you on this, but this does not sound as ea
 qi a?  | zhi aah       | are you sure that is easy, it seems kinda difficult, did you even think about the repercussions of your actions? what thoughts ran through your head?
 qo     | zhuuu         | come over -- negative connotations, somebody might have died or something, or i'm upset with you
 qo y4  | zhu ky        | come over while i am upset you are leaving, it is a good bye because seeing you again is not guarenteed, upset you came, because now you have to leave 
-qb ma  | zh-uh ma      | do you want to hangout for fun and friendship instead of like mundane work
+qb ma  | zh-uhs ma     | do you want to hangout for fun and friendship instead of like mundane work
+qb     |               | 
+qb     |               | 
+qb     |               | 
+qb     |               | 
+qb     |               | 
+qb     |               | 
 qq     | zhuh zhuh     | formalized thank you, you have done something that touched my soul pronounced zi\zi\ zhugh-zhugh, used for like life saving
 qo     | zho-zho       | informalized thank you, extremely recommended to use this as often as possible, unless you would feel disrespectful not using qq
 a      | ah            | designates meta-interactions between entities
@@ -231,7 +267,7 @@ wo 7b  | wo            | i am literally at like a 7/9 of stress right now, pleas
 wo 0b  | wo lin-b(a)   | we chillin' (probably sounds like li-b but with the russian twist)
 wo xb  | wo chib       | i am all over the place lately, (wo xb[,] tu ka ma = expanded version of i am all over the place, can you help me for a moment i just need to talk or something else)
 wo of  | woof          | i have completed a task, you can see the (wo=i) and the (of)=(origin of function
-wa fu  | wai fu        | yeah they're miiine we are partners smooching partners huehuehuehue (tu ku wa fu ma):(do you have a partner, etc)
+wa fu  | wai fu        | yeah they're miiine we are partners smooching partners huehuehuehue (tu'ku wa'fu ma):(do you have a partner, etc)
 ra fa                  | i think tennis, we'll come back to this one
 wa     | wah           | directed at people when you need to understand where they are coming from, like for instance when a child tries to explain the wall art
 wa ma  | wah mah       | can you explain this a little better and then bring it back, like i might add a few corrections, but please revise and try again
@@ -339,6 +375,9 @@ ra ki  | ra ki         | take -- takes over that (hx ki)
 sa ki  | sah kii       | take -- to shop (sa hx x2 ki):(potentially going to go get some food supplies at the the whole foods nearby)
 ke ki  | key ki        | take -- what capacity is needed to aquire this? (:chinese zhe shi duo shao)
 hx ki  | hex ki        | give -- the hexgate to which you give your soul, the (ja ki) is the (ra ki) when in their (hx ki)
+hx ii  | hexii         | give -- yield time to a particular **location**, enumerated or new and needs to be stated usually
+hx yy  |               | take -- resource at that hx
+hx ll  |               | give -- work done there work, problem, hobbies
 ra a?  | ra ah         | take -- (did you do this???? when?? how??)
 sa ra  | sa ra         | **
 ra ra  | ra ra         | take -- ooo ga ga, nah nah, ooo rah rah, think goalie who blocked a penalty kick, or rasputin
@@ -356,6 +395,7 @@ d      | duia          | signals -- input and output specifics especially for or
 bu d   | bu duia       | signals -- poor micro-mechanics, bad ergonomics, looks like an npc to me
 da     | da            | signals -- sight -- kinda a big deal if it doesn't work, and macular degeneration is almost guarenteed in the current time
 da re  | da  re        | signals -- sight -- to write
+da er  | da ere        | signals -- sight -- to read
 me da  | mee da        | signals -- sight -- who is that that i see?
 da ma  | da mah        | signals -- sight -- can i take a picture of that (..)=(can i see that in english means basically can you just let me borrow that for a second? usually)
 xo da  | cho da        | signals -- sight -- request -- i want to see { ** }, ([wo] xo da tu)=(i would like to see you), ([wo] xo-da tu da-re)=(i want to see your writing)
@@ -408,8 +448,10 @@ g0 a?  |               | teamwork -- what do you do in the grand scheme of the w
 gd     | gidui         | teamwork -- the smaller teams, basically a subdivision of the gigi that is more specialized but more lethal in that particular subset
 ga     | gah           | teamwork -- not understood, people leading us in direction of peaceful progress, think ghandi, jesus, invictus, julius from titans football
 gb     | gibb          | teamwork -- managers, people who lead, sherpas, never a person who shouts their commands
-ge     | gee           | teamwork -- globalized economy -- personal incoming value of efficiency resource, for budgeting
+ge     | gee           | teamwork -- globalized economy -- take -- personal incoming value of efficiency resource, for budgeting
+ge od  | gee odd       | teamwork -- globalized economy -- is not something i can take
 gx     | gix           | teamwork -- globalized economy -- personal outgoing value of efficiency resource, for budgeting
+gx od  | gix odd       | teamwork -- globalized economy -- give -- unable to give such a thing
 gx                     | teamwork -- globalized economy -- how much, i wanna buy this
 gx me  | gix mee       | teamwork -- globalized economy -- local tender designation (prefer to just not have money at all but (large capped variable market gx indication works)
 gx                     | teamwork -- globalized economy -- physical currency
@@ -423,6 +465,9 @@ gx                     | teamwork -- rate per time period
 gx                     | teamwork -- lost access to funding
 gx                     | teamwork -- reservation
 gx                     | teamwork -- a place of respect
+tx     | tex           | sensory descriptors
+tx ho  | texhoh        | hot (tx'ho lin :: salt, tx'ho owo :: other spices)
+tx no  | texnoh        | cold (im assuming i'll be roasted for this in the tx'ho fi're)
 --                     | map      
 --                     | dentist
                        | teamwork -- natural penis
@@ -460,6 +505,7 @@ __ ..  |               | continue the unknown enumerable, represents a wildcard 
 as mr  |               | peace and quiet contemplation, emotional knowledge and ([pseudo|psycho]-therapeutic techniques), mammilian base instincts, psychological empathic input
 nt     |               | nice time, trustful relationships
 
+
 > common statements to check
 >   please call a doctor who speaks english quickly i need to see them as these people are sick and need help
 >   he/she/it/them/they/us/we/group[s]
@@ -479,6 +525,11 @@ previously known file path (prev file) can be shown on top bar, because the top 
 coyote
 mountian
 cote
+hello
+goodbye
+thank you
+sorry
+nice to meet you (m.g.usto)
 ...    |               | final stop to their story, fully dead
 
 ## symbology

@@ -1,4 +1,0 @@
-# guesses
-
-diagnostics -- best guess
-
