@@ -1,0 +1,25 @@
+# Love Languages
+
+- previous failures
+- logistical specifics
+- missing situations
+- ideal outcome
+- overarching theme
+- action benefit
+- comparison matrix
+- audience priorities
+- ruining factors
+- strengths analysis
+- signal clarity
+- employment techniques
+- proven effectiveness
+- concentrated effort
+- parallel perspectives
+- thoughtful gestures
+- dedicated service
+- emotional poliarity
+- imaginative delaying
+- physical sensations
+- supportive affirmations
+- mental gaming
+- graceful gifts

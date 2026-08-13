@@ -1,0 +1,70 @@
+# relationships
+
+> source: pintrest
+> will organize and rephrase later on
+
+- fundamental need { safety | security | respect | reliability | communication | emotional support }
+- desires 
+  - preferences and wants | constant communication | always agreeing | frequent romance | same hobbies | 
+    - continuous validation
+  - building a schedule or rituals together
+- forgiveness
+- freedom
+- willingness to be all in and keep the connection alive
+
+- couple-esteem
+  - reiteration of past great parts and improvement upon those, phasing out and dissolving of conflicts
+    - communicate desires -> collaborate on goals -> celebrate progress -> calibrate to life changes
+  - iterative cycling, consistent control, constant criticism, nagging discontent, overwhelming anxiety
+- self-esteem
+  - shows up authentic
+  - spending time apart and focusing on yourself
+    - have a life you enjoy when partner is busy
+  - surprising eachother with little things (improvements in your life count)
+- anxious
+  - healing { stop asking for reassurance | build a life you dont need to escape from | sitting uncertain }
+  - verbalizing gratitude and apologies and vulnerability
+- avoidant
+  - healing { stay in the conversation | assert needs | being vulnerable is okay }
+  - fearful
+    - mixed feelings
+      - focus on the positive in eachother
+    - closeness and withdrawl
+    - traumatic or abusive childhood experiences with caregivers
+      - triggers
+  - dismissive
+    - values independence
+    - avoids deep emotional connection
+      - lack of empathy
+    - aloof
+      - not active listening
+    - clasically rejected
+- anxious preoccupied
+  - craves closeness
+  - fears abandonment
+  - inconsistent care-reception
+  - love langauges (efficieny loving)
+- agressive (4)
+  - interrupting
+  - over talking
+  - sarcasm
+  - hostility
+  - you always
+  - you never
+- fearful-avoidant
+  - healnig } notice when pushing people away | channel less chaos | trust slowly
+- secure 
+  - healing { continuing work | non-fixing relationships | loses progress under stress }
+  - comfortable with intimacy
+    - expresses affection
+    - cherishes shared memories
+  - trusts others
+  - healthy self-esteem
+  - balances independece with closeness
+  - communicates openly
+    - constructive arguments
+      - handles conflict
+    - being curious
+      - long term relationships
+        - voices needs and emotions
+        - navigates seperate wants and needs
