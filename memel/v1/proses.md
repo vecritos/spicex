@@ -612,3 +612,4 @@ D | program macro
 f | theory macro
 q | community, zh
 
+medi is a two week incremented system of refillable bulk medications useful for aging processes and basic health, saves on bottle

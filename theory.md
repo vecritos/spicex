@@ -24,3 +24,7 @@ cross-domain teams are encouraged for instance electrical engineering, computer 
 
 will need further expansion as time goes, i needed a landing spot for the architecture
 
+## references
+
+- honorary masters in family life requested for arthur forsythe of vermont (married to ann)
+
