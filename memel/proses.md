@@ -474,7 +474,10 @@ coyote
 mountian
 cote
 ...    |               | final stop to their story, fully dead
-# symbology
+
+## symbology
+
+> designators for future edits into a single character superset system with following enumerations
 
 t | time, schedule
 S | soul
