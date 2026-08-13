@@ -1,5 +1,0 @@
-# hobbies
-
-{ work | problem | hobbies }
-
-

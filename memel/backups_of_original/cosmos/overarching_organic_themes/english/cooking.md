@@ -1,3 +1,0 @@
-spice, salt
-hot, cold
-

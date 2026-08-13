@@ -1,5 +1,0 @@
-# mathematics
-
-add, multiply
-negate
-
