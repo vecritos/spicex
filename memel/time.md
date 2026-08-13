@@ -1,5 +1,13 @@
 # time
 
+start
+end
+instant
+duration
+rewind
+fast-forward
+repeat
+only
 time
 minutes
 durations, time-ranges
@@ -40,6 +48,11 @@ urgency
 possibly
 always, certainty
 desire(defined as the feeling of want for a particular timespan e.g. i want to see you everyday)
+now
+later
+earlier, before
+after
+pause
 
 
 

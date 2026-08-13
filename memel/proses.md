@@ -1,5 +1,6 @@
 # memel
 
+> **this is a prototype file, used for mapping over existing language learning books and then refactoring**
 > syntactical based language for global exchange of information in physical, organic, digital environments
 
 ## definitions
@@ -49,6 +50,8 @@ Dy ci  |               | location (Dy ci x1)::(die cii owo)=(what is the locatio
 Dy ti                  | time designation
 Dy zi  |               | distance
 ka     | kah           | assistance between 
+ka on  | kahhon        | to need, to want, would like to have (possible future options)::(need water == ka'aqua'on)::(want water == ka'on aqua)
+ka od  | kahhodd       | to not want, i would not like to do that 
 ka te  | kah teah      | how long do i have to fkin be here dude this is ..
 ka wo  | kah wo        | is it cool for me to help with this stuff, can you assist me, like can we form a partnership at any level just to get some stuff done
 ka tu  | kah tu        | i am able to help you if you want some help with anything
@@ -121,6 +124,24 @@ si x6  |               | hotel
 si x7  |               | post office
 si x8  |               |
 si x9  |               | air transpotation
+sl     | sehl          | positioning designator
+sl en  | sehl eynn     | in
+sl ne  | sehl neyh     | around
+sl ut  | sehl oot      | outside
+sl tu  | sehl tuh      | between 
+sl ()  | sehl          | parasitic
+sl ()  | sehl          | to sustain, to support
+sl ()  | sehl          | departure
+sl ()  | sehl          | arrival
+sl ()  | sehl          | destroy
+sl ()  | sehl          | create
+sl ()  | sehl          | through
+sl ()  | sehl          | against
+sl ()  | sehl          | above, over
+sl ()  | sehl          | below, under
+sl ()  | sehl          | near
+sl ()  | sehl          | far
+       |               | compass designation number e.g. 243 degrees
 te st  | test          | (t)rain (e)veryday (s)ave (t)hem
 ja ki  | ja ki         | that place the (ja ki) works at, some (so ul) always watches the (ja ki)
 mu uk  | muk           | more uck, the emotional drink, your special blend of herbs and spices, obtained at the (mu uk ja ki)
@@ -149,17 +170,19 @@ ki     | key           | **confirm** `10**{number} * {following}`, (foh ki wok)=
 ki ci  | key cie       | **confirm** decimalized versions (ki ci 4)=(one quarter amount)
 ki:ky  | ki:ky         | can use any filler, is also the shared mate room, enumerate ki:ky, so kinky is love of the (night -- dark, fear, pain)
 ke     | keh           | able, ability to do, can do, can do-esville baby-doll
-ke of  |               | cannot be bothered
+ke la  | kehlah        | to have, having the capacity to carry or aquire (this needs a little work)
+ke on  | keh ohn       | to know, (able to figure it out, can start on this)::(ke'lin'on)
+ke of  |               | cannot be bothered (needs more work before we start on it (repeated, will map over) need a delay, or to delay)::(ke'lin'of)
 ke od  | keh odd       | do not have the capacity 
 ke al  | keh al        | able to have friends, **refactor** loose translation for { us | we }
 ke y4  | keh ky        | hunting
 y4 ma  | ky ma         | executioners, draws the shapes for the red wall
 ko     | koh           | hurry, to go, go go go, (wo ko)=(i am going), (wo bu ko)=(i am not going)
 ko ko  | koh koh       | do it now stupid bitch
+so up  | sooouuup      | friendly greeting, more like (let's fucking go)
 kv     | kuhv          | kill the peace sign, essentially means fuck it
 kv tu  | kuhv tu       | fuck you, friendly version usually
 kv ma  | kuhv ma       | fuck me, (kv m[a+])=(oh fuck me i didn't remember that triple oxygen bonds behave that way), (kv ma ko)=(hurry up and fuck me i'm horny)
-so up  | sooouuup      | friendly greeting, more like (let's fucking go)
 ma ko  | mah ko        | asking to speed up to go as fast as a mako shark literally translates to (ask faster)
 kv kv  | kuhv kuhv     | fuck..it was at this point {they} knew they had fucked up
 kv y4  | kuhv ky       | this is the only insult in the language, if you use anything else to insult disabled or less fortunate, you are an asshole
@@ -175,7 +198,7 @@ cy i6  | cye ii        | indeterminate
 cy i7  | cye ii        | tentative
 cy i8  | cye ii        | assurance
 cy i9  | cye ii        | pending no unpredictable further issues this is fine with me
-cy ix  | cye iixx      | 
+cy ix  | cye iixx      | never
 ci     | cie           | careful
 ci y4  | cie ky        | accident
 ci x4  | cie chi for   | hospital, medical center
@@ -273,6 +296,7 @@ wa     | wah           | directed at people when you need to understand where th
 wa ma  | wah mah       | can you explain this a little better and then bring it back, like i might add a few corrections, but please revise and try again
 wa a?  | waaaaaaaaah   | what the actual flip-frackin'-fuck are you talking about dude
 wx     | wix           | it's like a return statement, basically i just need to go reset at my place of physical origin, like i'm going home i can't handle social interaction
+ke wx  | kehwix        | can return, let me think, give me a moment (i think this fits nicely here)
 wx tu  | wix tu        | do you need to go home? look i know your social battery is limited but like i won't take offense, we're just chilling here and like we'd rather you're happy
 tu wx  | tu wix        | please, you need to leave, people here are upset, wouldn't be the first time
 bu     | boo           | sorry
@@ -345,6 +369,10 @@ so     | soh           | alias **(al es) what ales you dear maid en**
 se     | say           | 
 mo om  | mooooom       | meet at the cave
 ki ma  | kii mah       | what is this thing? like i'm picking berries or mushrooms but what am i harvesting here?
+ki od  | kiiodd        | empty
+ki of  | kiioff        | missing
+ki on  | kiion         | full
+ki al  | kiino         | present
 ma     | mah           | are you doing okay, ma => polite and logical { yes now | pause unkown amount of time } async they can say (owo ma)=(one minute please i gotta chill)
 mm     | mmmmmmm       | just a pause for thinking like ummmmmmmm or uhhhhhhhh or else, but at least this way you don't waste my time opening your mouth first you window-licker 
 mg     | magiga        | interogative -- gimme the fucking plan dipshit, answer literally all the m* questions, sorry if this is too close to (my n\*) english words i am trying
@@ -376,8 +404,10 @@ sa ki  | sah kii       | take -- to shop (sa hx x2 ki):(potentially going to go 
 ke ki  | key ki        | take -- what capacity is needed to aquire this? (:chinese zhe shi duo shao)
 hx ki  | hex ki        | give -- the hexgate to which you give your soul, the (ja ki) is the (ra ki) when in their (hx ki)
 hx ii  | hexii         | give -- yield time to a particular **location**, enumerated or new and needs to be stated usually
+hx al  | hexahl        | give -- give people time by hanging out with them
 hx yy  |               | take -- resource at that hx
 hx ll  |               | give -- work done there work, problem, hobbies
+hx hx  | hexhex        | moveable shelter system, essentially talking about a unit hexagon itself just special designation for transporation systems talk
 ra a?  | ra ah         | take -- (did you do this???? when?? how??)
 sa ra  | sa ra         | **
 ra ra  | ra ra         | take -- ooo ga ga, nah nah, ooo rah rah, think goalie who blocked a penalty kick, or rasputin
@@ -448,32 +478,35 @@ g0 a?  |               | teamwork -- what do you do in the grand scheme of the w
 gd     | gidui         | teamwork -- the smaller teams, basically a subdivision of the gigi that is more specialized but more lethal in that particular subset
 ga     | gah           | teamwork -- not understood, people leading us in direction of peaceful progress, think ghandi, jesus, invictus, julius from titans football
 gb     | gibb          | teamwork -- managers, people who lead, sherpas, never a person who shouts their commands
-ge     | gee           | teamwork -- globalized economy -- take -- personal incoming value of efficiency resource, for budgeting
+ge     | gey           | teamwork -- globalized economy -- take -- personal incoming value of efficiency resource, for budgeting
+gi     | gii           | teamwork -- globalized economy -- quantity designation specific parenthetical matching, possibly include chinese endings for counting things
+gi gi  | gii () gii    | teamwork -- globalized economy -- unit quantity
 ge od  | gee odd       | teamwork -- globalized economy -- is not something i can take
 gx     | gix           | teamwork -- globalized economy -- personal outgoing value of efficiency resource, for budgeting
 gx od  | gix odd       | teamwork -- globalized economy -- give -- unable to give such a thing
-gx                     | teamwork -- globalized economy -- how much, i wanna buy this
+gx     |               | teamwork -- globalized economy -- how much, i wanna buy this
+gy     | gye           | teamwork -- globalized economy -- undetermined, undeterministic
 gx me  | gix mee       | teamwork -- globalized economy -- local tender designation (prefer to just not have money at all but (large capped variable market gx indication works)
-gx                     | teamwork -- globalized economy -- physical currency
-gx                     | teamwork -- globalized economy -- digital currency
-gx                     | teamwork -- globalized economy -- bill, receipt, itemized by default
-gx                     | teamwork -- globalized economy -- embassy
-gx                     | teamwork -- globalized economy -- it's not yours to take care of, i think i can help here, (on me):(no no it is me):(no no es me):(..)
-gx                     | teamwork -- globalized economy -- exchange ratio between (gx me ..)
+gx     |               | teamwork -- globalized economy -- physical currency
+gx     |               | teamwork -- globalized economy -- digital currency
+gx     |               | teamwork -- globalized economy -- bill, receipt, itemized by default
+gx     |               | teamwork -- globalized economy -- embassy
+gx     |               | teamwork -- globalized economy -- it's not yours to take care of, i think i can help here, (on me):(no no it is me):(no no es me):(..)
+gx     |               | teamwork -- globalized economy -- exchange ratio between (gx me ..)
 gx gx  | gix gix       | teamwork -- globalized economy -- providing a tip of some monetary value ...
-gx                     | teamwork -- rate per time period
-gx                     | teamwork -- lost access to funding
-gx                     | teamwork -- reservation
-gx                     | teamwork -- a place of respect
+gx     |               | teamwork -- rate per time period
+gx     |               | teamwork -- lost access to funding
+gx     |               | teamwork -- reservation
+gx     |               | teamwork -- a place of respect
 tx     | tex           | sensory descriptors
 tx ho  | texhoh        | hot (tx'ho lin :: salt, tx'ho owo :: other spices)
 tx no  | texnoh        | cold (im assuming i'll be roasted for this in the tx'ho fi're)
---                     | map      
---                     | dentist
-                       | teamwork -- natural penis
-                       | teamwork -- natural vagina
-gx y4  | gix ky        | teamwork -- bathroom, a place to take a shit, or piss, or wash up, or shave apparently if you ask robin 
-                       | teamwork -- internet cafe enabled place, like a coffee shop just to chill at
+--     |               | map      
+--     |               | dentist
+       |               | teamwork -- natural penis
+       |               | teamwork -- natural vagina
+gx y4  | gix ky        | teamwork -- washroom, bathroom, toilet?room?
+       |               | teamwork -- internet cafe enabled place, like a coffee shop just to chill at
 gu     | guu           | teamwork -- environment, the place where we either live or die
 gu al  | guu al        | teamwork -- friendly environment
 gu da  | guu da        | teamwork -- friendly environment where { god | allah | supreme being | vishnu | souls | ethics | .. } can be seen all around, a garden of eden essentially
@@ -482,18 +515,19 @@ gu x1  | guu owo       | teamwork -- negotiation prompt, personal transfer of re
 ll     | lofl          | programming(syntax, slang) -- lessons learned, digs a hole as deep as we're in, null or /dev/null terminal node, essentially gets interpreted as a never do this
 l*     | li all        | programming(syntax) -- lambda function defined as a variable \* allows you to preload locations for injectable code similar to dependency injection
 lx     | lix           | programming(syntax) -- lambda that executes think (lx {mywife.sh}) instead of (python3 {myfile.py}) you can alias these sure, but its an idea
-be er                  | (could be anything) socialization drink in the envi (possible max value 2 at one time because it gives you one time to wait if late, and one to socialize with :/)
-wi ne                  | (could be anything) private drink with someone who you want/need to talk to or potentially mate with 
-mi lk                  | tequila specifically
+be er  |               | (could be anything) socialization drink in the envi (possible max value 2 at one time because it gives you one time to wait if late, and one to socialize with :/)
+wi ne  |               | (could be anything) private drink with someone who you want/need to talk to or potentially mate with 
+mi lk  |               | tequila specifically
 le     | lie           | programming(syntax) -- lambda that is essentially a macro calling macro function (e) think (le[thernet] 127.0.0.1:443:tcp -x {lr[ecord], B}) kinda deal
-le ft                  | programming(syntax) -- logical closure statement with default boolean return value, something like (sigma check /> || halt fall fail safe modi meta)
+le ft  |               | programming(syntax) -- logical closure statement with default boolean return value, something like (sigma check /> || halt fall fail safe modi meta)
 ld     | lod           | programming(syntax) -- lambda designated import of a library think like { (py ld(pyplot))=>(pl.plt({mygraphy})) | ld pyplot.plt({mygraphy}) }
 lj     | liji          | programming(syntax) -- lambda use for personal logging, think (echo "my string" >> {myfile}) but can be used to open and close crypts automatically)
 lo     | lo[w]         | programming(syntax) -- lambda used for compressions into your secret life
 lo vi  | lo[w]         | programming(syntax) -- lambda used for i want to live my secret life and talk about it (living the lo (vi :: life) (s :: tool ready for work as well)
 ly     | ley           | programming(syntax) -- lambdas representing data usage
 lb     | lib           | programming(syntax) -- load and use mathematical statements refactorrrlater = lb(vecx; run normal distribution on input vector and provide box plot)
-                       | mathematics(syntax) -- ratio
+       |               | mathematics(syntax) -- ratio
+f      |               | mathematics(syntax) -- mathematical function prefix, multiple functions denoted `f_i` `f_ii` etc (something like this to switch? will expand math charset upon further study)
 fx     | f of x        | mathematics(syntax) -- a function with input variable x
 fx:r3  | f of x        | mathematics(syntax) -- a function with input variable x over a domain in three-dimensions
 f(x,y) | f of x and y  | mathematics(syntax) -- a function with input variable tuple x and y
