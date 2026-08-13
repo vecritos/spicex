@@ -12,6 +12,12 @@ po ke  | pokae[mon]     | the three people on the planet who are allowed a singl
 pu bs  | pu++bs        | sharing things on the public servers aka internet or possibly intranet or bluetooth
 bo ki  | booky         | paper books library, mostly poetry or arts that can't fit in to the town's lbki, essentially the largest of the little (house libraries)
 hi ve  | hi++ve        | loci giga hxki inte area
+hi ke  |               | commonly associated word in english, moved to later decision hi'ke::44 
+hi lo  | hilo          | it, hilo Hawai'i is a place
+hi ky  | hiky          | that 
+hi ..  |               | this
+hi ..  |               | those
+hi ..  |               | thing
 bo ky  | booky         | also the paper books library ;) te he
 re fl  | refl          | pronoun used to replace any topic of discussion in the skill tree ;; depth enth part is basically known to be assumed in syntax part of skill topic
 xm     | ximi          | task manager, special file or indication of :: for things to do
