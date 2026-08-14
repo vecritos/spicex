@@ -12,13 +12,6 @@ potential configurations based on existing technology
   - hand { base -- [witchcraft (soon my liege)] gauntlets, gloves or mittens }
   - realism { extra underwear | sexi([micro]outfits) }
 
-# feet (akaa (feeties))
-
-- cut proof gloves metallic materials on soles and balls of feet for protection
-  - neoprine padding layers
-  - silver lined woolen layers prevents smell and allows breathability
-  - largely above ankle, preffered velcro into full base layer with similar design
-
 # keep
 
 inventry { (minimalized content for maximal efficiency :: what did i bring and why did i bring it) }
