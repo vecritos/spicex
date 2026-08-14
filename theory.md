@@ -44,3 +44,42 @@ will need further expansion as time goes, i needed a landing spot for the archit
 
 - honorary masters in family life requested for arthur forsythe of vermont (married to ann)
 
+
+## Writis a Research Paper
+
+- abstract
+  - problem statemet
+  - method overview
+  - key findings
+  - main impact
+- introduction
+  - what is known
+  - our world understanding
+- literature review
+  - what is unknown
+  - what is the gap we want to fill
+- methodology
+  - how should we fill the gap
+  - what did you do?
+- results
+  - what findings did you get?
+- discusssion
+  - how do the findings bridge the gap?
+- consclusion
+  - what does this mean for us going forward
+- references
+
+# Scientific Method
+
+- observation
+- research
+- hypothesis
+- experiment
+- collection
+- analysis
+- conclusion
+- report
+- review
+- replication
+- refinement
+- theory

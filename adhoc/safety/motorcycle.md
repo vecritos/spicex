@@ -1,0 +1,31 @@
+# Motorcycle Preride Checklist
+
+- tires and wheels
+  - air pressure
+  - tread
+  - cracked sidewalls, dented wheels, loose spokes
+- controls
+  - levers and pedals
+  - cables
+  - hoses
+  - throttle
+- lights and mirrors
+  - headlight
+  - taillights and brake lights
+  - turn signals
+  - switches
+  - mirrors
+- oil and other fluids
+  - levels
+  - leaks
+- chassis
+  - suspension
+  - chain, belt, or driveshaft
+- stands
+  - side stand (kickstand)
+  - center stand
+- other
+  - helmet
+  - fuel
+  - smile
+

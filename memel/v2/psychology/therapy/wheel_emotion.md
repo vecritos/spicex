@@ -1,0 +1,105 @@
+# the wheel of emotion
+
+> list format of wheel
+
+- fear
+  - humiliated
+    - ridiculed
+    - disrespected
+  - rejected
+    - alienated
+    - inadequate
+  - submissive
+    - insigniificant
+    - worthless
+  - insecure
+    - inferior
+    - inadequate
+  - anxious
+    - worried
+    - overwhelmed
+  - scared
+    - frightened
+    - terrified
+- surpirise
+  - startled
+    - shocked
+    - dismayed
+  - confused
+    - disillusioned
+    - perplexed
+  - amazed
+    - astonished
+    - awe
+  - excited
+    - eager
+    - energetic
+- happy
+  - joyful
+    - liberated
+    - ecstatic
+  - interested
+    - amused
+    - inquisitive
+  - proud
+    - importatnt
+    - confident
+  - accepted
+    - respected
+    - fufilled
+  - powerful
+    - courageous
+    - provocative
+  - peaceful
+    - hopeful
+    - loving
+  - imtimate
+    - playful
+    - sensitive
+  - optimistic
+    - inspired
+    - open
+- sad
+  - guilty
+    - remorseful
+    - ashamed
+  - abandoned
+    - ignored
+    - victimized
+  - despair
+    - powerless
+    - vulnerable
+  - depressed
+    - inferior
+    - empty
+  - lonely
+    - abandoned
+    - isolated
+  - bored
+    - apathetic
+    - indifference
+- anger
+  - critical
+    - skeptical
+    - sarcastic
+  - distant
+    - withdrawn
+    - suspicious
+  - frustrated
+    - infuriated
+    - irritaated
+  - aggressive
+    - provoked
+    - hostile
+  - mad
+    - enraged
+    - furious
+  - hateful
+    - violated
+    - resentful
+  - threatened
+    - jealous
+    - insecure
+  - hurt
+    - devastated
+    - embarrassed

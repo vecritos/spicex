@@ -1,0 +1,74 @@
+# Emotional and Social Competency Inventory
+
+- is aware of own feelings
+- acknowledges own strengths and weaknesses
+- believes oneself to be capable for a job
+- acts impulsively
+- keeps his/her promises
+- adapts ideas based on new information
+- seeks ways to improve performance 
+- hesitates to act on opportunities
+- understands the informal structure of an organization 
+- makes self available to clients or customers
+- recognizes specific strengths of others
+- leads by examples
+- states need for change 
+- engages an audience when presenting
+- airs disagreements or conflicts
+- does not cooperate with others 
+- recognizes the situations that arouse strong emotions in him/her
+- is defensive when receiving feedback
+- doubts his/her ability
+- gets impatient or shows frustration
+- brings up ethical concerns
+- applies standard procedures flexibly
+- sets measurable and challenging goals
+- seeks information in unusual ways
+- believes the future will be better than the past
+- is attentive to people’s moods or non-verbal cues 
+- understands the organization’s unspoken rules
+- monitors customer or client satisfaction
+- gives directions or demonstrations to develop someone
+- makes work exciting
+- is reluctant to change or make changes
+- persuades by appealing to people’s self interest
+- publicly states everyone’s position to those involved in a conflict
+- solicits others’ input
+- knows how his/her feelings affect his/her actions
+- has a sense of humor about oneself
+- presents self in an assured manner
+- behaves calmly in stressful situations
+- acknowledges mistakes
+- handles unexpected demands well
+- anticipates obstacles to a goal
+- cuts through red tape or bends rules when necessary
+- stays positive despite setbacks
+- relates well to people of diverse backgrounds
+- is not politically savvy at work
+- takes personal responsibility for meeting customer needs
+- gives constructive feedback
+- inspires people
+- personally leads change initiatives 
+- gets support from key people
+- avoids conflicts
+- in a group, encourages others’ participation
+- reflects on underlying reasons for feelings
+- looks for feedback, even if hard to hear
+- has presence
+- stays composed and positive, even in trying moments
+- acts on own values, even when there is a personal cost
+- changes overall strategy, goals or projects to fit the situation
+- takes calculated risks to reach a goal
+- initiates actions to create possibilities 
+- learns from setbacks
+- can see things from someone else’s perspective
+- understands historical reasons for organizational issues
+- matches customer/client needs to services or products
+- provides ongoing mentoring or coaching
+- articulates a compelling vision
+- advocates change despite opposition
+- develops behind-the-scenes support
+- in a conflict, finds a position everyone can endorse
+- establishes and maintains close relationships at work 
+- communicates the positions of those involved in a conflict to all concerned
+- recognizes specific strengths in others

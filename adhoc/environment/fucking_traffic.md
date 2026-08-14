@@ -1,0 +1,89 @@
+# fuck traffic
+
+> considerations when calculating traffic costs
+
+- gas/power
+ - distance
+ - elevation change
+ - velocity maintenance
+ - acceleration
+ - curves
+- speeding fines
+- non-registered routes
+  - parking lots
+  - schools
+  - fire-routes
+- tolls
+- sunlight direction
+- number of business in path
+  - hours of operation
+- ride height
+- height sitting (seat positioning)
+- center of gravity
+- weight of gear
+- location in car
+- shifting zone
+- potential energy
+- kinetic energy
+- friction static to kinetic in zones
+- tire size
+- car weight/width/length
+- turning radius of car
+- time to shift
+- distance to gas or charging station
+- sun position => heat change of tires
+- type of road, roughness, etc.
+- ability to account for potholes
+- depth of potholes on average
+- maintenance schedule of peopoles
+- depth of potholes
+- frequency of filling
+- type of filling 
+- flushness to road
+- length of road work
+  - kilometers
+  - timespan
+- truck to car ratio of road
+  - increases in late hours => faster possbile
+  - more acceleration to pass trucks than to pass cars
+- margin of safe passing zone
+- buildings direction
+- how it effects wind patterns
+- direction of wind and gustyness
+- wind speed/direction
+- wind density
+- number of trees => impacts CO\_2 to O\_2 ratio
+- number of cars increase CO levels 
+- stop signs/yeild signs/traffic lights/other control factors
+- location and popularity of eating/drinking establishments => increase buffered reaction zone
+- bike lanes
+- holidays
+- time of day
+- whether someone is getting {good|great} road head 
+- laughter/music
+- sound waves effect on passengers weight movements and overall controlledness of car
+- police and ambulance cars
+- aerodynamics of other cars/yourcar
+- air temperature
+- color of car
+- battery size
+- battery fullness
+- turbos/no turbos
+- engine size
+- weight of vehicle
+- number of wheels
+- type of engine
+- friction zone within a 90 degree turn
+- price of chargin/gas
+- pedal movement 
+- wheel alignment
+- hours in wind tunnel under development
+- front\read wheel drive
+- volume of air inside car
+- number of passengers
+- energy for interior car lights
+- momentum of wheels turning (forces to slow aftermarkets)
+- suspension/ride height
+- wheel diameter (already states, importatnt)
+
+

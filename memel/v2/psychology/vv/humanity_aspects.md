@@ -1,0 +1,136 @@
+# Important Aspects of Humanity
+
+> written by chatgpt 3.5
+> reordered by we\i
+
+- self awareness
+- self reflection
+- self acceptance
+- self improvement
+- courage
+- identity
+- love
+- gratitude
+- friendship
+- empowerment
+- family
+- growth
+- life
+- death
+- goodness
+- problem solving
+- nil *
+- time
+- nil * 
+- nil * 
+- repeating *
+- nil * 
+- nil *
+- origin *
+- verbalizing *
+- researching *
+- nil *
+- suffering *
+- nil *
+- reading *
+- language
+- writing *
+- nil
+- beauty
+- trust
+- nil *
+- education
+- wisdom
+- meaning
+- collaboration
+- learning
+- knowledge
+- 'tegrity
+- perception
+- ethics
+- intuition
+- dreaming
+- diversity
+- virtue
+- nil *
+- nil *
+- change
+- daring *
+- responsability
+- morality
+- harnessing *
+- decency *
+- work
+- humility
+- altruism
+- truth
+- grounding *
+- exercising *
+- socializing *
+- resisilience
+- health
+- persising *
+- compassion
+- progress
+- birth
+- reflection
+- imagination
+- vices *
+- religion
+- inspiration
+- justice
+- politics
+- spirituality
+- freedom
+- belief
+- empathy
+- peace
+- art
+- society
+- mindset *
+- discovery
+- pirpose
+- equlity
+- meainig
+- heappiness
+- fufillment
+- community
+- creativity
+- connection
+- hope
+- curiousity
+- nature
+- adaptation
+- sharing *
+- innovation
+- conflict
+- accountability
+- sustainability
+- stewardship
+- humanity
+- technology
+- coluture
+- environment
+- evolution
+- existence
+- memory
+- globalization
+- leadership
+- conciousness
+- transformation
+- tolerance
+- nil *
+- philosophy
+- nil *
+- emotion
+- nil *
+- nil *
+- nil *
+- nil *
+- nil *
+- rights
+- nil *
+- nil *
+- nil *
+- nil *
+- nil *
