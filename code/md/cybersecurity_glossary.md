@@ -76,3 +76,4 @@ virus| a type of malicious software (malware) that utilizes a host computer or s
 vulnerability| a characteristic of a computer system that puts it at risk of being attacked
 weaponization| the act of creating an attack for a specific target
 worm| a form of a computer virus that can replicate itself and infect multiple computers in a network
+timing|a form of virus where the drive does not open or overrights data if past a certain timestamp moreso a hardware attack
