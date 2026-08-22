@@ -10,3 +10,14 @@
 ## Functions
 
 $L = \int_{\alpha}^{\beta} \sqrt{r^2 + (dr/d\theta)^2} d\theta$
+
+## DeMoivre's Theorem
+
+$[r, \theta]^n = [r^n, n\theta]$
+
+## Nth Root of a Number
+
+- convert to polar
+- use DeMoivre to find nth root
+- find remaining solutions using symmetry
+- return roots to original form (usually $a+bi$)

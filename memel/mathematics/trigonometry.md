@@ -31,6 +31,8 @@ tan | $-\pi/2 <= tan^{-1}(x) <= \pi/2$
 - $cos(2x) = (cos^2(x) - sin^2(x)) = (2cos^2(x) - 1) = (1-2sin^2(x))$
 - $sin^2(x / 2) = { 1 - cos(x) } / 2 $
 - $cos^2(x / 2) = { 1 + cos(x) } / 2 $
+- $sin(2x) = 2sin(x)cos(x)$
+- $tan(\alpha+\beta) = \frac{tan(\alpha)+tan(\beta)}{ 1 - tan(\alpha)tan(\beta) }$
 
 ### Pythagorean Identities
 

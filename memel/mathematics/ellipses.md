@@ -1,0 +1,3 @@
+# Ellipses
+
+$\frac{x^2}{a} + \frac{y^2}{b} = 1$
