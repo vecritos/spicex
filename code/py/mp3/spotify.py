@@ -28,7 +28,7 @@ def download_spotify_playlist(playlist_url: str):
 
 # Example Usage
 if __name__ == "__main__":
-    TARGET_PLAYLIST = input('enter target playlist url')
+    TARGET_PLAYLIST = input('enter target playlist url: ')
     
     download_spotify_playlist(TARGET_PLAYLIST)
 
