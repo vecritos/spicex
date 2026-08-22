@@ -1,5 +1,3 @@
-adrian.herzberger@txwg.cap.gov
-
 Absent Landing Gear Incident Response Idea
 
 Spray Polyurethane Foam (SPF)
