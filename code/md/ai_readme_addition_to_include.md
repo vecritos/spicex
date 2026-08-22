@@ -2,12 +2,8 @@
 
 This project was developed with occasional assistance from AI tools used for technical discussion, research, and reference examples.
 
-**Tool:** ChatGPT  
-**Provider:** OpenAI  
-
-**Models consulted during development:**
-- GPT-5.3
-- GPT-5-mini
+**Tools:** ChatGPT-{5.3|5-mini}, Gemini, CoPilot
+**Provider:** OpenAI, Google, Microsoft
 
 AI assistance was used for:
 - brainstorming architecture and system design
