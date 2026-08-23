@@ -6,6 +6,71 @@ This is the single reference for setting up a basic home server on Linux with a 
 
 Start with a minimal secure SSH and firewall configuration.
 
+### Install the base system
+
+Install Ubuntu Server or another supported Linux distribution. During installation, select the OpenSSH server package if the installer offers it, and create a normal administrative user. Do not use the root account for routine administration.
+
+After installation, update the system:
+
+```bash
+sudo apt update
+sudo apt upgrade -y
+```
+
+### Verify SSH is running
+
+```bash
+sudo systemctl status ssh --no-pager
+sudo systemctl enable --now ssh
+```
+
+The service should report `active (running)`.
+
+### Configure a stable local IP
+
+Find the current address and network interface:
+
+```bash
+ip address
+ip route
+```
+
+For most home networks, a router DHCP reservation is safer and easier than manually configuring a static address on the server. Reserve an address such as `192.168.1.50` for the server's MAC address in the router.
+
+If you configure the address with Netplan instead, first identify the interface name, then edit the appropriate YAML file:
+
+```bash
+sudo nano /etc/netplan/01-netcfg.yaml
+```
+
+Example Ethernet configuration:
+
+```yaml
+network:
+  version: 2
+  ethernets:
+    enp0s3:
+      dhcp4: false
+      addresses:
+        - 192.168.1.50/24
+      routes:
+        - to: default
+          via: 192.168.1.1
+      nameservers:
+        addresses:
+          - 1.1.1.1
+          - 8.8.8.8
+```
+
+Replace the interface, server address, gateway, and DNS addresses with values from your network. Test carefully because an incorrect network file can disconnect the server:
+
+```bash
+sudo netplan try
+sudo netplan apply
+ip address
+ip route
+```
+
 ### What this does
 - installs OpenSSH
 - enables SSH
@@ -83,61 +148,7 @@ TRUSTED_IPS=(
 SSH_PORT=22
 ```
 
-### Run it
-
-```bash
-sudo bash /path/to/home_server_setup.sh
-```
-
-If you want to keep it as a script file, this is the shell content:
-
-```bash
-#!/bin/bash
-
-echo "[*] Starting Linux home server minimal setup..."
-
-TRUSTED_IPS=(
-  "192.168.1.10"
-  "192.168.1.11"
-)
-SSH_PORT=22
-
-echo "[*] Installing OpenSSH server if missing..."
-sudo apt update
-sudo apt install -y openssh-server
-
-echo "[*] Starting and enabling SSH..."
-sudo systemctl start ssh
-sudo systemctl enable ssh
-
-echo "[*] Applying minimal firewall..."
-sudo iptables -F
-sudo iptables -X
-sudo iptables -t nat -F
-sudo iptables -t mangle -F
-
-sudo iptables -P INPUT DROP
-sudo iptables -P FORWARD DROP
-sudo iptables -P OUTPUT ACCEPT
-
-sudo iptables -A INPUT -i lo -j ACCEPT
-sudo iptables -A INPUT -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT
-
-for ip in "${TRUSTED_IPS[@]}"; do
-    sudo iptables -A INPUT -p tcp -s "$ip" --dport "$SSH_PORT" -m conntrack --ctstate NEW -j ACCEPT
-    sudo iptables -A INPUT -p icmp -s "$ip" -j ACCEPT
-done
-
-sudo iptables -A INPUT -m limit --limit 5/min -j LOG --log-prefix "FIREWALL DROP: " --log-level 7
-sudo iptables -A INPUT -j DROP
-
-echo "[*] Saving firewall rules..."
-sudo apt install -y iptables-persistent
-sudo netfilter-persistent save
-
-echo "[*] Minimal firewall applied."
-echo "[*] Verify SSH access from a trusted device before logging out."
-```
+Follow the SSH, firewall, and verification steps in this guide rather than running an old helper script. Keep one SSH session open while applying firewall changes so you can recover if a rule is incorrect.
 
 ### Minimum secure SSH checklist
 
@@ -159,40 +170,14 @@ Expected result:
 
 If your server is a laptop or physically exposed machine, disable USB storage and keep the lid from suspending the machine.
 
-### Run it
+For a laptop server, you can optionally disable USB mass storage and configure lid behavior. Treat these as separate, hardware-specific changes and test that they do not interfere with maintenance or recovery.
 
 ```bash
-sudo bash /path/to/home_server_physical_hardening.sh
-```
-
-The shell logic is:
-
-```bash
-#!/bin/bash
-
-echo "Disabling USB storage..."
-BLACKLIST_FILE="/etc/modprobe.d/blacklist-usb.conf"
-
-sudo bash -c "cat > $BLACKLIST_FILE <<EOF
-# Disable USB storage devices
-blacklist usb_storage
-EOF"
-
+printf '%s\n' 'blacklist usb_storage' | sudo tee /etc/modprobe.d/blacklist-usb.conf
 sudo update-initramfs -u
-
-echo "Configuring lid close behavior..."
-gsettings set org.gnome.settings-daemon.plugins.power lid-close-ac-action 'nothing'
-gsettings set org.gnome.settings-daemon.plugins.power lid-close-battery-action 'nothing'
-
-echo "Verifying configuration..."
-if grep -q "blacklist usb_storage" "$BLACKLIST_FILE"; then
-    echo "USB storage blacklist applied."
-else
-    echo "USB storage blacklist NOT applied."
-fi
 ```
 
-This is useful if you want the machine to stay available when closed or to reduce removable media attack paths.
+This reduces removable-media attack paths, but it also prevents normal USB storage use. Do not apply it until you have another recovery method.
 
 ---
 
@@ -536,59 +521,65 @@ The simplest reasonable setup is:
 
 Use this order:
 
-```bash
-# 1) Basic setup
-sudo bash home_server_setup.sh
-
-# 2) Optional physical hardening
-sudo bash home_server_physical_hardening.sh
-
-# 3) Advanced hardening: SSH + firewall + fail2ban + VPN + updates
-sudo bash essential_home_server_isp_minded.sh
-```
+1. Install the base system and establish a stable local address.
+2. Confirm SSH works from a trusted client using an SSH key.
+3. Validate `sshd_config`, then disable password authentication.
+4. Apply the default-deny firewall and verify access from a second session.
+5. Enable Fail2Ban and automatic security updates.
+6. Add WireGuard before allowing remote administration.
+7. Review listening services, logs, and backups regularly.
 
 This is the simplest way to reason about the process, and it keeps the server setup understandable for a beginner while still giving a stronger baseline for real-world use.
 
 ---
 
-## 4. Recommended home-server baseline
+## 7. Daily administration
 
-The simplest reasonable setup is:
-
-1. install the server OS
-2. enable SSH
-3. restrict SSH to trusted LAN IPs
-4. enable a firewall
-5. set a static IP or router reservation
-6. enable automatic updates
-7. add VPN access if you need remote access
-8. optionally enable Pi-hole for DNS filtering
-
----
-
-## 5. Security notes
-
-- Do not expose SSH to the whole internet unless you intentionally want that risk.
-- Use key-based authentication instead of passwords.
-- Back up important config files before editing them.
-- Reboot after any kernel, storage, or USB changes.
-- If your server is remote, prefer WireGuard or another VPN for access.
-
----
-
-## 6. Final practical flow
-
-Use this order:
+Connect from another trusted computer:
 
 ```bash
-# 1) Basic setup
-sudo bash home_server_setup.sh
-
-# 2) Optional physical hardening
-sudo bash home_server_physical_hardening.sh
-
-# 3) Advanced hardening if needed
-sudo bash essential_home_server_isp_minded.sh
+ssh youruser@192.168.1.50
 ```
 
-This is the simplest way to reason about the process, and it keeps the server setup understandable for a beginner.
+Copy a file to the server:
+
+```bash
+scp file.txt youruser@192.168.1.50:/home/youruser/
+```
+
+Apply routine updates:
+
+```bash
+sudo apt update
+sudo apt upgrade -y
+```
+
+Review listening services and investigate anything unexpected:
+
+```bash
+sudo ss -tulpn
+```
+
+Review recent SSH authentication activity:
+
+```bash
+sudo journalctl -u ssh --since today
+```
+
+## 8. Final result
+
+Before treating the server as ready, confirm that it has:
+
+- a stable local address
+- a normal administrative user
+- SSH key authentication
+- password login disabled after key testing
+- root login disabled
+- SSH restricted with `AllowUsers`
+- a default-deny inbound firewall
+- SSH limited to the LAN or VPN
+- Fail2Ban enabled when SSH is reachable from a wider network
+- automatic security updates enabled
+- no unexpected listening services
+
+This provides a practical private home-server baseline without exposing unnecessary services to the internet.
