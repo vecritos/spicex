@@ -1,6 +1,7 @@
 # cybersecurity
 
 > Cybersecurity by duane_c_wilson
+> it is not paranoia it is experience
 
 vocabulary | definition
 ---|---
