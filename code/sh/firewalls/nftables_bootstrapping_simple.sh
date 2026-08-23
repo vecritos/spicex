@@ -1,100 +1,60 @@
-#!/bin/bash
-# =========================================
-# nftables Bootstrapping Firewall
-# IPv4 + Dynamic GitHub Restriction
-# =========================================
+#!/usr/bin/env bash
+set -euo pipefail
 
-echo "[*] Starting nftables bootstrapping..."
+SSH_PORT="${SSH_PORT:-22}"
 
-read -p "Allow SSH access? (y/n) " ALLOW_SSH
-read -p "Allow ping (ICMP)? (y/n) " ALLOW_PING
-read -p "Allow GitHub access? (y/n) " ALLOW_GIT
+if ! command -v nft >/dev/null 2>&1; then
+    echo "[*] nftables is not installed. Installing it now..."
+    if command -v apt-get >/dev/null 2>&1; then
+        sudo apt-get update
+        sudo apt-get install -y nftables
+    else
+        echo "Error: nft is required but no supported package manager was found."
+        exit 1
+    fi
+fi
 
-# Install nftables if missing
-sudo apt-get update
-sudo apt-get install -y nftables curl
+echo "[*] Applying standard nftables firewall for Git, browser traffic, and outbound SSH..."
 
-# Enable nftables service
-sudo systemctl enable nftables
-sudo systemctl start nftables
-
-# Flush existing rules
+sudo systemctl enable nftables 2>/dev/null || true
+sudo systemctl start nftables 2>/dev/null || true
 sudo nft flush ruleset
 
-# -----------------------------
-# Base Ruleset
-# -----------------------------
-sudo nft add table inet firewall
+sudo nft add table inet spicex_firewall
+sudo nft 'add chain inet spicex_firewall input { type filter hook input priority 0; policy drop; }'
+sudo nft 'add chain inet spicex_firewall forward { type filter hook forward priority 0; policy drop; }'
+sudo nft 'add chain inet spicex_firewall output { type filter hook output priority 0; policy drop; }'
 
-sudo nft 'add chain inet firewall input { type filter hook input priority 0; policy drop; }'
-sudo nft 'add chain inet firewall forward { type filter hook forward priority 0; policy drop; }'
-sudo nft 'add chain inet firewall output { type filter hook output priority 0; policy drop; }'
+# Allow loopback traffic
+sudo nft add rule inet spicex_firewall input iifname "lo" accept
+sudo nft add rule inet spicex_firewall output oifname "lo" accept
 
-# Allow loopback
-sudo nft add rule inet firewall input iif lo accept
-sudo nft add rule inet firewall output oif lo accept
+# Allow return traffic for established sessions
+sudo nft add rule inet spicex_firewall input ct state established,related accept
+sudo nft add rule inet spicex_firewall output ct state established,related accept
 
-# Allow established connections
-sudo nft add rule inet firewall input ct state established,related accept
-sudo nft add rule inet firewall output ct state established,related accept
+# Allow DNS lookups
+sudo nft add rule inet spicex_firewall output udp dport 53 accept
+sudo nft add rule inet spicex_firewall output tcp dport 53 accept
 
-# -----------------------------
-# Optional SSH
-# -----------------------------
-if [[ "$ALLOW_SSH" =~ ^[Yy]$ ]]; then
-    read -p "Enter SSH port (default 22): " SSH_PORT
-    SSH_PORT=${SSH_PORT:-22}
-    sudo nft add rule inet firewall input tcp dport $SSH_PORT ct state new accept
-    echo "[*] SSH allowed on port $SSH_PORT"
-fi
+# Allow web browsing and Git over HTTPS/HTTP
+sudo nft add rule inet spicex_firewall output tcp dport { 80, 443 } ct state new,established accept
 
-# -----------------------------
-# Optional Ping
-# -----------------------------
-if [[ "$ALLOW_PING" =~ ^[Yy]$ ]]; then
-    sudo nft add rule inet firewall input ip protocol icmp icmp type echo-request accept
-    echo "[*] Ping allowed"
-fi
+# Allow outbound SSH to other computers
+sudo nft add rule inet spicex_firewall output tcp dport "$SSH_PORT" ct state new,established accept
 
-# -----------------------------
-# GitHub Restriction
-# -----------------------------
-if [[ "$ALLOW_GIT" =~ ^[Yy]$ ]]; then
-    echo "[*] Fetching official GitHub IP ranges..."
+# Optional ICMP diagnostics
+# sudo nft add rule inet spicex_firewall input ip protocol icmp accept
+# sudo nft add rule inet spicex_firewall output ip protocol icmp accept
 
-    # Temporary DNS + HTTPS for metadata fetch
-    sudo nft add rule inet firewall output udp dport 53 accept
-    sudo nft add rule inet firewall output tcp dport 53 accept
-    sudo nft add rule inet firewall output tcp dport 443 accept
+# Log dropped packets without flooding the logs
+sudo nft add rule inet spicex_firewall input limit rate 5/minute log prefix "DROP-IN: " counter drop
+sudo nft add rule inet spicex_firewall output limit rate 5/minute log prefix "DROP-OUT: " counter drop
 
-    GITHUB_META=$(curl -s https://api.github.com/meta)
-
-    GIT_IPS=$(echo "$GITHUB_META" | \
-        grep -Eo '"([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+/[0-9]+)"' | tr -d '"')
-
-    # Remove temporary open HTTPS
-    sudo nft delete rule inet firewall output handle $(sudo nft -a list chain inet firewall output | grep 'tcp dport 443 accept' | awk '{print $NF}')
-
-    # Create GitHub set
-    sudo nft add set inet firewall github_ips '{ type ipv4_addr; flags interval; }'
-
-    for ip in $GIT_IPS; do
-        sudo nft add element inet firewall github_ips { $ip }
-    done
-
-    # Allow HTTPS only to GitHub IPs
-    sudo nft add rule inet firewall output ip daddr @github_ips tcp dport 443 ct state new,established accept
-
-    echo "[*] GitHub access restricted to official published ranges."
-fi
-
-# -----------------------------
-# Logging (rate limited)
-# -----------------------------
-sudo nft add rule inet firewall input limit rate 5/minute log prefix \"NFT-Dropped-IN: \" drop
-sudo nft add rule inet firewall output limit rate 5/minute log prefix \"NFT-Dropped-OUT: \" drop
-
-# Save config permanently
+# Save and reload the ruleset
 sudo nft list ruleset | sudo tee /etc/nftables.conf > /dev/null
+sudo nft -f /etc/nftables.conf
 
-echo "[*] nftables bootstrapping complete."
+echo "[*] Standard firewall applied."
+echo "[*] Allowed: DNS, browser traffic on 80/443, Git over HTTPS, and outbound SSH on port $SSH_PORT."
+echo "[*] All inbound traffic is blocked by default except established/related replies."
