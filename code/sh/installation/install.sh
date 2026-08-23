@@ -3,12 +3,10 @@ sudo apt-get install python3-neovim -y
 sudo apt install stellarium -y
 sudo apt install pandoc texlive -y
 
-pip install pillow reportlab
-# gotte be in a venv
-
 sudo apt-get install python3-tk
 # dont forget to add -y everywhere
 sudo apt-get install -y tmux
+sudo apt-get install -y python3
 sudo apt-get install -y python3-venv
 sudo apt-get install -y python-is-python3
 sudo apt-get install -y tor
@@ -23,3 +21,10 @@ sudo apt-get install -y fwupd
 sudo apt-get install -y tpm2-tools
 sudo apt-get install -y pciutils
 sudo apt-get install -y dmidecode
+
+cd
+python3 -m venv .venv
+. .venv/bin/activate # for linux
+
+# gotte be in a venv
+pip install pillow reportlab
