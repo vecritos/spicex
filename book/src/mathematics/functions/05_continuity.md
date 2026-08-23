@@ -9,4 +9,4 @@ if $f$ is not continuous at point $c$ we say that $f$ is discontinuous at point 
 - Removable (missing value)
 - Infinate or Essential (vertical asymptotes)
 - Jump (value moves from one part of the graph to another, piecewise)
-- Oscillating (things like $sin(\frac{1}{x})$)
+- Oscillating (things like $sin(\frac{1}{x})$)i'm always down for whatever except thursdays i have baseball practice
