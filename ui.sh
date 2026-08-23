@@ -11,6 +11,7 @@ alias li='llog;git add --all;git commit -m "modi comm";git push'
 alias dn='sudo echo "HandleLidSwitch=ignore" >> /etc/systemd/login.conf'
 alias lc='clear;ls -A'
 alias lsc='clear;lsblk;ls -A'
+alias encrypt_secrets='gpg --batch --yes --symmetric --cipher-algo AES256 secret.txt'
 alias gl='git log --graph --pretty=oneline --abbrev-commit'
 alias tt='clear;ls -A;tree -L 2 .'
 

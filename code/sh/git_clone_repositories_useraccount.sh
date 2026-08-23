@@ -1,27 +1,14 @@
 #!/bin/bash
 
-# Define an array containing the Git repository URLs
+# define git stuff to clone using ssh
+username="my-git-username"
 repos=(
-    "tmp-niko"
-    "tmp-envi"
-    "del-envs"
-    "niko"
-    "tree"
-    "tmp-envs"
-    "invs"
-    "ni"
-    "nilo"
-    "pathogens"
-    "killio"
-    "bits"
-    "blueshell"
-    "archive"
-    "watney"
+    "tmp-uno"
+    "tmp-dos"
 )
 
-# Loop over each string element in the array
 for repo in "${repos[@]}"; do
     echo "Cloning: $repo"
-    git clone "git@github.com:vecritos/$repo.git"
+    git clone "git@github.com:$username/$repo.git"
 done
 
