@@ -1,5 +1,7 @@
 # Depression in Students
 
+> condensed notes from a depression study previously included
+
 ## Abstract
 
 with the ever increasing mental health issues among younger generations as technology is adopted into society
@@ -76,7 +78,3 @@ this would provide students with suggestions as to how to improve their mental h
 it is easy to feel as though you are being data mined online but for no benefit to yourself other than the service you are using
 this would provide little to no lifelong benefit and we seek to change that to make it so the data you provide to these services
 is immediately useful to yourself and allows you to track your progress along the way bringing incremental change to the forefront of building success
-
-## Citations
-
-
