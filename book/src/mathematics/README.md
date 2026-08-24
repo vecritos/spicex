@@ -1,5 +1,7 @@
 # README: memel > mathematics
 
+> there may be a typo somewhere please check before using the contents in this folder, i will revise as i go
+
 These are just temporary notes pulled from Prof. Thumser that I will be readding in some way, it's a long list so I'll just keep the basics and expand upon it later# Dedication
 
 For Mr. Thumser
