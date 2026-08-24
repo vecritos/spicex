@@ -1,0 +1,3 @@
+# Mean Value Theorem for Derivatives
+
+if $f(x)$ is continous on $[a,b]$ and differentiable on $(a,b)$ then there exists a point $x=c$ such that $a \lt c \lt b$ and $f'(c)=\frac{f(b)-f(a)}{b-a}$. That is at some point on (a,b) the slope of the tangent line equals the slope of the seccnt line. *in the example it shows the slope of the line formed by f(a) and f(b) is equal to the slope of the tangent line at some point in the "hill" formed by the function f* 
