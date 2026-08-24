@@ -1,5 +1,11 @@
 # Polar
 
+## Description
+
+coordinates can be described using the direction $\theta$ and the distance from the origin $r$ denoted $[r, \theta]$
+
+conversion between cartesian and polar occurs with trigonometry and a right triangle
+
 ## Things to know how to do
 
 > function of tangent line
