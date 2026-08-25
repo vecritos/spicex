@@ -14,9 +14,9 @@ Chemistry (feedback loops)
 | Positive Intent       | Supportive       | Overarguing      |
 | Negative Intent       | Absentee         | Unrespected      | 
 
-- Quality Time 
-- Physical Touch 
-- Acts of Service 
-- Words of Affirmation 
-- Receiving Gifts 
+- Quality Time for Isolators
+- Physical Touch for Avoidance
+- Acts of Service for Not Asking for Help
+- Words of Affirmation for Going Silent
+- Receiving Gifts for Impulsive Shopping
 
