@@ -27,7 +27,6 @@ def parse_key_values(pairs):
 
 
 # ----------------- Core Functions -----------------
-
 def list_metadata(path, verbose=False):
     img = Image.open(path)
 
@@ -178,7 +177,7 @@ Examples:
     python3 scriptyboi.py -r image.png Author Software
 
   Add metadata:
-    python3 scriptyboi.py -a image.png Author=David CaseID=042
+    python3 scriptyboi.py -a image.png Author=Name CaseID=042
 
 Notes:
   • Pixel hashes allow proof of non-destructive edits
