@@ -22,7 +22,7 @@ def url_to_qrcode(url: str, output_file: str = "qrcode.png"):
     output_path = Path(output_file)
     img.save(output_path)
 
-    print(f"✅ QR code saved to: {output_path.resolve()}")
+    print(f"QR code saved to: {output_path.resolve()}")
 
 
 def main():
@@ -36,7 +36,7 @@ def main():
     try:
         url_to_qrcode(url, output)
     except Exception as e:
-        print(f"❌ Error: {e}")
+        print(f"Error: {e}")
         sys.exit(1)
 
 
