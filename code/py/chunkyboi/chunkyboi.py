@@ -175,7 +175,7 @@ def main():
     if args.transform:
         transform_fn = load_transform(args.transform)
     else:
-        print("⚠️  Transform not provided, running default endian transform")
+        print("Transform not provided, running default endian transform")
         transform_fn = default_transform
 
     run_pipeline(
@@ -186,7 +186,7 @@ def main():
         chunk_size=args.chunk_size,
     )
 
-    print("✅ Processing complete")
+    print("Processing complete")
 
 if __name__ == "__main__":
     main()
