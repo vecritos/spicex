@@ -68,3 +68,5 @@ drive towards the essence of a person,
 coordination among our differences can be found amidst documentation,
 allow leadership and personality to shine through in assistance,
 by means of a rigid yet flexible system,
+
+- pen name: niko
