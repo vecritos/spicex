@@ -8,6 +8,7 @@ ap pa                  | .. .. .. .. .. .. ..
 ye et                  | nickname for the person who can throw the more dense bullet like aerodynamic (-ham-)pigskin over the largest bridge in the world via (one owo arm), aka hampskins
 xi ti                  | small pasta, small meme, short jokes, etc.., small edits like an update on eta(s) or a negotiation agreement (jaki role self-assignment) accepted, etc..
 bo at                  | our way out of here
+bo ga  | booga         | heebiejeebies
 po ke  | pokae[mon]     | the three people on the planet who are allowed a single poke each, they poke somebody and say poke, and then that person becomes a poke, and so on, if the original three are poked by someone they harvest the experience points, but should not tell, because then nobody will poke them, they must feign dismay
 pu bs  | pu++bs        | sharing things on the public servers aka internet or possibly intranet or bluetooth
 bo ki  | booky         | paper books library, mostly poetry or arts that can't fit in to the town's lbki, essentially the largest of the little (house libraries)
