@@ -21,9 +21,10 @@
 - chassis
   - suspension
   - chain, belt, or driveshaft
-- stands
+- stands and parking
   - side stand (kickstand)
   - center stand
+  - parking ettiquette and safety
 - other
   - helmet
   - fuel

@@ -1,0 +1,1 @@
+capacity to combine different DNA sequences from one species into another is useful, for instance recreating the cancer reduction gene in elephants for human DNA results in less cancer for homosapiens

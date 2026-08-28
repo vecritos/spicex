@@ -1,3 +1,8 @@
+“Congrats, you crossed the event horizon.
+Now die instantly for logical consistency.”
+
+- ChatGPT-5 20260203000000
+
 1. Dark Matter
    Related Quantum Mechanics Problem / Aspect:
    Nature of dark matter particles — candidates like WIMPs or axions involve quantum field theory beyond the Standard Model.
