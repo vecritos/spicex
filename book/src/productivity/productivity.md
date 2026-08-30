@@ -35,11 +35,14 @@
 - organization, industry, setting
   - goal setting (identification, importance)
     - asking why until you drive towards generic terms
+      - > effort is a journey towards success
+        - why do you want to put effort towards something and how do you want that effort to be applied long-term?
   - personality finding (strengths and weaknesses, values)
   - future minded (location, implementation)
   - schedule timing activity (how much time does it feel like you spend on tasks)
 - relevant history
   - i make my goals simple and long term, because it allows lots of freedom to modify or adapt to change as the future advances on us
+  - moon estimates and the ability to pic things that are beyond what you currently know how to achieve and then working towards them
 - constraints (budget, time, regulation, tech)
   - the goal is to make goals that will stay permanent, if you set your mind to something you want it to be something that can be broken down even if the end goal seems unachievable at the time
   - we'll try to approach the situation between two examples, a college student, and a short-order cook
@@ -47,6 +50,12 @@
     - the short-order cook does not have these time considerations, however it is a prime example on fitting education into daily activities
 - why the problem mattered then
   - problem mattered then because once completed it leaves a building block for the next stage of the plan
+  - problems that everybody has to solve (common examples pulled from offline)
+    - fitness (move your body)
+    - creativity (express yourself)
+    - knowledge (learn something)
+    - mindset (grow personally)
+    - money (income stream)
 - why should i care, and why was this hard?
   - it's hard when you feel you haven't achieved anything so it's important to keep a log of your past achievements a cv this will allow you to look back when you say "i haven't done anything", "how can i do this"
   - caring is important because you might not care about what other people have going on, but it's important to care a little about what you're doing
@@ -66,10 +75,17 @@
 
 - what you were trying to learn or change
   - opportunistic scheduling
+    - do the thing that has the longest long term impact first
+      - lots of time people mean working out, but it can be a productivity task if you like a different exercise schedule 
+        - work with your schedule until it matches up to what you need to be doing in the moment or what you need to keep going the next day
+          - e.g. for me i was dealing with anxiety so instead of working out first, i'd save it over the day the anxiety would build and i needed the release and reset before bed to help with sleep, worked great
   - worst case scenario planning and acceptance
     - peak mental health neurotransmitter balancing, bias reduction
     - moving worst case scenarios towards the baseline
+      - > patience is a virtue, but persistence to the point of success is a blessing
 - examples reduce churn by X%
+  - > when faced without a challenge, make one
+    - constantly pushing yourself to do better in life
 - understand cause of failure
   - > on choices: small choices become actions, actions become habits, habits become our way of life
   - cause of failure is often changing too much (positive additions) in a short timespan to change the outcome
@@ -77,6 +93,7 @@
     - adding new systems for organization or productivity without fully embracing your sense of approaches
 - evaluate feasibility of approach Y
   - working towards a common goal with study groups, meetings, forums (async)
+    - keep notes short
 - test hypothesis Z
   - evaluating addition of items or organizations to your abilities to get things done
     - what benefit does this do in your grand goal 
@@ -94,6 +111,17 @@
     - is this what makes me happy or is there an additional small thing i can add that over time will make it easier to cope with 
     - (adding a car charger because i always like listening to podcasts or music in the car)
     - (finding a new method to study a topic i enjoy so that i can exercise and keep up to date about common scientific topics)
+  - broken down by a3 problem solving
+    - prepared by
+    - last updated
+    - purpose
+    - target tasks or numbers or feelings if the goal is to strengthen a relationship
+    - status
+    - root cause
+    - champions or accountabuddies 
+    - implementations
+    - target dates
+    - benefits
 - tools or techniques used
   - reallocation of time towards important or value tasks
     - adherence to long term goals
@@ -101,6 +129,7 @@
   - where do you slice your bread
   - skill expansion
     - build upon previously learned skills
+      - > taiichi ohno: reduce non-value adding wastes
     - work towards the common goal
 - sample size / scope
   - confirmation bias could be relevant here however i'll pull in more supportive topics
@@ -124,10 +153,29 @@
 - observations
   - embrace the freedom you're given
     - work creatively
+  - question but don't doubt (continuous improvement comes from the ability to remain objective in observations rather than doubt past decisions)
+    - doubt
+      - isolates yourself from the team
+      - inflexiblity
+      - thinking in absolutes
+    - questioning
+      - brings clarity of ideals
+      - brings additional topics into fold
+      - allows for problem/solution pair expansion
 - document analysis
   - not many documents were analyzed in the generation of the report, this was mostly peer-to-peer observations
   - organize, digitize, secure documents 
-- models
+- models (things that are helpful for framing and reframing your questions and responses in order to dive deeper at the root of the topic at hand)
+  0. aquisition, sentiment, investment, ability (a.s.i.a.) for inventory
+  1. capability, reliability, efficiency, wages (c.r.e.w.) for safety
+  2. people, enjoyments, responsability, intelligence (p.e.r.i.) for alignment
+  3. situation, task, action, result (s.t.a.r.) for positives
+  4. logistics, actions, understanding, goals, hope (l.a.u.g.h.) for learning
+  5. explain, demonstrate, guide, enable (e.d.g.e.) for teaching
+  6. circumstances, action, result (c.a.r.) for negatives
+  7. citation, advancement, research, science (c.a.r.s.) for research
+  8. system, efficiency, new, technology (s.e.n.t.) for automations
+  9. cry, relative amount of time to cry, yesterday all my troubles seemed so far away (c.r.y.) for emotions
 - algorithms
   - ability to productively map out futures
 - frameworks
@@ -153,6 +201,10 @@ no heavy interpretation yet, save that for the next section.
 - why the results occured
 - how they relate to prior research or theory
 - trade-offs and tensions
+  - organization of team, accountability of tasks, planning of long term goals
+    - ability to incrementally adjust the metrics and people working on the long term goals yields a better result next time, so on and so forth, until the "naturally optimized" solution presents itself
+      - continuous improvement
+      - > jeff: everyday you're not getting stronger [in some way] you're getting weaker
 - unexpected outcomes
 
 ## Solution
@@ -201,8 +253,11 @@ no heavy interpretation yet, save that for the next section.
 - interview guides
 - code
 - diagrams
+  - moon estimates
 
 ## Additional Inspiration Members 
 
 - ralph walso emerson
+- peter's laws subset
+
 
