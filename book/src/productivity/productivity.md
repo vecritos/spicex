@@ -21,7 +21,7 @@
     - it happens, it's not ideal, but often times there's another reason that can help isolate better futures
 - who/what was studied
   - life experiences as well as several case studies or external references
-    - humanocracy (ability to identify and learn from people who are not cxo's at a company)
+    - humanocracy (early chapters -- ability to identify and learn from people who are not cxo's at a company)
 - what was done
   - this is a rewritten version of the original module hosted at the university of toledo
 - what changed
