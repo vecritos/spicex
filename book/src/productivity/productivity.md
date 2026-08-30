@@ -30,6 +30,16 @@
 - why it matters
   - it matters because our inate ability to make our life simpler and more efficient assists in being the kind of people that can take our time to do what matters in life rather than running around always chasing something that we may never achieve
 
+```md 
+Many of us have frustration feeling we have not the time to approach all that we want to do in life.
+The purpose of this revised presentation-module is to provide a mental framework in which to approach productivity rather than productivity tricks.
+Logical approaches to increasing time available to be allocated towards activities are presented and available for critique.
+Techniques used in the original presentation have been ported over towards a written version.
+
+> potential inclusion (still reading)
+> The text is written with new regards to Humanocracy and provides an underlying framework in which to increase employee or student capacity for creative thinking within the parent framework.
+```
+
 ## background / context
 
 - organization, industry, setting
@@ -40,6 +50,9 @@
   - personality finding (strengths and weaknesses, values)
   - future minded (location, implementation)
   - schedule timing activity (how much time does it feel like you spend on tasks)
+  - leadership packet
+    - leaders you find interesting
+    - topics that interest you as potential hobbies to keep up to date on
 - relevant history
   - i make my goals simple and long term, because it allows lots of freedom to modify or adapt to change as the future advances on us
   - moon estimates and the ability to pic things that are beyond what you currently know how to achieve and then working towards them
