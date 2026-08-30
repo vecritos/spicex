@@ -49,11 +49,13 @@ Techniques used in the original presentation have been ported over towards a wri
       - > effort is a journey towards success
         - why do you want to put effort towards something and how do you want that effort to be applied long-term?
   - personality finding (strengths and weaknesses, values)
+    - > humanocracy, topeka: rotate through different roles to express various aspects of being you an nail down the hobbies you cannot avoid doing because they're core to who you are, opportunity cost, opportunity
   - future minded (location, implementation)
   - schedule timing activity (how much time does it feel like you spend on tasks)
   - leadership packet
     - leaders you find interesting
     - topics that interest you as potential hobbies to keep up to date on
+  - > humanocracy: skills, incentives, information to be self-managing  
 - relevant history
   - i make my goals simple and long term, because it allows lots of freedom to modify or adapt to change as the future advances on us
   - moon estimates and the ability to pic things that are beyond what you currently know how to achieve and then working towards them
