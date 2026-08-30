@@ -38,6 +38,7 @@ Techniques used in the original presentation have been ported over towards a wri
 
 > potential inclusion (still reading)
 > The text is written with new regards to Humanocracy and provides an underlying framework in which to increase employee or student capacity for creative thinking within the parent framework.
+> at current understanding humanocracy is about how to restructure the organization to empower the people, while this module serves as how do you restructure yourself to empower your future
 ```
 
 ## background / context
