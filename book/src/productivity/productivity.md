@@ -1,36 +1,12 @@
-# Productivity
+# Selfocracy
 
-> uber-rough skeleton of the module but in written format now
+> my hobby project while I read Humanocracy (Hamel + Zanini)
+> please note I have not finished the book but am reading it alongside drafting this document
+> uber-rough skeleton of the module but in written format now instead of lecture-presentation format
 > went with a argumentative report format for modification with ELI 
 > document is likely to change drastically
+> I'll find more data as I go along but for now it's more of an opinionated piece 
 
-## Title
-
-- clear > clever
-
-## Abstract
-
-- limit to a page
-- read this and you know the whole story
-
-### Questions abstract answers
-
-- what was the problem
-  - problem identification comes from the feeling of not having enough time to approach tasks
-  - have had several experiences where i've run out of time or have not finished tasks
-    - it happens, it's not ideal, but often times there's another reason that can help isolate better futures
-- who/what was studied
-  - life experiences as well as several case studies or external references
-    - humanocracy (early chapters -- ability to identify and learn from people who are not cxo's at a company)
-- what was done
-  - this is a rewritten version of the original module hosted at the university of toledo
-- what changed
-  - what's changed is it's been turned into a written document that can change over time
-  - some of the techniques used have been modified and moved towards a more complete walkthrough
-- why it matters
-  - it matters because our inate ability to make our life simpler and more efficient assists in being the kind of people that can take our time to do what matters in life rather than running around always chasing something that we may never achieve
-
-```md 
 Many of us have frustration feeling we have not the time to approach all that we want to do in life.
 The purpose of this revised presentation-module is to provide a mental framework in which to approach productivity rather than productivity tricks.
 Logical approaches to increasing time available to be allocated towards activities are presented and available for critique.
@@ -38,46 +14,82 @@ Techniques used in the original presentation have been ported over towards a wri
 
 > potential inclusion (still reading)
 > The text is written with new regards to Humanocracy and provides an underlying framework in which to increase employee or student capacity for creative thinking within the parent framework.
-> at current understanding humanocracy is about how to restructure the organization to empower the people, while this module serves as how do you restructure yourself to empower your future
-```
+> at my current understanding humanocracy is about how to restructure the organization to empower the people, while this module serves as how do you restructure yourself to empower your future
 
 ## background / context
 
-- organization, industry, setting
-  - goal setting (identification, importance)
-    - asking why until you drive towards generic terms
-      - > effort is a journey towards success
-        - why do you want to put effort towards something and how do you want that effort to be applied long-term?
-  - personality finding (strengths and weaknesses, values)
-    - > humanocracy, topeka: rotate through different roles to express various aspects of being you an nail down the hobbies you cannot avoid doing because they're core to who you are, opportunity cost, opportunity
-  - future minded (location, implementation)
-  - schedule timing activity (how much time does it feel like you spend on tasks)
-  - leadership packet
-    - leaders you find interesting
-    - topics that interest you as potential hobbies to keep up to date on
-  - > humanocracy: skills, incentives, information to be self-managing  
-- relevant history
-  - i make my goals simple and long term, because it allows lots of freedom to modify or adapt to change as the future advances on us
-  - moon estimates and the ability to pic things that are beyond what you currently know how to achieve and then working towards them
-- constraints (budget, time, regulation, tech)
-  - the goal is to make goals that will stay permanent, if you set your mind to something you want it to be something that can be broken down even if the end goal seems unachievable at the time
-  - we'll try to approach the situation between two examples, a college student, and a short-order cook
-    - the college student typically has access to resources designed to allow them to optimize their schedules and study
-    - the short-order cook does not have these time considerations, however it is a prime example on fitting education into daily activities
-- why the problem mattered then
-  - problem mattered then because once completed it leaves a building block for the next stage of the plan
-  - problems that everybody has to solve (common examples pulled from offline)
-    - fitness (move your body)
-    - creativity (express yourself)
-    - knowledge (learn something)
-    - mindset (grow personally)
-    - money (income stream)
-- why should i care, and why was this hard?
-  - it's hard when you feel you haven't achieved anything so it's important to keep a log of your past achievements a cv this will allow you to look back when you say "i haven't done anything", "how can i do this"
-  - caring is important because you might not care about what other people have going on, but it's important to care a little about what you're doing
-    - even if you're sad and the only thing you want to do is grab a blankie and look at memes then make searching and saving the funniest meme of the day your mission for relaxing
-      - it will provide a sense of purpose in moving forward because you can always come back to where you left off slightly happier than the day before
-        - think of this as a meme-context for the brain, priming and framing your mindset can assist with mentality, think of having the same morning routine 
+In order to have the skills, incentives, and information to be self-managing (*humanocracy*) within the expectations that the organization allows creative thinking it's good to take stock of your current situation.
+In this preliminary section we'll walk through a few activities that are good building blocks to identify and outline your pathway forward and create your own framework for which to build upon.
+
+For arguments sake we'll start off with why things matter, and they matter because you'll want to have a sense of control over your own life regardless of how hopelessly lacking your control over it is
+It's said the person who enjoys their job never works a day in their life, so we'll start off with a common breakdown seen online that showcases how hobbies can fit into your daily routines easier than expected.
+The breakdown is as follows you need ![five hobbies](https://www.reddit.com/r/IWantToLearn/comments/ouqnbt/iwtl_about_that_you_need_5_hobbies_things/) a fitness routine, a creative outlet, a knowledge builder, a mindset changer, and at least one income stream to keep everything working together. 
+Go ahead and make an expansive list of all the hobbies you have that fit into these categories, it's okay to have multiple in the same category for now, we'll breakdown how to isolate them. 
+Many times people hear "workout" and picture free-weights, but the best exercise is the one you do, so it's okay to get creative in your list of hobbies, treading water for ten minutes at the lake nearby counts.
+For creativity it's helpful to build this hobby into your income stream, humans are by nature creative problem solvers and so mitigating the *activation-energy* needed to perform the hobby will help it continue.
+  I'll use myself as an example here I am a programmer who reads and writes code, but for my creative hobby I enjoy reading and writing in english, an non-compiled but still thought provoking topic.
+Be honest with yourself, what do you truly enjoy? These do not have to be the hobbies you stick with forever, but right now choose what works for you. These are the basis for which we'll construct remainder of the plan.
+
+Next we'll create a holistic view of who you are as a person right now, a curriculum vitae (cv), depending on your profession it can vary in format, 
+  so a photographer might want a portfolio on social media, while me as a programmer might want a [website](https://ironsides.app)
+the importance of such documents stems from when talking about estimates and life directions it's easy to fall into the trap of "I haven't done anything with my life", "I can't do this" or any other self-defeating and counter-productive thought patterns.
+The curriculum vitae serves as a good counter-arguments to yourself because you'll start to focus on what experiences are you gaining at all moments and this can help. If you're working on something you wouldn't be proud to have on your curriculum vitae, and it doesn't fall into one of your five hobbies for mental and physical health, it's easy to nix it or remove it from your life or equipment list---as I believe the term was coined by [Mike Clelland](https://backpackinglight.com/author/mikeclelland/) for the purposes of removing items from backpacking gear lists. 
+
+It's important to care about what other things people have going on as well, and you don't always have to add something to your cv, but to have a fulfilling life you can start with the things that you want to define you in the future, if you want to give back, add a volunteer section to your cv and then work on expanding that list with more organizations that encourage volunteer work.
+
+My recommendation for relaxing hobbies, think a blanket and t.v. is to instead find a hobby that alters your mindset that is relaxing, for me this is reading, 
+  for extroverts it could be study groups or social mixers where they can mingle with people of varying backgrounds and learn something new through engaging with their peers. 
+I will make a small note that many of us enjoy memes, so to avoid doom-scrolling I like to organize a few memes until I come across one that makes me laugh and then I put my phone away and go back to my previous task.
+It's a good mental break, an influx of dopamine, and the habit of stopping when you've achieved a laugh prevents hours of scrolling past memes that are "moderately amusing". 
+In order to make it more personable I like to make faux-conversations up with the memes, as in I'll have two buckets and these will be the two members of the conversation, it helps me find meme-gold easier and get off my phone quicker.
+
+Now go over the previous hobby list and see if it's something productive, if not combine hobbies in the same category, rewrite how you perform the hobby, or nix the hobbies until you have isolated individual, exciting, hobbies for each subcategory of our list 
+
+Now that we have a list of things we enjoy, take some personality tests including but not limited to Emotional Intelligence Surveys, Myers-Briggs, SWOT Analysis, DISC Assessment, or the Big Five (OCEAN) to name a few.
+These will help you isolate how you move through the world in respect to your hobbies, feel free to revise the hobby list, however, keep in mind you'd be changing what you enjoy doing for what a test says you enjoy doing.
+Feel free to do these in groups or have external feedback on how you perform as a leader or person so you can get positive feedback how others interpret you as a person, it may show you that they did not know your hobbies all along.
+In the future establishing a baseline on who you are as a person will help you rotate through different roles (*humanocracy, topeka*) to express various aspects of being you an nail down the hobbies that help.
+This avoids the opportunity cost of doing a hobby you think, feel, or expect is expected of you when really the truth of who you want to be might be lurking at the pottery studio down the street.
+
+From these personality tests work towards identifying important values that are re-occurring in your results that coincide with your hobbies, these will be the framework for which we build out the long term goals.
+For these values identify a small handful of leaders who embody the base values you have created, and if you feel you are loosing touch with the world, use these leaders and the organizations they are a part of as an entry point back into the world in which you want to participate, focus on the positive, it will help with long-term productivity to not get swallowed by the negative news or events from around the world, however keep up on safety practices as this is a good thing to keep in mind
+
+With goal setting there are many formats SMART goals for instance, sometimes it can be hard to fit these categories so in this instance I prefer a personalized approach where you take your isolated hobbies and ask yourself where you'd want those skills to be in a few years, it can help to break your life into era's like the era of highschool, the era of going for an undergraduate degree, the era of early-on in your professional career. 
+Breaking down life segments in this way gives you permission to have long-term goals but also to not fall into traps of what age you're accomplishing tasks on, sometimes it's okay to be ahead or behind of a communities expectations.
+So at the end of this next era what is it that I want to have accomplished in these five categories, it could be run a 5K, write a poem, make $10K, earn a level on an online skill platform, perform my favorite song, or find peace. 
+
+Now dig down into the goals until you can fully answer why you want these goals in this era. Rephrase the goals until you can easily answer why with a "because I enjoy doing this" these will help you identify flaws in your motivation.
+The location and implementation of a goal becomes clearer when you dig down into the "why" behind your original goal statement, the test of the "why"s will result in goals that are simpler and more to the point of changing your life direction by acquiring new skills and experience rather than grind-culture. 
+
+For example, 
+
+- if your goal is financial freedom 
+- why: I want more time to spend with my family
+- why: I feel we've been drifting apart
+- why: I'm worried I spend too much time working
+- why: I keep focusing on work so we can have financial freedom
+- counter-argument: I'll focus on a career switch in the next two years that gives better hours
+- goal: I'm going to focus my knowledge goal on getting a new certification in economics so I can switch my focus
+
+### Moon Estimates
+
+In the agile community there's a method using the fibonacci sequence to estimate task effort, in one of my more agile organizations we used 21 to indicate about a sprint's worth of work, in my personal life I use a similar approach. 
+When dealing with life or project directions, often times I'll set goals with a moon estimate to represent a constant improvement framework change,
+the process of working on the hobby is itself is rewarding so I adapt how I approach tasks and assign the moon estimate, 
+for instance if you read [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear it will discuss how to form habits 
+and you can use the `30-60-90` breakdown mentality with a moon-estimate to indicate that you're attempting to make a lifestyle change 
+because "if you fall in love with the process rather than the product, you don't have to wait to give yourself permission to be happy. you can be satisfied anytime your system is running." *reddit user beardedglass* 
+
+This can compound and eventually you're surrounded by new approaches to life, keeping the novelty, and satisfying the "change addicts" (*humanocracy*)
+The smaller estimates like 8, 13, or 21 become metrics by which you can evaluate your progress and whether you're enjoying it, for instance in the example of volunteering you can say for my moon estimate I'm going to volunteer more at a local charity, and for a sub-goal it may make sense for every time I complete 8 (or go to a weekly event) I will add it to my cv, and every time I meet somebody in need twice I'll consider them a new friend (a 13) it allows for a quantitative and qualitative metric based on the original goal of changing the world for the better through volunteering. 
+
+In terms of why you should care about this, it's your life, I won't tell you what to do with it, only provide possible methods of how you go about it. 
+
+---
+
+**NOTE at this point I've reached the end of the rough draft and the remainder of this document is notes for possible inclusion**
+
+---
 
 ## Problem Statement
 
@@ -184,15 +196,13 @@ Techniques used in the original presentation have been ported over towards a wri
     - capacity for improvement is the nurturing nature of the beast
     - money will follow later on in life if you stick to what motivates you
 - assumptions
-  - > if you fall in love with the process rather than the product,
-  - > you don't have to wait to give yourself permission to be happy.
-  - > you can be satisfied anythime your system is running.
-  - > beardedglass
   - (process of working and developing instead of product of being done with a task)
   - (create an enjoyable development experience rather than fighting against previous implementations)
 - interviews
   - no interviews conducted originally followed a presentation-response type module format
 - observations
+  - place lost objects back in the location where your instincts checked first, eventually everything is where you expect it to be, even if you can't fully articulate exactly why you want it there
+    - simple techniques like this allows you to develop your own life around your intuitive sense of how things work, and how they fit together  
   - embrace the freedom you're given
     - work creatively
   - question but don't doubt (continuous improvement comes from the ability to remain objective in observations rather than doubt past decisions)
