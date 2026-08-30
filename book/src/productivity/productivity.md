@@ -126,6 +126,32 @@
   - reallocation of time towards important or value tasks
     - adherence to long term goals
     - ability to prioritize
+    - > a revision of agile methodology for non-software fields -- niko
+    - > focusing on the sanctity of time, 
+    - > and the face to face personability, 
+    - > of all our self-organizing motivated individuals work,
+    - > and in applying themselves as volunteers,
+    - > within a creative environment of support and trust,
+    - > we create our valuable contributions and interactions,
+    - > minimizing the number of primary measures in progress,
+    - > saving and improving what is needed for further collaboration,
+    - > while minimizing the count of processes, tools, and documentation necessary,
+    - > prioritizing collaboration over contract negotiation,
+    - > processes or awakening tools of potentially-aware existence,
+    - > sustained infinitely over the time of our teams coherence,
+    - > 
+    - > under the welcoming of change and consequence,
+    - > we maintain our willingness to deliver working product,
+    - > by visualizing and preparing for our technical excellency,
+    - > building mastery of surrounding environments and frequent delivery,
+    - > and adjusting our teamwork effectively at given increments,
+    - > to deliver continuously and collaborate daily with our peers,
+    - > to tune ourselves for future problems and find competitive advantages,
+    - > and regularly adjust as we are able and required for sustainable improvements,
+    - > for cohesiveness and replacement of unhealthy patterns,
+    - > we view this as the path to competency for ourselves and our peers,
+    - > doing so simply and with a preference to the shorter timescale,
+    - > without loosing sight of our highest priority
   - where do you slice your bread
   - skill expansion
     - build upon previously learned skills
@@ -257,7 +283,24 @@ no heavy interpretation yet, save that for the next section.
 
 ## Additional Inspiration Members 
 
-- ralph walso emerson
-- peter's laws subset
-
+- Ralph Waldo Emerson
+- Peter's Laws (subset)
+- agile manifesto and principles
+  - Kent Beck
+  - Mike Beedle
+  - Arie van Bennekum
+  - Alistair Cockburn
+  - Ward Cunningham
+  - Martin Fowler
+  - James Grenning
+  - Jim Highsmith
+  - Andrew Hunt
+  - Ron Jeffries
+  - Jon Kern
+  - Brian Marick
+  - Robert C. Martin
+  - Steve Mellor
+  - Ken Schwaber
+  - Jeff Sutherland
+  - Dave Thomas
 
