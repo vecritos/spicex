@@ -1,5 +1,11 @@
 # Selfocracy
 
+---
+
+**NOTE at this point this is a rough draft and will need further modification before submission to ELI**
+
+---
+
 > my hobby project while I read Humanocracy (Hamel + Zanini)
 > please note I have not finished the book but am reading it alongside drafting this document
 > uber-rough skeleton of the module but in written format now instead of lecture-presentation format
@@ -87,7 +93,6 @@ The smaller estimates like 8, 13, or 21 become metrics by which you can evaluate
 In terms of why you should care about this, it's your life, I won't tell you what to do with it, only provide possible methods of how you go about it. 
 
 ## Objectives
-
 
 Identifying a schedule can cause lots of anxiety for someone who realizes the reality of the situation is that we don't know what will happen tomorrow.
 A route that usually takes five minutes can take twenty if you are unfortunate to come across a traffic accident---or be in one. 
@@ -217,117 +222,60 @@ I'll leave you with one last suggestion on a possible improvement, although this
 Place lost objects back in the location where your instincts checked first, eventually everything is where you expect it to be, even if you can't fully articulate exactly why you want it there.
 Simple techniques like this allows you to develop your own life around your intuitive sense of how things work, and how they fit together in the grand-scheme of your life.
 
----
-
-**NOTE at this point I've reached the end of the rough draft and the remainder of this document is notes for possible inclusion**
-
----
-
-
 ## Future-Minded
 
+In this methodology of life you are often testing, modifying, and re-approaching different aspects of your life, it can seem rather chaotic at times.
+In this mentality I'll leave you with two more sections on different mentalities that have helped me move forward and I can now express in writing.
 
-  - question but don't doubt (continuous improvement comes from the ability to remain objective in observations rather than doubt past decisions)
-    - doubt
-      - isolates yourself from the team
-      - inflexiblity
-      - thinking in absolutes
-    - questioning
-      - brings clarity of ideals
-      - brings additional topics into fold
-      - allows for problem/solution pair expansion
-- models (things that are helpful for framing and reframing your questions and responses in order to dive deeper at the root of the topic at hand)
-  0. aquisition, sentiment, investment, ability (a.s.i.a.) for inventory
-  1. capability, reliability, efficiency, wages (c.r.e.w.) for safety
-  2. people, enjoyments, responsability, intelligence (p.e.r.i.) for alignment
-  3. situation, task, action, result (s.t.a.r.) for positives
-  4. logistics, actions, understanding, goals, hope (l.a.u.g.h.) for learning
-  5. explain, demonstrate, guide, enable (e.d.g.e.) for teaching
-  6. circumstances, action, result (c.a.r.) for negatives
-  7. citation, advancement, research, science (c.a.r.s.) for research
-  8. system, efficiency, new, technology (s.e.n.t.) for automations
-  9. cry, relative amount of time to cry, yesterday all my troubles seemed so far away (c.r.y.) for emotions
-- algorithms
-  - ability to productively map out futures
-- frameworks
-  - work creatively to make life more efficient
-    - move the toaster
-- metrics
+### Question not Doubt
 
-how do i know this wasn't vibes?
+When focusing on yourself and making decisions, in order to avoid viewing yourself in a negative light question but don't doubt your past.
+When questioning it brings a clarity of ideals, and additional topics (hindsight 20/20), as well as opens the door for future expansion.
 
-## Results
+An method for this is to ask open ended-questions about your past, as in "what decision would I make now if presented with the same situation and what did I learn from that experience that has helped me move forward"
+Meanwhile doubting sounds more like "I knew I'd never know what to do in that situation, and I've found myself to be once again, the supreme idiot chancellor of stupid town". 
+Doubting will isolate you from your team and support network, it is often presented as inflexible and cannot be questioned, and will often lead to thinking in absolutes. 
+We can now see how using open ended questions paints our past in a more positive light and allows us room to figure out how to improve in our progress.
 
-- what happened
-- what changed
-- what was observed
-- key metrics
-- patterns
-- tables, charts, figures
+### Acronyms as a Hobby
 
-no heavy interpretation yet, save that for the next section.
+A hobby I picked up during my time in the professional scene was creating acronyms to help me with basic topics that I needed in my daily life to solve problems.
+Feel free to read the following and then come up with your own that might help your mentality when going through studying a new topic, preparing for interviews, or meeting new friends.
+Think of these as pre-programmed algorithms that help you in your personal interactions, just as a business major will talk to you about funnels, a programmer will talk to you about programs, or acronyms in this case.
 
-## Analysis
+- acquisition, sentiment, investment, ability (a.s.i.a.) for inventory
+- capability, reliability, efficiency, wages (c.r.e.w.) for safety
+- people, enjoyments, responsibility, intelligence (p.e.r.i.) for alignment
+- situation, task, action, result (s.t.a.r.) for positives
+- logistics, actions, understanding, goals, hope (l.a.u.g.h.) for learning
+- explain, demonstrate, guide, enable (e.d.g.e.) for teaching
+- circumstances, action, result (c.a.r.) for negatives
+- citation, advancement, research, science (c.a.r.s.) for research
+- system, efficiency, new, technology (s.e.n.t.) for automation
+- cry, relative amount of time to cry, yesterday all my troubles seemed so far away (c.r.y.) for emotions
 
-- why the results occured
-  - sample size / scope
-    - confirmation bias could be relevant here however i'll pull in more supportive topics
-      - one note is there is plenty of data as to the counter argument so this focuses more on techniques and possible avenues rather than changing someone's life
-    - because the topics are mostly focused on engineering students datasets like parenting are mostly left out in arguments for now
-- how they relate to prior research or theory
-- trade-offs and tensions
-  - organization of team, accountability of tasks, planning of long term goals
-    - ability to incrementally adjust the metrics and people working on the long term goals yields a better result next time, so on and so forth, until the "naturally optimized" solution presents itself
-      - continuous improvement
-      - > jeff: everyday you're not getting stronger [in some way] you're getting weaker
-- unexpected outcomes
+## Continuing Activities
 
-## Solution
+It is recommended that some portion of the activities or results formed from this article are included in either a curriculum vitae or a leadership portfolio.
 
-- what was implemented
-- why this solution versus alternatives
-- how rollout happened
-  > write it on your heart that every day is the best day in the year.
-  > he is rich who owns the day, and no one owns the day
-  > who allows it to be invaded with fret and anxiety.
-  > finish every day and be done with it.
-  > you have done what you could.
-  > some blunders and absurdities, no doubt crept in.
-  > forget them as soon as you can,
-  > tomorrow is a new day; begin it well and serenely,
-  > with too high a spirit to be cumbered with your old nonsense.
-  > this new day is too dear, with its hopes and invitation, 
-  > to waste a moment on the yesterdays
-  > ralph walso emerson
+## Disclaimer 
 
-## Limitations
+**Disclaimer** These topics were covered during my time at The University of Toledo.
+They have been rewritten in article format for The Roy and Marcia Armes Engineering Leadership Institute.
+The subject is focused on undergraduate engineering students;
+however, this is released publicly for anyone who has interest in the topic.
+The basis for these notes was both activities participated, modules, and lectures performed at school.
+They are not presented to be a scientific article or change someone's life only as a topic to discuss. 
+It is a look into how efficiency, opportunistic scheduling, and personal-focused research can benefit long term productivity.
+I will leave you with a final quote from *jeff* "everyday you're not getting stronger [in some way] you're getting weaker.
+For questions I am available by email at isadiewei@proton.me.
 
-- small sample size
-- short time horizon
-- confounding variables
-- results may not generalize
-- if done right, this increases trust
+## References or Inspiration
 
-## Implications
-
-- what others can apply
-  - leadership portfolio
-- what this suggests for theory, practice, or policy
-- what you'd do differently next time
-  - start working on the portfolio sooner, make it more public, and invite more people to critique it so i have continuous external feedback as a person who wants to improve
-
-## Conclusion
-
-- restate problem
-- summarize outcome
-- point forward (no need information)
-
-## Additional Inspiration Members 
-
-- Ralph Waldo Emerson
 - Peter's Laws (subset)
 - The Roy and Marcia Armes Engineering Leadership Institute 2017-2020+
 - University of Michigan Psychology
+- Jeff
 - Agile Manifesto and Principles
   - Kent Beck
   - Mike Beedle
