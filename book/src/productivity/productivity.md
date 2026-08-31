@@ -11,6 +11,7 @@ Many of us have frustration feeling we have not the time to approach all that we
 The purpose of this revised presentation-module is to provide a mental framework in which to approach productivity rather than productivity tricks.
 Logical approaches to increasing time available to be allocated towards activities are presented and available for critique.
 Techniques used in the original presentation have been ported over towards a written version.
+In this I attempt to answer how can we find ways to opportunistically schedule experience gains and synchronous activities
 
 > potential inclusion (still reading)
 > The text is written with new regards to Humanocracy and provides an underlying framework in which to increase employee or student capacity for creative thinking within the parent framework.
@@ -85,56 +86,86 @@ The smaller estimates like 8, 13, or 21 become metrics by which you can evaluate
 
 In terms of why you should care about this, it's your life, I won't tell you what to do with it, only provide possible methods of how you go about it. 
 
+## Objectives
+
+
+Identifying a schedule can cause lots of anxiety for someone who realizes the reality of the situation is that we don't know what will happen tomorrow.
+A route that usually takes five minutes can take twenty if you are unfortunate to come across a traffic accident---or be in one. 
+With this in mind we instead focus on creating best-order anti-worst-case scenarios, in your life that are easier to manage over time.
+These are formed in the basis of habit forming but when planning out how to achieve your goals you might not know what habit needs to be formed right away.
+In this instance, we build a template zoned in on daily, weekly, or yearly activities that helps us isolate and identify the next steps while working on the hobby, or goal, itself. 
+We'll walk through an example of best-order anti-worst-case scenario by leveraging the power of combining our hobbies, in our example we'll take exercise, one of the five core hobbies.
+
+- Hobby: I want to begin going for walks
+- Given: I often get frustrated or anxious during the day
+- Given: I cannot find places to go for nice walks
+- Given: I'm not sure I can dedicate the time to go for a walk when I'm so busy
+- Best-Order: I'll wait until I get frustrated and then the next opportunity I have for a walk I'll go de-stress, otherwise I'll take it during the timeframe the sun comes out (especially in winter)
+- Anti-Worst-Case: This prevents my fear of going back for a walk and then immediately getting frustrated, at least in this aspect I can mitigate one instance of being frustrated per-day
+
+In this method we use opportunistic scheduling to identify not a specific time, but a zone of success that this activity can be performed in. 
+As a result it's more flexible which can help in long term planning and you won't mind if you start walking at 8:00 one day but 9:00 the next day because your friend you haven't spoken to for a month called you on the phone. 
+You're still making progress on your goals an in this scenario you've strengthened a friendship as well, two good things in life.
+
+If your goal is to expand your knowledge base by reading but you're often restless, you can possibly make your worst-case (being tired during the day) and then you can wait until you are tired to begin reading.
+You'll have offset the restlessness you feel with the natural rhythm of your body and then you can still find ways to naturally make progress towards your goal of reading.
+Or a common one I'll do I'll have a repeating task that's essential to forward practice like job applications, and I'll wake up and submit two job applications before cooking breakfast.
+It's all about finding ways to put forth a little effort on something you want to do, while minimizing the time difference should some aspect go wrong.
+And then working towards relaxing during the small daily activities like eating.
+Another example could be reading about the news before breakfast, while you're brushing your teeth you're not up to date on the events you'll be talking about that day.
+And a personal example is that I often deal with anxiety or school and work stress so for me it was beneficial to get my workout in at 11PM as a mental reset before bed and the next day of the same stress. 
+
+That's enough examples so I'll touch briefly on how it will take time to move along the [Learning Pit](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fimage-the-learning-pit-v0-b76pajmc6uc91.jpg%3Fauto%3Dwebp%26s%3Dd3755db5dd6b3d30335324c60c83672ef0e71160) or the idea that learning progress will be slower until a baseline knowledge amount is created and you can then build skills on top of your existing knowledge.
+Until the blueprint is reviewed, the foundation cannot go in, and the walls cannot be constructed. So when you're in the pit, and I hope you are in a topic that you find interesting, embrace it, because you'll be in the pit in another topic area soon enough. 
+So focus on how "patience is a virtue, but persistence to the point of success is a blessing" *peter's laws* because all you'll have when practicing your hobbies is work that might be up to your expectations, but it can also be improved the next day when you come back for more.
+
+In life "when faced without a challenge, make one" *peter's laws* and this can mean constant improvement, yes.
+Or it can mean working towards a goal that's slightly off what you think is achievable, in the software community we refer to these as nice-to-haves;
+these are things that aren't technically essential, but can help with daily activities or long term progress. 
+The [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle) cites that 80% of the results comes from 20% of the inputs or effort. 
+And with the assumption that nobody is perfect.
+Then mathematically it can be argued that if you set your ambitions as 80% of the ambition is the end result then you leave 20% as room for improvement if you get locked-in to the scenario.
+For instance if I set my ambitions writing this article that 80% of the work was finishing my own leadership portfolio and then the remaining 20% is doing this article for the next generation, then I've left room for improvement.
+This method may give some Key-Performance-Indicator obsessed managers a headache, but it's what has worked for me because it allows for more flexibility on continuing work on the things I find interesting. 
+I know this is opinionated however I thought I'd share that mentality in case somebody feels they are underachieving, now you can go in with that expectation, and have already planned out where to go when you feel you need to do more.
+Try to analyze these habits and hobbies in the light of the best version of this will do something great for my future and the worst-case is mitigated because of the plan you have setup in place.
+
+Remember the old saying "small choices become actions, actions become habits, habits become our way of life" so make the habits flexible enough to deal with life's stressors and you'll find yourself better able to cope with life.
+By using the moon estimates when setting your schedule you can plan for the smallest change over the next moon and then slowly add tiny changes, like if you tuck your shoe laces in when taking off your shoes, and let these compound. 
+
+## Methodology
+
+We will perform an activity on efficient productivity and self-mastery and learn to find how time adds up in our daily life, versus how time feels in our daily life.
+
+To begin start by writing down a list of activities (I prefer using the week schedule) of all the things you do during the week.
+Remember things like eating, washing up, working, studying, exercise or any other activities you like to participate in.
+Then add the minutes per week you think you spend performing these tasks, it's okay to use a calculator, and see what the total amount of time spent is.
+
+Then divide the total by the number of minutes in a week, it's okay to use hours for these calculations if it's easier, (168 hours per week * 60 minutes per hour) = 10080 minutes per week.
+This will be your estimated utilization of how much of the week you spend doing activities you love or possibly have to do. 
+Another metric is the time remaining which is the 10080 minutes per week = (168 hours per week * 60 minutes per hour) - (x: your total from the activity) = (y: time remaining in your week to add hobbies)
+and will allow you to have metrics by which to approach the following questions, of which you can pick and choose.
+
+- Is there anything on the list that might negate some of the time you want to use to spend on other things?
+- How do you feel about the activities on the list, are there some that can be made more efficient?
+- Is there anything that you cannot change about your schedule, e.g. working as a cook for 11 hours a day.
+- How do you think these activities impact your mental and physical health, can something be done?
+
+Now we can introduce our definition of busyness versus productivity.
+Busyness we can define as time is take up by things that do not compound, busy building nothing in a way.
+Productivity we can define a things which can compound (positively) and you can build an end result from them.
+Our goal is to minimize busyness while maximizing the productivity, we'll begin by labelling the busyness activities from the productivity activities.
+This will give us some thinking room by which to discard, redo, or modify our busyness activities for something more productive.
+As for the ones currently labelled productive we'll now dive deeper into possible ways to make these more productive through efficiency.
+
 ---
 
 **NOTE at this point I've reached the end of the rough draft and the remainder of this document is notes for possible inclusion**
 
 ---
 
-## Problem Statement
-
-- sharp. specific. no fluff
-  - how can we find ways to opportunistically schedule experience gains and syncronous activities
-- sometimes own section, sometimes embedded at the end of background
-
-`the company struggled with inefficiencies` versus `customer churn increased from 12% to 21% over 18 motnhs, threatening profitability`
-
-## Objectives
-
-- what you were trying to learn or change
-  - opportunistic scheduling
-    - do the thing that has the longest long term impact first
-      - lots of time people mean working out, but it can be a productivity task if you like a different exercise schedule 
-        - work with your schedule until it matches up to what you need to be doing in the moment or what you need to keep going the next day
-          - e.g. for me i was dealing with anxiety so instead of working out first, i'd save it over the day the anxiety would build and i needed the release and reset before bed to help with sleep, worked great
-  - worst case scenario planning and acceptance
-    - peak mental health neurotransmitter balancing, bias reduction
-    - moving worst case scenarios towards the baseline
-      - > patience is a virtue, but persistence to the point of success is a blessing
-- examples reduce churn by X%
-  - > when faced without a challenge, make one
-    - constantly pushing yourself to do better in life
-- understand cause of failure
-  - > on choices: small choices become actions, actions become habits, habits become our way of life
-  - cause of failure is often changing too much (positive additions) in a short timespan to change the outcome
-    - overstudying late instead of studying often and for shorter time spans
-    - adding new systems for organization or productivity without fully embracing your sense of approaches
-- evaluate feasibility of approach Y
-  - working towards a common goal with study groups, meetings, forums (async)
-    - keep notes short
-- test hypothesis Z
-  - evaluating addition of items or organizations to your abilities to get things done
-    - what benefit does this do in your grand goal 
-- be explicit
-  - goal is to practice opportunistic scheduling techniques like going outside when it's sunny so it's more enjoyable than going outside everyday
-  - worst case scenario baseline augments, i spend a few extra seconds doing this every day so i've moved it so it's easier and saves those seconds (e.g. placing toothbrush by the bathroom sink)
-    - other small adjustments like this can be found, like keeping your laptop bag nearby where you usually use your laptop so you don't have to go get it (i still mess this up sometimes)
-
-## Methodology
-
 - data sources
   - acceptance of at home necessities
-  - busyness versus productivity
   - what does my schedule feel like activity results
     - is this what makes me happy or is there an additional small thing i can add that over time will make it easier to cope with 
     - (adding a car charger because i always like listening to podcasts or music in the car)
@@ -288,9 +319,10 @@ no heavy interpretation yet, save that for the next section.
 ## Implications
 
 - what others can apply
+  - leadership portfolio
 - what this suggests for theory, practice, or policy
 - what you'd do differently next time
-
+  - start working on the portfolio sooner, make it more public, and invite more people to critique it so i have continuous external feedback as a person who wants to improve
 
 ## Conclusion
 
@@ -298,20 +330,13 @@ no heavy interpretation yet, save that for the next section.
 - summarize outcome
 - point forward (no need information)
 
-## References
-
-- academic references
-- raw data
-- interview guides
-- code
-- diagrams
-  - moon estimates
-
 ## Additional Inspiration Members 
 
 - Ralph Waldo Emerson
 - Peter's Laws (subset)
-- agile manifesto and principles
+- The Roy and Marcia Armes Engineering Leadership Institute 2017-2020+
+- University of Michigan Psychology
+- Agile Manifesto and Principles
   - Kent Beck
   - Mike Beedle
   - Arie van Bennekum
@@ -329,4 +354,3 @@ no heavy interpretation yet, save that for the next section.
   - Ken Schwaber
   - Jeff Sutherland
   - Dave Thomas
-
