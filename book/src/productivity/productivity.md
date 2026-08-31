@@ -158,84 +158,75 @@ Our goal is to minimize busyness while maximizing the productivity, we'll begin 
 This will give us some thinking room by which to discard, redo, or modify our busyness activities for something more productive.
 As for the ones currently labelled productive we'll now dive deeper into possible ways to make these more productive through efficiency.
 
+For efficiency we can work towards identifying small changes that become habits to form.
+Try to frame your mind to think of these small changes as something similar to placing your toothbrush next to the sink.
+These changes are common occurrences that allow you to move slow, and because slow is smooth, smooth is fast and these changes help assist you to move faster by transitivity.
+To identify and keep track of these small improvements in our life we can break out the [A3 Report](https://www.lean.org/lexicon-terms/a3-report/) style of viewing improvements.
+We will go with the following few metrics I've pulled offline and we focus on the problem-solving methodology (or process).
+We will use this professional template in a lifestyle metric and we can then breakdown hypothesis on what small changes we can make moving forward.
+Start with the things on your productivity list and try to come up with a few (2+) reasons on why this thing takes up that amount of time.
+Imagine if you had to go into an attic every time you wanted to brush your teeth, look for reasons why these things are time consuming, it does not have to be issues with the tasks, just why they take time.
+Identify a few things in this scenario that could be improved, for instance would 10 minutes of a practice problem that the instructor has gone over benefit you more than 60 minutes of grinding all sections in the book.
+Try to fill out the possible improvements on what would time look like if I could prioritize, and then look for opportunities to prioritize.
+A non-academic example is if I want to exercise but am not a fan of free-weights is there an activity you can dedicate an hour a week to playing on a team and then prioritize your exercise schedule to match what that activity is.
+Work towards prioritizing the things that make your life simpler and more straightforward.
+Look for opportunities that give you multiple things, e.g. if you want to make friends and exercise then our team example is a great method because it can help you in two of your hobby-based missions.
+
+For now once you have found a few ways in which you can look for efficiency I'll leave you with a loosely-constructed poem based on the [Agile Manifesto and Principles](https://agilemanifesto.org/).
+It has been altered to apply to more fields than Software Engineering but has worked to maintain the base-mentality outlined by the original creators. 
+
+- > a revision of agile methodology for non-software fields -- niko
+- > focusing on the sanctity of time, 
+- > and the face to face personability, 
+- > of all our self-organizing motivated individuals work,
+- > and in applying themselves as volunteers,
+- > within a creative environment of support and trust,
+- > we create our valuable contributions and interactions,
+- > minimizing the number of primary measures in progress,
+- > saving and improving what is needed for further collaboration,
+- > while minimizing the count of processes, tools, and documentation necessary,
+- > prioritizing collaboration over contract negotiation,
+- > processes or awakening tools of potentially-aware existence,
+- > sustained infinitely over the time of our teams coherence,
+- > 
+- > under the welcoming of change and consequence,
+- > we maintain our willingness to deliver working product,
+- > by visualizing and preparing for our technical excellency,
+- > building mastery of surrounding environments and frequent delivery,
+- > and adjusting our teamwork effectively at given increments,
+- > to deliver continuously and collaborate daily with our peers,
+- > to tune ourselves for future problems and find competitive advantages,
+- > and regularly adjust as we are able and required for sustainable improvements,
+- > for cohesiveness and replacement of unhealthy patterns,
+- > we view this as the path to competency for ourselves and our peers,
+- > doing so simply and with a preference to the shorter timescale,
+- > without loosing sight of our highest priority
+  
+With this in mind, we can see that our approaches to life can be slightly altered at all times in the methods outlined by our hobbies and this can compound---our productivity word, until we achieve the desired results.
+One of the easiest things to find and remove from your busyness in productivity activities is waste products. As you gain a capacity to recognize when something is not efficient enough it becomes something that only slows you down.
+In this instance the best thing to do is to nix it or to "reduce non-value adding wastes" *taiichi ohno* either in yourself or in an organization.
+
+My favorite example of this is to ask someone who loves artisan breads where do they slice their bread. Is it worth the extra few seconds to slice it at home, or is asking the person with the mechanical slicer a better use of time.
+Constantly analyzing the most non-essential time frames can be "a pathway to many abilities some consider to be unnatural" *star wars* because you'll always be making the best possible choices for the lifestyle you want based on the freedom of time you want to have in the future.
+Eventually all the time adds up and you have achieved the ability to tackle more problems or harder problems because you planned for time optimization through efficiency rather than for optimizing non-essential but expected through either your own expectations or those expectations imposed upon you by society or otherwise. 
+These will lead towards more experiences and if you plot the targeted abilities in your hobby-based missions over the capacity to grow you can arrive at a scatterplot that shows you the skills that will be most beneficial long-term.
+Remember the capacity for improvement is the nurturing nature of the hobby itself.
+And for those worried about money, money and opportunity may follow if you find what you are passionate about, because hopefully through discussions with mentors, friends, forums or otherwise you will find opportunities to grow your network and your skills while surrounded with like minded individuals. 
+
+I'll leave you with one last suggestion on a possible improvement, although this one falls more into the trick category. 
+Place lost objects back in the location where your instincts checked first, eventually everything is where you expect it to be, even if you can't fully articulate exactly why you want it there.
+Simple techniques like this allows you to develop your own life around your intuitive sense of how things work, and how they fit together in the grand-scheme of your life.
+
 ---
 
 **NOTE at this point I've reached the end of the rough draft and the remainder of this document is notes for possible inclusion**
 
 ---
 
-- data sources
-  - acceptance of at home necessities
-  - what does my schedule feel like activity results
-    - is this what makes me happy or is there an additional small thing i can add that over time will make it easier to cope with 
-    - (adding a car charger because i always like listening to podcasts or music in the car)
-    - (finding a new method to study a topic i enjoy so that i can exercise and keep up to date about common scientific topics)
-  - broken down by a3 problem solving
-    - prepared by
-    - last updated
-    - purpose
-    - target tasks or numbers or feelings if the goal is to strengthen a relationship
-    - status
-    - root cause
-    - champions or accountabuddies 
-    - implementations
-    - target dates
-    - benefits
-- tools or techniques used
-  - reallocation of time towards important or value tasks
-    - adherence to long term goals
-    - ability to prioritize
-    - > a revision of agile methodology for non-software fields -- niko
-    - > focusing on the sanctity of time, 
-    - > and the face to face personability, 
-    - > of all our self-organizing motivated individuals work,
-    - > and in applying themselves as volunteers,
-    - > within a creative environment of support and trust,
-    - > we create our valuable contributions and interactions,
-    - > minimizing the number of primary measures in progress,
-    - > saving and improving what is needed for further collaboration,
-    - > while minimizing the count of processes, tools, and documentation necessary,
-    - > prioritizing collaboration over contract negotiation,
-    - > processes or awakening tools of potentially-aware existence,
-    - > sustained infinitely over the time of our teams coherence,
-    - > 
-    - > under the welcoming of change and consequence,
-    - > we maintain our willingness to deliver working product,
-    - > by visualizing and preparing for our technical excellency,
-    - > building mastery of surrounding environments and frequent delivery,
-    - > and adjusting our teamwork effectively at given increments,
-    - > to deliver continuously and collaborate daily with our peers,
-    - > to tune ourselves for future problems and find competitive advantages,
-    - > and regularly adjust as we are able and required for sustainable improvements,
-    - > for cohesiveness and replacement of unhealthy patterns,
-    - > we view this as the path to competency for ourselves and our peers,
-    - > doing so simply and with a preference to the shorter timescale,
-    - > without loosing sight of our highest priority
-  - where do you slice your bread
-  - skill expansion
-    - build upon previously learned skills
-      - > taiichi ohno: reduce non-value adding wastes
-    - work towards the common goal
-- sample size / scope
-  - confirmation bias could be relevant here however i'll pull in more supportive topics
-    - one note is there is plenty of data as to the counter argument so this focuses more on techniques and possible avenues rather than changing someone's life
-  - because the topics are mostly focused on engineering students datasets like parenting are mostly left out in arguments for now
-- timeframe
-  - lifelong mission to enhance your abilities through experience
-    - targeting abilities over capacity to grow
-    - experiences are the lifeblood of your ability to adapt and change
-    - capacity for improvement is the nurturing nature of the beast
-    - money will follow later on in life if you stick to what motivates you
-- assumptions
-  - (process of working and developing instead of product of being done with a task)
-  - (create an enjoyable development experience rather than fighting against previous implementations)
-- interviews
-  - no interviews conducted originally followed a presentation-response type module format
-- observations
-  - place lost objects back in the location where your instincts checked first, eventually everything is where you expect it to be, even if you can't fully articulate exactly why you want it there
-    - simple techniques like this allows you to develop your own life around your intuitive sense of how things work, and how they fit together  
-  - embrace the freedom you're given
-    - work creatively
+
+## Future-Minded
+
+
   - question but don't doubt (continuous improvement comes from the ability to remain objective in observations rather than doubt past decisions)
     - doubt
       - isolates yourself from the team
@@ -245,9 +236,6 @@ As for the ones currently labelled productive we'll now dive deeper into possibl
       - brings clarity of ideals
       - brings additional topics into fold
       - allows for problem/solution pair expansion
-- document analysis
-  - not many documents were analyzed in the generation of the report, this was mostly peer-to-peer observations
-  - organize, digitize, secure documents 
 - models (things that are helpful for framing and reframing your questions and responses in order to dive deeper at the root of the topic at hand)
   0. aquisition, sentiment, investment, ability (a.s.i.a.) for inventory
   1. capability, reliability, efficiency, wages (c.r.e.w.) for safety
@@ -282,6 +270,10 @@ no heavy interpretation yet, save that for the next section.
 ## Analysis
 
 - why the results occured
+  - sample size / scope
+    - confirmation bias could be relevant here however i'll pull in more supportive topics
+      - one note is there is plenty of data as to the counter argument so this focuses more on techniques and possible avenues rather than changing someone's life
+    - because the topics are mostly focused on engineering students datasets like parenting are mostly left out in arguments for now
 - how they relate to prior research or theory
 - trade-offs and tensions
   - organization of team, accountability of tasks, planning of long term goals
