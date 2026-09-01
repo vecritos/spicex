@@ -17,7 +17,6 @@ Many of us have frustration feeling we have not the time to approach all that we
 The purpose of this revised presentation-module is to provide a mental framework in which to approach productivity.
 Logical approaches to increasing time available to be allocated towards activities are presented and available for critique.
 Techniques used in the original presentation have been ported over towards a written version.
-In this I attempt to answer how can we find ways to opportunistically schedule experience gains and synchronous activities.
 
 > potential inclusion (still reading)
 > The text is written with new regards to Humanocracy and provides an underlying framework in which to increase employee or student capacity for creative thinking within the parent framework.
@@ -212,12 +211,15 @@ This will allow you to have metrics by which to approach the following questions
 
 - Is there anything on the list that might negate some of the time you want to use to spend on other things?
 - How do you feel about the activities on the list, are there some that can be made more efficient?
-- Is there anything that you cannot change about your schedule, e.g. working as a cook for 11 hours a day.
+- Is there anything that you cannot change about your schedule for now, e.g. working as a cook for 11 hours a day.
 - How do you think these activities impact your mental and physical health, can something be done?
+
+### Busyness versus Productivity
 
 Now we can introduce our definition of busyness versus productivity.
 Busyness we can define as time is take up by things that do not compound, busy building nothing in a way.
 Productivity we can define a things which can compound (positively) and you can build an end result from them.
+
 Our goal is to minimize busyness while maximizing the productivity, we'll begin by labelling the busyness activities from the productivity activities.
 This will give us some thinking room by which to discard, redo, or modify our busyness activities for something more productive.
 As for the ones currently labelled productive we'll now dive deeper into possible ways to make these more productive through efficiency.
@@ -225,16 +227,24 @@ As for the ones currently labelled productive we'll now dive deeper into possibl
 For efficiency we can work towards identifying small changes that become habits to form.
 Try to frame your mind to think of these small changes as something similar to placing your toothbrush next to the sink.
 These changes are common occurrences that allow you to move slow, and because slow is smooth, smooth is fast and these changes help assist you to move faster by transitivity.
-To identify and keep track of these small improvements in our life we can break out the [A3 Report](https://www.lean.org/lexicon-terms/a3-report/) style of viewing improvements.
+
+#### Building out Hobby-Habit-Forming Reports
+
+To identify and keep track of these small improvements in our life we can (optionally) break out the [A3 Report](https://www.lean.org/lexicon-terms/a3-report/) style of viewing improvements.
 We will go with the following few metrics I've pulled offline and we focus on the problem-solving methodology (or process).
 We will use this professional template in a lifestyle metric and we can then breakdown hypothesis on what small changes we can make moving forward.
+
 Start with the things on your productivity list and try to come up with a few (2+) reasons on why this thing takes up that amount of time.
 Imagine if you had to go into an attic every time you wanted to brush your teeth, look for reasons why these things are time consuming, it does not have to be issues with the tasks, just why they take time.
+
 Identify a few things in this scenario that could be improved, for instance would 10 minutes of a practice problem that the instructor has gone over benefit you more than 60 minutes of grinding all sections in the book.
 Try to fill out the possible improvements on what would time look like if I could prioritize, and then look for opportunities to prioritize.
+
 A non-academic example is if I want to exercise but am not a fan of free-weights is there an activity you can dedicate an hour a week to playing on a team and then prioritize your exercise schedule to match what that activity is.
-Work towards prioritizing the things that make your life simpler and more straightforward.
+Work towards prioritizing the things that make your life simpler and more straightforward, nix the things that get in the way of what you love doing or who you want to be in this era of your life.
 Look for opportunities that give you multiple things, e.g. if you want to make friends and exercise then our team example is a great method because it can help you in two of your hobby-based missions.
+
+### Agile Mentality in Lifestyle Changes
 
 For now once you have found a few ways in which you can look for efficiency I'll leave you with a loosely-constructed poem based on the [Agile Manifesto and Principles](https://agilemanifesto.org/).
 It has been altered to apply to more fields than Software Engineering but has worked to maintain the base-mentality outlined by the original creators. 
@@ -266,16 +276,29 @@ It has been altered to apply to more fields than Software Engineering but has wo
 - > doing so simply and with a preference to the shorter timescale,
 - > without loosing sight of our highest priority
   
-With this in mind, we can see that our approaches to life can be slightly altered at all times in the methods outlined by our hobbies and this can compound---our productivity word, until we achieve the desired results.
-One of the easiest things to find and remove from your busyness in productivity activities is waste products. As you gain a capacity to recognize when something is not efficient enough it becomes something that only slows you down.
-In this instance the best thing to do is to nix it or to "reduce non-value adding wastes" *taiichi ohno* either in yourself or in an organization.
+With this in mind, we can interpret that our approaches to life can be slightly altered at all times in the methods outlined by our hobbies and this can compound---our productivity word, until we achieve the desired results.
 
-My favorite example of this is to ask someone who loves artisan breads where do they slice their bread. Is it worth the extra few seconds to slice it at home, or is asking the person with the mechanical slicer a better use of time.
-Constantly analyzing the most non-essential time frames can be "a pathway to many abilities some consider to be unnatural" *star wars* because you'll always be making the best possible choices for the lifestyle you want based on the freedom of time you want to have in the future.
-Eventually all the time adds up and you have achieved the ability to tackle more problems or harder problems because you planned for time optimization through efficiency rather than for optimizing non-essential but expected through either your own expectations or those expectations imposed upon you by society or otherwise. 
+### Waste and Waste Products
+
+One of the easiest things to find and remove from your busyness in productivity activities is waste products. As you gain a capacity to recognize when something is not efficient enough it becomes something that only slows you down.
+In this instance the best thing to do is to nix it or to "reduce non-value adding wastes" *taiichi ohno* either in yourself, an organization, or your mentality.
+
+My favorite example of this is to ask someone who loves artisan breads where do they slice their bread.
+Is it worth the extra few seconds to slice it at home, remember the time it takes to get out the cutting board, or is asking the person with the mechanical slicer a better use of time.
+
+Constantly analyzing the most non-essential time frames can be "a pathway to many abilities some consider to be unnatural" *star wars*
+  because you'll always be making the best possible choices for the lifestyle you want based on the freedom of time you want to have in the future.
+
+Eventually all the time adds up and you have achieved the ability to tackle more problems or harder problems because you planned for time optimization through efficiency.
+Rather than optimizing non-essential but expected tasks through either your own expectations or those expectations imposed upon you by society, your organization, or your peers. 
+
 These will lead towards more experiences and if you plot the targeted abilities in your hobby-based missions over the capacity to grow you can arrive at a scatterplot that shows you the skills that will be most beneficial long-term.
 Remember the capacity for improvement is the nurturing nature of the hobby itself.
-And for those worried about money, money and opportunity may follow if you find what you are passionate about, because hopefully through discussions with mentors, friends, forums or otherwise you will find opportunities to grow your network and your skills while surrounded with like minded individuals. 
+
+#### Finding Benefits in Small Changes and Lifestyles
+
+A small note on money and opportunity which can follow if you find what you are passionate about.
+Hopefully through discussions with mentors, friends, forums or otherwise you will find opportunities to grow your network and your skills while surrounded with like minded individuals. 
 
 I'll leave you with one last suggestion on a possible improvement, although this one falls more into the trick category. 
 Place lost objects back in the location where your instincts checked first, eventually everything is where you expect it to be, even if you can't fully articulate exactly why you want it there.
@@ -288,13 +311,14 @@ In this mentality I'll leave you with two more sections on different mentalities
 
 ### Question not Doubt
 
-When focusing on yourself and making decisions, in order to avoid viewing yourself in a negative light question but don't doubt your past.
+When focusing on yourself and making decisions, in order to avoid viewing yourself in a negative light question but don't doubt your past or your ability to have done better in those situations.
 When questioning it brings a clarity of ideals, and additional topics (hindsight 20/20), as well as opens the door for future expansion.
 
-An method for this is to ask open ended-questions about your past, as in "what decision would I make now if presented with the same situation and what did I learn from that experience that has helped me move forward"
+An method for this is to ask open ended-questions about your past, as in "what decision would I make now if presented with the same situation and what did I learn from that experience that has helped me move forward".
 Meanwhile doubting sounds more like "I knew I'd never know what to do in that situation, and I've found myself to be once again, the supreme idiot chancellor of stupid town". 
-Doubting will isolate you from your team and support network, it is often presented as inflexible and cannot be questioned, and will often lead to thinking in absolutes. 
+Doubting will isolate you from your team and support network, it is often presented as inflexible and cannot be questioned, and will often lead to thinking in absolutes or negative-self talk. 
 We can now see how using open ended questions paints our past in a more positive light and allows us room to figure out how to improve in our progress.
+In addition, avoid the open-ended question "where would I be right now if I had done (that)" instead reframe it into "where might I be if I start (this)"
 
 ### Acronyms as a Hobby
 
@@ -316,6 +340,19 @@ Think of these as pre-programmed algorithms that help you in your personal inter
 ## Continuing Activities
 
 It is recommended that some portion of the activities or results formed from this article are included in either a curriculum vitae or a leadership portfolio.
+
+In the end a cv or portfolio might contain some of the following
+
+- Identifying Information
+- Curriculum Vitae with Professional Experience section
+- Personality Tests, Surveys, Background Information
+- Ambitions
+- Leaders Identified With
+- Letters of Feedback
+- Letters of Recommendation
+- Hobbies listed by Era
+- Current Ambitions
+- etc.
 
 ## Disclaimer 
 
