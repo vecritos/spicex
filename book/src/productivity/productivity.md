@@ -14,142 +14,201 @@
 > I'll find more data as I go along but for now it's more of an opinionated piece 
 
 Many of us have frustration feeling we have not the time to approach all that we want to do in life.
-The purpose of this revised presentation-module is to provide a mental framework in which to approach productivity rather than productivity tricks.
+The purpose of this revised presentation-module is to provide a mental framework in which to approach productivity.
 Logical approaches to increasing time available to be allocated towards activities are presented and available for critique.
 Techniques used in the original presentation have been ported over towards a written version.
-In this I attempt to answer how can we find ways to opportunistically schedule experience gains and synchronous activities
+In this I attempt to answer how can we find ways to opportunistically schedule experience gains and synchronous activities.
 
 > potential inclusion (still reading)
 > The text is written with new regards to Humanocracy and provides an underlying framework in which to increase employee or student capacity for creative thinking within the parent framework.
-> at my current understanding humanocracy is about how to restructure the organization to empower the people, while this module serves as how do you restructure yourself to empower your future
+> at my current understanding humanocracy is about how to restructure the organization to empower the people, while this module serves as how do you restructure yourself while working or within organizations. 
 
-## background / context
+## Hobbies as a Lifestyle 
 
 In order to have the skills, incentives, and information to be self-managing (*humanocracy*) within the expectations that the organization allows creative thinking it's good to take stock of your current situation.
 In this preliminary section we'll walk through a few activities that are good building blocks to identify and outline your pathway forward and create your own framework for which to build upon.
 
-For arguments sake we'll start off with why things matter, and they matter because you'll want to have a sense of control over your own life regardless of how hopelessly lacking your control over it is
+For arguments sake we'll start off with why things matter, and they matter because you'll want to have a sense of control over your own life regardless of how hopelessly lacking your control over it is.
 It's said the person who enjoys their job never works a day in their life, so we'll start off with a common breakdown seen online that showcases how hobbies can fit into your daily routines easier than expected.
-The breakdown is as follows you need ![five hobbies](https://www.reddit.com/r/IWantToLearn/comments/ouqnbt/iwtl_about_that_you_need_5_hobbies_things/) a fitness routine, a creative outlet, a knowledge builder, a mindset changer, and at least one income stream to keep everything working together. 
+The breakdown is as follows you need ![five hobbies](https://www.reddit.com/r/IWantToLearn/comments/ouqnbt/iwtl_about_that_you_need_5_hobbies_things/) 
+a fitness routine, a creative outlet, a knowledge builder, a mindset changer, and at least one income stream to keep everything working together. 
 Go ahead and make an expansive list of all the hobbies you have that fit into these categories, it's okay to have multiple in the same category for now, we'll breakdown how to isolate them. 
+
+### Personalized Goals
+
 Many times people hear "workout" and picture free-weights, but the best exercise is the one you do, so it's okay to get creative in your list of hobbies, treading water for ten minutes at the lake nearby counts.
 For creativity it's helpful to build this hobby into your income stream, humans are by nature creative problem solvers and so mitigating the *activation-energy* needed to perform the hobby will help it continue.
-  I'll use myself as an example here I am a programmer who reads and writes code, but for my creative hobby I enjoy reading and writing in english, an non-compiled but still thought provoking topic.
+  I'll use myself as an example here I am a programmer who reads and writes code, but for my creative hobby I enjoy reading and writing in english, an non-compiled but still (sometimes) thought provoking language.
 Be honest with yourself, what do you truly enjoy? These do not have to be the hobbies you stick with forever, but right now choose what works for you. These are the basis for which we'll construct remainder of the plan.
 
 Next we'll create a holistic view of who you are as a person right now, a curriculum vitae (cv), depending on your profession it can vary in format, 
-  so a photographer might want a portfolio on social media, while me as a programmer might want a [website](https://ironsides.app)
-the importance of such documents stems from when talking about estimates and life directions it's easy to fall into the trap of "I haven't done anything with my life", "I can't do this" or any other self-defeating and counter-productive thought patterns.
-The curriculum vitae serves as a good counter-arguments to yourself because you'll start to focus on what experiences are you gaining at all moments and this can help. If you're working on something you wouldn't be proud to have on your curriculum vitae, and it doesn't fall into one of your five hobbies for mental and physical health, it's easy to nix it or remove it from your life or equipment list---as I believe the term was coined by [Mike Clelland](https://backpackinglight.com/author/mikeclelland/) for the purposes of removing items from backpacking gear lists. 
+  so a photographer might want a [portfolio](https://www.instagram.com/astrobackyard/?hl=en) on social media, while me as a programmer might want a [website](https://ironsides.app).
+The importance of such documents stems from when talking about estimates and life directions it's easy to fall into the trap of "I haven't done anything with my life", "I can't do this",
+  or any other self-defeating and counter-productive thought patterns.
+The curriculum vitae serves as a good counter-arguments to yourself because you'll start to focus on what experiences are you gaining at all moments and this can help. 
+If you're working on something you wouldn't be proud to have on your curriculum vitae, and it doesn't fall into one of your five hobbies for mental and physical health, 
+  it's easy to nix it or remove it from your life or equipment list---as I believe the term was coined by [Mike Clelland](https://backpackinglight.com/author/mikeclelland/) 
+  for the purposes of removing items from backpacking gear lists. 
+This frees up time you can dedicate to becoming a master of other skills that do fall in line with your life's current hobbies and the goals we will set together to keep this hobbies thriving.
 
-It's important to care about what other things people have going on as well, and you don't always have to add something to your cv, but to have a fulfilling life you can start with the things that you want to define you in the future, if you want to give back, add a volunteer section to your cv and then work on expanding that list with more organizations that encourage volunteer work.
+It's important to care about what other things people have going on as well, and you don't always have to add something to your cv. 
+So to have a fulfilling life you can start with the things that you want to define you in the future and work from there. 
+If you want to give back, add a volunteer section to your cv and then work on expanding that list with more organizations that encourage volunteer work.
 
-My recommendation for relaxing hobbies, think a blanket and t.v. is to instead find a hobby that alters your mindset that is relaxing, for me this is reading, 
-  for extroverts it could be study groups or social mixers where they can mingle with people of varying backgrounds and learn something new through engaging with their peers. 
+My recommendation for relaxing hobbies, think a blanket and t.v. is to instead find a hobby that alters your mindset that is relaxing, for me this is reading. 
+For extroverts it could be study groups or social mixers where they can mingle with people of varying backgrounds and learn something new through engaging with their peers. 
+
 I will make a small note that many of us enjoy memes, so to avoid doom-scrolling I like to organize a few memes until I come across one that makes me laugh and then I put my phone away and go back to my previous task.
 It's a good mental break, an influx of dopamine, and the habit of stopping when you've achieved a laugh prevents hours of scrolling past memes that are "moderately amusing". 
 In order to make it more personable I like to make faux-conversations up with the memes, as in I'll have two buckets and these will be the two members of the conversation, it helps me find meme-gold easier and get off my phone quicker.
 
-Now go over the previous hobby list and see if it's something productive, if not combine hobbies in the same category, rewrite how you perform the hobby, or nix the hobbies until you have isolated individual, exciting, hobbies for each subcategory of our list 
+Now go over the previous hobby list and see if it's something productive, if not combine hobbies in the same category, rewrite how you perform the hobby, or nix the hobbies.
+Once you have isolated individual, exciting, hobbies for each subcategory of our list we can move onto the next step, remember these are just the things you want to get better at over the course of this part of your life.
+
+#### Further Personalization
 
 Now that we have a list of things we enjoy, take some personality tests including but not limited to Emotional Intelligence Surveys, Myers-Briggs, SWOT Analysis, DISC Assessment, or the Big Five (OCEAN) to name a few.
 These will help you isolate how you move through the world in respect to your hobbies, feel free to revise the hobby list, however, keep in mind you'd be changing what you enjoy doing for what a test says you enjoy doing.
 Feel free to do these in groups or have external feedback on how you perform as a leader or person so you can get positive feedback how others interpret you as a person, it may show you that they did not know your hobbies all along.
-In the future establishing a baseline on who you are as a person will help you rotate through different roles (*humanocracy, topeka*) to express various aspects of being you an nail down the hobbies that help.
+In the future establishing a baseline on who you are as a person will help you rotate through different roles (*humanocracy, topeka*) to express various aspects of being you an nail down the hobbies that help you grow.
 This avoids the opportunity cost of doing a hobby you think, feel, or expect is expected of you when really the truth of who you want to be might be lurking at the pottery studio down the street.
 
 From these personality tests work towards identifying important values that are re-occurring in your results that coincide with your hobbies, these will be the framework for which we build out the long term goals.
-For these values identify a small handful of leaders who embody the base values you have created, and if you feel you are loosing touch with the world, use these leaders and the organizations they are a part of as an entry point back into the world in which you want to participate, focus on the positive, it will help with long-term productivity to not get swallowed by the negative news or events from around the world, however keep up on safety practices as this is a good thing to keep in mind
+For these values identify a small handful of leaders who embody the base values you have created, and if you feel you are loosing touch with the world, 
+  use these leaders and the organizations they are a part of as an entry point back into the world in which you want to participate.
+Focus on the positive aspects of these organizations, it will help with long-term productivity to not get swallowed by the negative news or events from around the world.
+Another note please keep up on safety practices as this is a good thing to keep in mind in any walk of life, wear your helmets.
 
-With goal setting there are many formats SMART goals for instance, sometimes it can be hard to fit these categories so in this instance I prefer a personalized approach where you take your isolated hobbies and ask yourself where you'd want those skills to be in a few years, it can help to break your life into era's like the era of highschool, the era of going for an undergraduate degree, the era of early-on in your professional career. 
-Breaking down life segments in this way gives you permission to have long-term goals but also to not fall into traps of what age you're accomplishing tasks on, sometimes it's okay to be ahead or behind of a communities expectations.
-So at the end of this next era what is it that I want to have accomplished in these five categories, it could be run a 5K, write a poem, make $10K, earn a level on an online skill platform, perform my favorite song, or find peace. 
+With goal setting there are many formats SMART goals for instance, sometimes it can be hard to fit these categories so in this instance I prefer a personalized approach where you start with your isolated hobbies.
+Ask yourself where you'd want those skills to be in a few years, it can help to break your life into era's like the era of highschool, the era of going for an undergraduate degree, the era of early-on in your professional career. 
+Breaking down life segments in this way gives you permission to have long-term goals but also to not fall into traps of what age you're accomplishing tasks on, it's okay to be ahead or behind of a communities expectations.
+So at the end of this next era what is it that I want to have accomplished in these five categories, it could be run a 5K, write a poem, make $10K, earn a level on an online skill platform, perform my favorite song, or make a friend. 
 
-Now dig down into the goals until you can fully answer why you want these goals in this era. Rephrase the goals until you can easily answer why with a "because I enjoy doing this" these will help you identify flaws in your motivation.
-The location and implementation of a goal becomes clearer when you dig down into the "why" behind your original goal statement, the test of the "why"s will result in goals that are simpler and more to the point of changing your life direction by acquiring new skills and experience rather than grind-culture. 
+#### Reframing Long Term Goals
+
+Now dig down into the goals until you can fully answer why you want these goals in this era. 
+Rephrase the goals until you can easily answer why with a "because I enjoy doing this" these will help you identify flaws in your motivation.
+Motivation isn't some awe-inspiring moment each day where you have all the energy to do something it stems from a deeper sense of discipline where the ambitions you have in each hobby is worth the effort of showing up regardless.
+The location and implementation of a goal becomes clearer when you dig down into the "why" behind your original goal statement.
+The test of the "why"s will result in goals that are simpler and more to the point of changing your life direction by acquiring new skills and experience rather than grind-culture-of-expectations. 
 
 For example, 
 
-- if your goal is financial freedom 
-- why: I want more time to spend with my family
-- why: I feel we've been drifting apart
-- why: I'm worried I spend too much time working
-- why: I keep focusing on work so we can have financial freedom
-- counter-argument: I'll focus on a career switch in the next two years that gives better hours
-- goal: I'm going to focus my knowledge goal on getting a new certification in economics so I can switch my focus
+- your goal is financial freedom.
+- why: I want more time to spend with my family.
+- why: I feel we've been drifting apart.
+- why: I'm worried I spend too much time working.
+- why: I keep focusing on work so we can have financial freedom.
+- counter-argument: I'll focus on a career switch in the next two years that gives better hours.
+- goal: I'm going to focus my knowledge goal on getting a new certification in economics so I can switch my focus.
 
 ### Moon Estimates
 
-In the agile community there's a method using the fibonacci sequence to estimate task effort, in one of my more agile organizations we used 21 to indicate about a sprint's worth of work, in my personal life I use a similar approach. 
-When dealing with life or project directions, often times I'll set goals with a moon estimate to represent a constant improvement framework change,
-the process of working on the hobby is itself is rewarding so I adapt how I approach tasks and assign the moon estimate, 
-for instance if you read [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear it will discuss how to form habits 
-and you can use the `30-60-90` breakdown mentality with a moon-estimate to indicate that you're attempting to make a lifestyle change 
-because "if you fall in love with the process rather than the product, you don't have to wait to give yourself permission to be happy. you can be satisfied anytime your system is running." *reddit user beardedglass* 
+In the agile community there's a method using the fibonacci sequence to estimate task effort.
+For example, in one of my more agile organizations we used 21 to indicate about a sprint's worth of work, in our personal lives we can use a similar approach. 
+When dealing with life or project directions, often times I'll set goals with a moon estimate to represent a constant improvement mentality change.
+And all we have to do is look up, and everybody always forgets to look up. *john flanagan*
+The reasoning behind the moon is like the sun there is a "day" where it rises and sets, but also a phase, which can outline months, two timing algorithms for just one celestial body.
+
+Because the process of working on the hobby is itself is rewarding we can adapt how we approach tasks and assign the moon estimate, 
+for instance if you read (or listen) to [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear it will discuss how to form habits once you have decided what habits to form.
+and you can use the `30-60-90` breakdown mentality with a moon-estimate to add verbiage to the indication that you're attempting to make a lifestyle change.
+And while accumulating these moon estimates 
+  "if you fall in love with the process rather than the product, 
+   you don't have to wait to give yourself permission to be happy. 
+   you can be satisfied anytime your system is running." *reddit user beardedglass* 
 
 This can compound and eventually you're surrounded by new approaches to life, keeping the novelty, and satisfying the "change addicts" (*humanocracy*)
-The smaller estimates like 8, 13, or 21 become metrics by which you can evaluate your progress and whether you're enjoying it, for instance in the example of volunteering you can say for my moon estimate I'm going to volunteer more at a local charity, and for a sub-goal it may make sense for every time I complete 8 (or go to a weekly event) I will add it to my cv, and every time I meet somebody in need twice I'll consider them a new friend (a 13) it allows for a quantitative and qualitative metric based on the original goal of changing the world for the better through volunteering. 
+The smaller estimates like 8, 13, or 21 become metrics by which you can evaluate your progress and whether you're enjoying it.
+For instance in the example of volunteering you can say for my moon estimate I'm going to volunteer more.
+So for a sub-goal it may make sense for every time I complete 8 (or go to a weekly volunteer event) I will add it to my cv;
+and every time I meet somebody in need twice I'll consider them a new friend (a 13).
+This allows for a quantitative and qualitative metric based on the original goal of changing the world for the better through volunteering. 
+Also, if you're someone that enjoys performing lots of projects or switching up layouts and hobbies, you can give yourself a score of every 89 you switch hobbies.
 
-In terms of why you should care about this, it's your life, I won't tell you what to do with it, only provide possible methods of how you go about it. 
+In terms of why you should care about this, it's your life, I won't tell you what to do with it.
+All I can do is provide possible methods of how you go about it and how to build adaptation into this mental framework. 
 
-## Objectives
+## Opportunistic Scheduling
 
+### Best-Order Anti-Worst-Case
 Identifying a schedule can cause lots of anxiety for someone who realizes the reality of the situation is that we don't know what will happen tomorrow.
-A route that usually takes five minutes can take twenty if you are unfortunate to come across a traffic accident---or be in one. 
-With this in mind we instead focus on creating best-order anti-worst-case scenarios, in your life that are easier to manage over time.
-These are formed in the basis of habit forming but when planning out how to achieve your goals you might not know what habit needs to be formed right away.
-In this instance, we build a template zoned in on daily, weekly, or yearly activities that helps us isolate and identify the next steps while working on the hobby, or goal, itself. 
+A route that usually takes five minutes can take twenty if you are unfortunate to come across a traffic accident---or be in it. 
+
+With this in mind we instead focus on creating best-order anti-worst-case scenarios in your life that are easier to manage over time.
+These are formed in the basis of habit forming but during the initial segment of a moon-estimate you might not know what habit needs to be formed right away.
+In this instance, we build a template zoned in on activities that helps us isolate and identify the next steps while working on the hobby, or goal, itself. 
 We'll walk through an example of best-order anti-worst-case scenario by leveraging the power of combining our hobbies, in our example we'll take exercise, one of the five core hobbies.
 
-- Hobby: I want to begin going for walks
-- Given: I often get frustrated or anxious during the day
-- Given: I cannot find places to go for nice walks
-- Given: I'm not sure I can dedicate the time to go for a walk when I'm so busy
-- Best-Order: I'll wait until I get frustrated and then the next opportunity I have for a walk I'll go de-stress, otherwise I'll take it during the timeframe the sun comes out (especially in winter)
-- Anti-Worst-Case: This prevents my fear of going back for a walk and then immediately getting frustrated, at least in this aspect I can mitigate one instance of being frustrated per-day
+- Hobby: I want to begin going for walks.
+- Given: I often get frustrated or anxious during the day.
+- Given: I cannot find places to go for nice walks.
+- Given: I'm not sure I can dedicate the time to go for a walk when I'm so busy.
+- Best-Order: I'll wait until I get frustrated and then the next opportunity I have for a walk I'll go de-stress, otherwise I'll take it during the timeframe the sun comes out (especially in winter).
+- Anti-Worst-Case: This prevents my fear of going back for a walk and then immediately getting frustrated, at least in this aspect I can mitigate one instance of being frustrated per-day.
 
 In this method we use opportunistic scheduling to identify not a specific time, but a zone of success that this activity can be performed in. 
 As a result it's more flexible which can help in long term planning and you won't mind if you start walking at 8:00 one day but 9:00 the next day because your friend you haven't spoken to for a month called you on the phone. 
 You're still making progress on your goals an in this scenario you've strengthened a friendship as well, two good things in life.
 
+### More Examples
+
 If your goal is to expand your knowledge base by reading but you're often restless, you can possibly make your worst-case (being tired during the day) and then you can wait until you are tired to begin reading.
 You'll have offset the restlessness you feel with the natural rhythm of your body and then you can still find ways to naturally make progress towards your goal of reading.
-Or a common one I'll do I'll have a repeating task that's essential to forward practice like job applications, and I'll wake up and submit two job applications before cooking breakfast.
-It's all about finding ways to put forth a little effort on something you want to do, while minimizing the time difference should some aspect go wrong.
-And then working towards relaxing during the small daily activities like eating.
-Another example could be reading about the news before breakfast, while you're brushing your teeth you're not up to date on the events you'll be talking about that day.
-And a personal example is that I often deal with anxiety or school and work stress so for me it was beneficial to get my workout in at 11PM as a mental reset before bed and the next day of the same stress. 
 
-That's enough examples so I'll touch briefly on how it will take time to move along the [Learning Pit](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fimage-the-learning-pit-v0-b76pajmc6uc91.jpg%3Fauto%3Dwebp%26s%3Dd3755db5dd6b3d30335324c60c83672ef0e71160) or the idea that learning progress will be slower until a baseline knowledge amount is created and you can then build skills on top of your existing knowledge.
-Until the blueprint is reviewed, the foundation cannot go in, and the walls cannot be constructed. So when you're in the pit, and I hope you are in a topic that you find interesting, embrace it, because you'll be in the pit in another topic area soon enough. 
-So focus on how "patience is a virtue, but persistence to the point of success is a blessing" *peter's laws* because all you'll have when practicing your hobbies is work that might be up to your expectations, but it can also be improved the next day when you come back for more.
+Or a common one I'll do I'll have a repeating task that's essential to forward practice like job applications, and I'll wake up and submit two job applications before cooking breakfast.
+Another example could be reading about the news before breakfast, while you're brushing your teeth you're not up to date on the events you'll be talking about that day.
+And a personal example is that I often deal with anxiety or school and work stress so for me it was beneficial to get my workout after the days events (around 11PM) as a mental reset before bed and the next day of similar stress. 
+
+Depending on your hobbies there is nearly an unlimited amount of potential best-order anti-worst-case scenarios you can find, and feel free to be more generic about the categorization, I thought these would fit well in the examples.
+It's all about finding ways to put forth a little effort on something you have to do, while minimizing the time difference should some aspect go wrong.
+
+### The Learning Pit
+
+That's enough examples so I'll touch briefly on how it will take time to move along the [Learning Pit](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fimage-the-learning-pit-v0-b76pajmc6uc91.jpg%3Fauto%3Dwebp%26s%3Dd3755db5dd6b3d30335324c60c83672ef0e71160).
+It is the idea that learning progress will be slower until a baseline knowledge amount is created and you can then build skills on top of your existing knowledge.
+Until the blueprint is reviewed, the foundation cannot go in, and the walls cannot be constructed.
+So when you're in the pit, and I hope you are in a topic that you find interesting, embrace it, because you'll be in the pit in another topic area soon enough after climbing out on the current topic. 
+So focus on how "patience is a virtue, but persistence to the point of success is a blessing" *peter's laws* 
+  as all you'll have when practicing your hobbies is work that might be up to your expectations..for now.
 
 In life "when faced without a challenge, make one" *peter's laws* and this can mean constant improvement, yes.
-Or it can mean working towards a goal that's slightly off what you think is achievable, in the software community we refer to these as nice-to-haves;
+Or it can mean working towards a goal that's slightly off what you think is relevant, in the software community we refer to these as nice-to-haves;
 these are things that aren't technically essential, but can help with daily activities or long term progress. 
-The [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle) cites that 80% of the results comes from 20% of the inputs or effort. 
+
+#### Finding Room for Improvement
+
+The [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle) says that 80% of the results comes from 20% of the inputs or effort. 
 And with the assumption that nobody is perfect.
-Then mathematically it can be argued that if you set your ambitions as 80% of the ambition is the end result then you leave 20% as room for improvement if you get locked-in to the scenario.
-For instance if I set my ambitions writing this article that 80% of the work was finishing my own leadership portfolio and then the remaining 20% is doing this article for the next generation, then I've left room for improvement.
+Then mathematically it can be argued that if you set your ambitions as 80% of the ambition is the end result then you leave 20% as room for improvement or nice-to-haves if you get locked-in to the scenario.
+
+For instance if I set my ambitions writing this article that 80% of the work was finishing my own leadership portfolio and writing a rough draft for you all.
+Then the remaining 20% is perfecting this article for the next generation and expanding it to include other texts as well, then I've left room for improvement on the same task.
+
 This method may give some Key-Performance-Indicator obsessed managers a headache, but it's what has worked for me because it allows for more flexibility on continuing work on the things I find interesting. 
-I know this is opinionated however I thought I'd share that mentality in case somebody feels they are underachieving, now you can go in with that expectation, and have already planned out where to go when you feel you need to do more.
-Try to analyze these habits and hobbies in the light of the best version of this will do something great for my future and the worst-case is mitigated because of the plan you have setup in place.
+I know this is opinionated, however I thought I'd share that mentality in case somebody feels they are underachieving, now you can go in with that expectation, and have already planned out where to go when you feel you need to do more.
+Try to analyze these habits and hobbies in the light of the best version of this will do something great for my future and the (semi)anti-worst-case is mitigated because you have still accomplished something worthwhile.
 
 Remember the old saying "small choices become actions, actions become habits, habits become our way of life" so make the habits flexible enough to deal with life's stressors and you'll find yourself better able to cope with life.
 By using the moon estimates when setting your schedule you can plan for the smallest change over the next moon and then slowly add tiny changes, like if you tuck your shoe laces in when taking off your shoes, and let these compound. 
 
-## Methodology
+## Timing Considerations
+
+### Time-Stress Calculations
 
 We will perform an activity on efficient productivity and self-mastery and learn to find how time adds up in our daily life, versus how time feels in our daily life.
 
 To begin start by writing down a list of activities (I prefer using the week schedule) of all the things you do during the week.
 Remember things like eating, washing up, working, studying, exercise or any other activities you like to participate in.
 Then add the minutes per week you think you spend performing these tasks, it's okay to use a calculator, and see what the total amount of time spent is.
-
-Then divide the total by the number of minutes in a week, it's okay to use hours for these calculations if it's easier, (168 hours per week * 60 minutes per hour) = 10080 minutes per week.
+Then divide the total by the number of minutes in a week, it's okay to use hours for these calculations if it's easier, 
 This will be your estimated utilization of how much of the week you spend doing activities you love or possibly have to do. 
-Another metric is the time remaining which is the 10080 minutes per week = (168 hours per week * 60 minutes per hour) - (x: your total from the activity) = (y: time remaining in your week to add hobbies)
-and will allow you to have metrics by which to approach the following questions, of which you can pick and choose.
+
+- (168 hours per week * 60 minutes per hour) = 10080 minutes per week.
+- (total time written during the activity in minutes) / 10080 minutes per week = weekly time utilization in minutes
+
+Another metric is the time remaining which is (168 hours per week * 60 minutes per hour) - (your total number of minutes from the activity) = (time remaining in your week to add hobbies).
+This will allow you to have metrics by which to approach the following questions, of which you can pick and choose.
 
 - Is there anything on the list that might negate some of the time you want to use to spend on other things?
 - How do you feel about the activities on the list, are there some that can be made more efficient?
