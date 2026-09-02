@@ -21,6 +21,7 @@ Techniques used in the original presentation have been ported over towards a wri
 > potential inclusion (still reading)
 > The text is written with new regards to Humanocracy and provides an underlying framework in which to increase employee or student capacity for creative thinking within the parent framework.
 > at my current understanding humanocracy is about how to restructure the organization to empower the people, while this module serves as how do you restructure yourself while working or within organizations. 
+> this article attempts to bridge the gap between Agile, Atomic Habits, and Humanocracy in regards to the self.
 
 ## Hobbies as a Lifestyle 
 
@@ -390,11 +391,12 @@ For questions I am available by email at isadiewei@proton.me.
 
 ## References or Inspiration
 
-- Peter's Laws (subset)
+- Humanocracy by Hamel + Zanini
+- Atomic Habits by James Clear
+- University of Michigan Psychology (for positive energy, they were not consulted in the making of this article)
+- Peter's Laws The Creed of the Sociopathic-Obsessive (subset of laws) nicknamed by the author "The Spaceman's Creed"
 - The Roy and Marcia Armes Engineering Leadership Institute 2017-2020+
-- University of Michigan Psychology
-- Jeff
-- BeardedGlass (sorry I mismatched the quotes, thanks for the help)
+- Reddit User BeardedGlass (sorry I mismatched the quotes, thanks for the help)
 - Agile Manifesto and Principles
   - Kent Beck
   - Mike Beedle
@@ -413,3 +415,4 @@ For questions I am available by email at isadiewei@proton.me.
   - Ken Schwaber
   - Jeff Sutherland
   - Dave Thomas
+- Jeff (who was also not consulted, sorry)
