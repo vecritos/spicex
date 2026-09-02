@@ -337,10 +337,23 @@ In this mentality I'll leave you with two more sections on different mentalities
 
 ### Question not Doubt
 
-When focusing on yourself and making decisions, in order to avoid viewing yourself in a negative light question but don't doubt your past or your ability to have done better in those situations.
-When questioning it brings a clarity of ideals, and additional topics (hindsight 20/20), as well as opens the door for future expansion.
+When focusing on yourself and making decisions, in order to avoid viewing yourself in a negative light: question but don't doubt your past or your ability to have done better in those situations.
+Questioning through asking productive open ended questions brings a clarity of ideals, additional topics, as well as opens the door for future expansion.
+Often times we ask for or attempt to give constructive criticism in our interactions with our peers, you deserve no less respect when talking to yourself.
+Attempts to make constructive criticism on your past can be difficult so we can observe two different approaches and leave room for you to come up with more.
+Our first method is to ask open ended-questions about your past, as in "What decision would I make now if presented with the same situation? How would I act? What would I expect the result to be?" 
+This method is more about harnessing the power of hindsight for the future.
+And so, by planning out a future based on past experience, you can have an action plan in place if a similar situation occurs again.
+These plans can accumulate and will help you feel more prepared for the future, whatever that may be.
+Feel free to document or outline your plans so there's always a place to come back to or to reference when you move forward.
 
-An method for this is to ask open ended-questions about your past, as in "what decision would I make now if presented with the same situation and what did I learn from that experience that has helped me move forward".
+Another method is to ask "What did I learn from that experience?".
+Just as *Thanos* in the Marvel Cinematic Universe seeks balance among the universe by eradicating half of all life, we too can seek balance within ourselves.
+In such instances as questioning your past learning experiences asking yourself what you learned is a way to view any experience in an opposing light.
+If the situation is negative, you can find a positive aspect to carry forward.
+If the situation is positive, you can find a negative aspect that you wish to improve.
+In this mentality everything becomes "perfectly balanced, as all things should be" *Thanos* and we can move forward balanced in the aspects of consistent improvement and good-decision-at-the-time approaches.
+
 Meanwhile doubting sounds more like "I knew I'd never know what to do in that situation", "or I could have done better if only I'd known (something)". 
 Doubting will isolate you from your team and support network, it is often presented as inflexible and cannot be questioned, and will often lead to thinking in absolutes or negative-self talk. 
 We can now see how using open ended questions paints our past in a more positive light and allows us room to figure out how to improve in our progress.
