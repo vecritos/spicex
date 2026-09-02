@@ -1,4 +1,6 @@
-# Selfocracy
+# Moon Productivity
+
+> nicknamed Selfocracy (I'll earn this title if someone quotes it, otherwise called Moon Productivity)
 
 ---
 
