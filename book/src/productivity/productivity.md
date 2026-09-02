@@ -164,16 +164,15 @@ It's all about finding ways to put forth a little effort on something you have t
 
 ### The Learning Pit
 
+Peter's Laws or the Creed for the Sociopathic-Obsessive state "when faced without a challenge, make one" this speaks to finding opportunities to challenge yourself regardless of the organizational restrictions imposed upon you.
+These can be personal challenges using the methodology of the fibonacci sequence to numerically assign values to the different aspects of the lifestyle change or moon estimate that you want to participate in.
+
 That's enough examples so I'll touch briefly on how it will take time to move along the [Learning Pit](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fimage-the-learning-pit-v0-b76pajmc6uc91.jpg%3Fauto%3Dwebp%26s%3Dd3755db5dd6b3d30335324c60c83672ef0e71160).
 It is the idea that learning progress will be slower until a baseline knowledge amount is created and you can then build skills on top of your existing knowledge.
 Until the blueprint is reviewed, the foundation cannot go in, and the walls cannot be constructed.
 So when you're in the pit, and I hope you are in a topic that you find interesting, embrace it, because you'll be in the pit in another topic area soon enough after climbing out on the current topic. 
 So focus on how "patience is a virtue, but persistence to the point of success is a blessing" *peter's laws* 
   as all you'll have when practicing your hobbies is work that might be up to your expectations..for now.
-
-In life "when faced without a challenge, make one" *peter's laws* and this can mean constant improvement, yes.
-Or it can mean working towards a goal that's slightly off what you think is relevant, in the software community we refer to these as nice-to-haves;
-these are things that aren't technically essential, but can help with daily activities or long term progress. 
 
 #### Finding Room for Improvement
 
@@ -276,12 +275,15 @@ It has been altered to apply to more fields than Software Engineering but has wo
 - > doing so simply and with a preference to the shorter timescale,
 - > without loosing sight of our highest priority
   
-With this in mind, we can interpret that our approaches to life can be slightly altered at all times in the methods outlined by our hobbies and this can compound---our productivity word, until we achieve the desired results.
+With these ideas in mind we are able to obtain a mentality in which consistent improvement over iterations in our lives yield greater successes in the long term because we can account for change as part of our mindset of adaptation.
 
-### Waste and Waste Products
+### Waste Products
 
 One of the easiest things to find and remove from your busyness in productivity activities is waste products. As you gain a capacity to recognize when something is not efficient enough it becomes something that only slows you down.
-In this instance the best thing to do is to nix it or to "reduce non-value adding wastes" *taiichi ohno* either in yourself, an organization, or your mentality.
+In this instance the best thing to do is to nix it or to "reduce non-value adding wastes" *taiichi ohno* which are the additional things in an organization or in your life that cannot be changed but consume excess time or energy.
+Wastes in this sense can also be small things that are marketed to us, but often lead to having more problems.
+Think carpet is marketed as comfortable, so then we also need a vacuum, carpet cleaner, or possibly a steam clean each with their own time dependency, or time required.
+Furthermore, think of the time at work required to purchase each additional expense and what value it adds in comfort over a less expensive comfy pair of socks and a paper towel in case of a spill.
 
 My favorite example of this is to ask someone who loves artisan breads where do they slice their bread.
 Is it worth the extra few seconds to slice it at home, remember the time it takes to get out the cutting board, or is asking the person with the mechanical slicer a better use of time.
@@ -315,7 +317,7 @@ When focusing on yourself and making decisions, in order to avoid viewing yourse
 When questioning it brings a clarity of ideals, and additional topics (hindsight 20/20), as well as opens the door for future expansion.
 
 An method for this is to ask open ended-questions about your past, as in "what decision would I make now if presented with the same situation and what did I learn from that experience that has helped me move forward".
-Meanwhile doubting sounds more like "I knew I'd never know what to do in that situation, and I've found myself to be once again, the supreme idiot chancellor of stupid town". 
+Meanwhile doubting sounds more like "I knew I'd never know what to do in that situation", "or I could have done better if only I'd known (something)". 
 Doubting will isolate you from your team and support network, it is often presented as inflexible and cannot be questioned, and will often lead to thinking in absolutes or negative-self talk. 
 We can now see how using open ended questions paints our past in a more positive light and allows us room to figure out how to improve in our progress.
 In addition, avoid the open-ended question "where would I be right now if I had done (that)" instead reframe it into "where might I be if I start (this)"
