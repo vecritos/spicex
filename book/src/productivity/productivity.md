@@ -103,19 +103,24 @@ For example,
 
 ### Moon Estimates
 
-In the agile community there's a method using the fibonacci sequence to estimate task effort.
+A fibonacci sequence is a series in which each term is the sum of the preceding two terms, it starts at 0,1 so 0+1=1, so 0,1,1,2 is the first four terms of the sequence.
+A more inclusive look at the sequence goes like this `0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144`. Notice the value `34` as we will come back to this.
+
+In the agile community there's a method of using the fibonacci sequence to estimate effort needed to complete a task.
 For example, in one of my more agile organizations we used 21 to indicate about a sprint's worth of work, in our personal lives we can use a similar approach. 
-When dealing with life or project directions, often times I'll set goals with a moon estimate to represent a constant improvement mentality change.
-And all we have to do is look up, and everybody always forgets to look up. *john flanagan*
-The reasoning behind the moon is like the sun there is a "day" where it rises and sets, but also a phase, which can outline months, two timing algorithms for just one celestial body.
+
+When dealing with life or project directions, often times I'll set goals with a moon estimate, a 34 on the fibonacci sequence, and about a month's worth of effort to represent a consistent improvement or habit to form.
+The reasoning behind the moon is like the sun there is a "day" where it rises and sets, but also a phase.
+Thus giving us two timing algorithms for just one celestial body, what a magnificent addition to our universe, to read about [how the moon was formed, please consult NASA](https://science.nasa.gov/moon/formation/).
+The breakdown of about a month of effort fits nicely into the `30-60-90 days to form a habit` mentality, and our moon-estimate allows us to add condensed verbiage to the indication that you're attempting to make a lifestyle change.
+For more tips on how to form the habits once you decide on what to do please consult [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear.
 
 Because the process of working on the hobby is itself is rewarding we can adapt how we approach tasks and assign the moon estimate, 
-for instance if you read (or listen) to [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear it will discuss how to form habits once you have decided what habits to form.
-and you can use the `30-60-90` breakdown mentality with a moon-estimate to add verbiage to the indication that you're attempting to make a lifestyle change.
-And while accumulating these moon estimates 
-  "if you fall in love with the process rather than the product, 
-   you don't have to wait to give yourself permission to be happy. 
-   you can be satisfied anytime your system is running." *reddit user beardedglass* 
+  "When you fall in love with the process rather than the product, 
+  you don’t have to wait to give yourself permission to be happy. 
+  You can be satisfied anytime your system is running. 
+  And a system can be successful in many different forms, 
+  not just the one you first envision." *James Clear*
 
 This can compound and eventually you're surrounded by new approaches to life, keeping the novelty, and satisfying the "change addicts" (*humanocracy*)
 The smaller estimates like 8, 13, or 21 become metrics by which you can evaluate your progress and whether you're enjoying it.
@@ -131,6 +136,7 @@ All I can do is provide possible methods of how you go about it and how to build
 ## Opportunistic Scheduling
 
 ### Best-Order Anti-Worst-Case
+
 Identifying a schedule can cause lots of anxiety for someone who realizes the reality of the situation is that we don't know what will happen tomorrow.
 A route that usually takes five minutes can take twenty if you are unfortunate to come across a traffic accident---or be in it. 
 
@@ -310,8 +316,15 @@ A small note on money and opportunity which can follow if you find what you are 
 Hopefully through discussions with mentors, friends, forums or otherwise you will find opportunities to grow your network and your skills while surrounded with like minded individuals. 
 
 I'll leave you with one last suggestion on a possible improvement, although this one falls more into the trick category. 
-Place lost objects back in the location where your instincts checked first, eventually everything is where you expect it to be, even if you can't fully articulate exactly why you want it there.
-Simple techniques like this allows you to develop your own life around your intuitive sense of how things work, and how they fit together in the grand-scheme of your life.
+
+I can provide an example of how small shifts in mentality will systematically adapt your lifestyle to what is sometimes difficult to describe.
+Place lost objects back in the location where your instincts checked first.
+As a result, by adjusting everything small steps at a time eventually everything is where you expect it to be.
+This can occur even if you can't fully articulate exactly why you want it there.
+Simple procedures like this can accumulate over the course of your life and you can use your intuitive sense of what it means to be you in improving your life.
+These techniques if you help document them or share them with friends can provide a collection of tactics to your life.
+Optional activity: try to build some in a group, see what tricks you come up with for identifying anti-worst-case scenarios.
+Also, to those thinking of even worse cases, yes they exist, and you have now presented us with an even greater challenge.
 
 ## Future-Minded
 
@@ -381,6 +394,7 @@ For questions I am available by email at isadiewei@proton.me.
 - The Roy and Marcia Armes Engineering Leadership Institute 2017-2020+
 - University of Michigan Psychology
 - Jeff
+- BeardedGlass (sorry I mismatched the quotes, thanks for the help)
 - Agile Manifesto and Principles
   - Kent Beck
   - Mike Beedle
