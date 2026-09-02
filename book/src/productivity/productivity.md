@@ -300,8 +300,9 @@ If some hobbies stick around, great, you have gained lifelong skills, and if we 
 Eventually all the time adds up and you have achieved the ability to tackle more problems or harder problems because you planned for time optimization through efficiency.
 Rather than optimizing non-essential but expected tasks through either your own expectations or those expectations imposed upon you by society, your organization, or your peers. 
 
-These will lead towards more experiences and if you plot the targeted abilities in your hobby-based missions over the capacity to grow you can arrive at a scatterplot that shows you the skills that will be most beneficial long-term.
-Remember the capacity for improvement is the nurturing nature of the hobby itself.
+> rework this
+> These will lead towards more experiences and if you plot the targeted abilities in your hobby-based missions over the capacity to grow you can arrive at a plot that shows you the skills that will be most beneficial long-term.
+> Remember the capacity for improvement is the nurturing nature of the hobby itself.
 
 #### Finding Benefits in Small Changes and Lifestyles
 
