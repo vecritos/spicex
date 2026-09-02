@@ -288,8 +288,14 @@ Furthermore, think of the time at work required to purchase each additional expe
 My favorite example of this is to ask someone who loves artisan breads where do they slice their bread.
 Is it worth the extra few seconds to slice it at home, remember the time it takes to get out the cutting board, or is asking the person with the mechanical slicer a better use of time.
 
-Constantly analyzing the most non-essential time frames can be "a pathway to many abilities some consider to be unnatural" *star wars*
-  because you'll always be making the best possible choices for the lifestyle you want based on the freedom of time you want to have in the future.
+In *Star Wars* Darth Sidious works to convince others that the Dark Side of The Force is "a pathway to many abilities some consider to be unnatural" showcasing how powerful and influential somebody can become if they side with him.
+Analyzing time frames in life is the pathway I make a case for in this article, however I promise to not plot against the Jedi Temple in this lifetime. 
+Time frame analysis allows you to make decisions based on guaranteed freedom of time, or rather, the ability to gain seconds in all life's activities.
+Thus, by accumulating seconds enough times a minute is gained.
+Consequentially, you can find yourself gaining time by refocusing on the time consumed by an activity and looking for innovative improvements in each task. 
+For some tasks like work or studying it is more difficult to reduce the time needed, however innovations or incremental learning strategies can reduce the overall time needed if you focus on the qualities of sleep, study, and skill.
+In this sense you can gain "abilities some consider to be unnatural" by making the best-timing possible choices for the lifestyle you want in that particular hobby-mission in the future.
+If some hobbies stick around, great, you have gained lifelong skills, and if we are lucky as a hobby based culture, we may have gained something, someone, or some place that makes us smile.
 
 Eventually all the time adds up and you have achieved the ability to tackle more problems or harder problems because you planned for time optimization through efficiency.
 Rather than optimizing non-essential but expected tasks through either your own expectations or those expectations imposed upon you by society, your organization, or your peers. 
