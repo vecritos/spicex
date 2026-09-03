@@ -5,7 +5,6 @@
 
 ---
 
-> **CHECK FOR TODO**
 **NOTE at this point this is a rough draft and will need further modification before submission to ELI**
 
 ---
@@ -29,8 +28,7 @@ In order to have the skills, incentives, and information to be self-managing (*h
 In this section we'll walk through hobbies, habits, and estimates as a framework to identify a path forward from what is known now.
 
 These ideas help us learn to micro-steer our life, gaining a sense of control and ability to impact our future.
-> todo add quote
-It is said the person who enjoys their job never works a day in their life.
+It is said "the person who enjoys their job never works a day in their life". *Possibly Confucius or Mark Twain*
 We are not scared of work however with this in mind we will be starting with hobbies and building to future successes.
 The common online breakdown we will use as an example is as follows, 
 
@@ -54,7 +52,8 @@ With this in mind accepting it's okay to get creative in your list of hobbies ca
 Just think treading water for ten minutes in the lake or pool nearby counts as great cardiovascular exercise.
 For your creative outlet it can be helpful to build this hobby into your income stream.
 
-> todo quote Activation-energy in chemistry is the
+Activation energy is the minimum amount of energy needed to start a chemical reaction. *Study.com*
+In our sense we use activation energy as the amount of a change to the course of the days events to perform your hobby.
 Humans are by nature creative problem solvers and so mitigating the activation-energy needed to perform the hobby can help it grow.
 I'll use myself as an example here I am a programmer who reads and writes code.
 And seeking to combine my creative hobby with my income stream I might find myself enjoying reading and writing in english.
@@ -111,7 +110,8 @@ This allows for feedback on how others interpret you as a person.
 Activities like this may show you that your peers did not know your hobbies all along, and provide new avenues to comradery.
 In the future, establishing a baseline on who you are as a person will help you rotate through different roles (*humanocracy, topeka*).
 Rotation through different roles helps express various aspects of being you and to nail down or test the hobbies that help you grow.
-> todo quote opportunity cost
+Opportunity cost is the value of the next-best alternative you give up when you make a choice.
+AN example of this is because you chose to go to the beach, you cannot go into town on the same day.
 Our goal is to avoid the opportunity cost of doing a hobby you think, feel, or expect is expected of you.
 We factor in opportunity cost because the reality of who you want to be might be lurking at the pottery studio down the street.
 
@@ -275,41 +275,49 @@ Our long-term benefit can be growth in our hobbies and skill sets, new financial
 
 These personal challenges while using the methodology of the fibonacci sequence to numerically assign sub-missions permit progress tracking.
 The different aspects of our lifestyle change or moon estimate can be plotted mathematically and we can track our progress.
-> todo modify reference
-Knowing this there has to be a catch so we will talk briefly about the [Learning Pit](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fimage-the-learning-pit-v0-b76pajmc6uc91.jpg%3Fauto%3Dwebp%26s%3Dd3755db5dd6b3d30335324c60c83672ef0e71160).
+Knowing this there has to be a catch so we will talk briefly about the [Learning Pit](https://learningpit.org/).
 
 The Learning Pit is the idea that learning progress will be slower until a baseline knowledge amount is created.
 Once this baseline amount or gaining the ability to discuss the problem is gained we have our skill or hobby blueprint.
 Until the blueprint is reviewed, the foundation cannot go in, and the walls cannot be constructed.
 So when you're in the pit, and I hope you are in a topic that you find interesting, embrace it. 
 Soon you'll be in the pit in another topic area soon enough after climbing out on the current topic. 
-Focus on how "patience is a virtue, but persistence to the point of success is a blessing". *peter's laws*
+Focus on how "patience is a virtue, but persistence to the point of success is a blessing". *Peter's Laws*
 And drive towards a better understanding of the hobbies we refined in the first section and live up to your expectations..for now.
 
 #### Finding Room for Improvement
 
 The [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle) says that 80% of the results comes from 20% of the inputs or effort. 
 And with the assumption that nobody is perfect.
-Then mathematically it can be argued that if you set your ambitions as 80% of the ambition is the end result then you leave 20% as room for improvement or nice-to-haves if you get locked-in to the scenario.
+Then it can be argued that if you set your ambitions as 80% of the ambition result then you leave 20% as room for improvement.
 
 For instance if I set my ambitions writing this article that 80% of the work was finishing my own leadership portfolio and writing a rough draft for you all.
-Then the remaining 20% is perfecting this article for the next generation and expanding it to include other texts as well, then I've left room for improvement on the same task.
+Then the remaining 20% is enhancing this article for the next generation and expanding it to include other texts as well, then I've left room for improvement on the same task.
 
-This method may give some Key-Performance-Indicator obsessed managers a headache, but it's what has worked for me because it allows for more flexibility on continuing work on the things I find interesting. 
-I know this is opinionated, however I thought I'd share that mentality in case somebody feels they are underachieving, now you can go in with that expectation, and have already planned out where to go when you feel you need to do more.
-Try to analyze these habits and hobbies in the light of the best version of this will do something great for my future and the (semi)anti-worst-case is mitigated because you have still accomplished something worthwhile.
+This method may give some Key-Performance-Indicator obsessed managers a headache. 
+However granting more flexibility on continuing work on the things we find interesting is beneficial for continuous improvement. 
+I thought I'd share this mentality in case somebody feels they are underachieving.
+Now you can go in with this expectation of leaving room for improvement, having already planned out where to go when you feel you need to do more.
 
-Remember the old saying "small choices become actions, actions become habits, habits become our way of life" so make the habits flexible enough to deal with life's stressors and you'll find yourself better able to cope with life.
-By using the moon estimates when setting your schedule you can plan for the smallest change over the next moon and then slowly add tiny changes, like if you tuck your shoe laces in when taking off your shoes, and let these compound. 
+By making our habits flexible enough to deal with life's stressors and you will find yourself better able to cope with life.
+Using the moon estimates when setting your schedule helps plan for the smallest change over the next moon.
+As long as these compound, the changes can be as large or as small as you want, because we can count if you tuck your shoe laces in when taking off your shoes. 
+And our idea of compounding can be summed up by the following quote from Lao Tzu.
+
+> Watch your thoughts, they become your words; 
+> watch your words, they become your actions; 
+> watch your actions, they become your habits; 
+> watch your habits, they become your character; 
+> watch your character, it becomes your destiny. *Lao Tzu*  
 
 ## Timing Considerations
 
 ### Time-Stress Calculations
 
-We will perform an activity on efficient productivity and self-mastery and learn to find how time adds up in our daily life, versus how time feels in our daily life.
+We will perform an activity on efficient productivity to find how time adds up in our daily life, versus how time feels in our daily life.
 
 To begin start by writing down a list of activities (I prefer using the week schedule) of all the things you do during the week.
-Remember things like eating, washing up, working, studying, exercise or any other activities you like to participate in.
+Remember things like eating, washing up, working, studying, exercise or any other hobbies and activities you like to participate in.
 Then add the minutes per week you think you spend performing these tasks, it's okay to use a calculator, and see what the total amount of time spent is.
 Then divide the total by the number of minutes in a week, it's okay to use hours for these calculations if it's easier, 
 This will be your estimated utilization of how much of the week you spend doing activities you love or possibly have to do. 
@@ -329,105 +337,117 @@ This will allow you to have metrics by which to approach the following questions
 
 Now we can introduce our definition of busyness versus productivity.
 Busyness we can define as time is take up by things that do not compound, busy building nothing in a way.
-Productivity we can define a things which can compound (positively) and you can build an end result from them.
+Productivity we can define as things which can compound (positively) and you can build an end result from them.
 
-Our goal is to minimize busyness while maximizing the productivity, we'll begin by labelling the busyness activities from the productivity activities.
+Our goal is to minimize busyness while maximizing productivity.
+We will begin by labelling the busyness activities and the productivity activities.
 This will give us some thinking room by which to discard, redo, or modify our busyness activities for something more productive.
 As for the ones currently labelled productive we'll now dive deeper into possible ways to make these more productive through efficiency.
 
 For efficiency we can work towards identifying small changes that become habits to form.
 Try to frame your mind to think of these small changes as something similar to placing your toothbrush next to the sink.
-These changes are common occurrences that allow you to move slow, and because slow is smooth, smooth is fast and these changes help assist you to move faster by transitivity.
+These changes are common occurrences that allow you to move slow, and because slow is smooth, smooth is fast these changes help assist you to move faster by transitivity.
 
 #### Building out Hobby-Habit-Forming Reports
 
-To identify and keep track of these small improvements in our life we can (optionally) break out the [A3 Report](https://www.lean.org/lexicon-terms/a3-report/) style of viewing improvements.
-We will go with the following few metrics I've pulled offline and we focus on the problem-solving methodology (or process).
+To identify and keep track of these small improvements in our life we can (optionally) break out the [A3 Report](https://www.lean.org/lexicon-terms/a3-report/) style of planning improving systems.
 We will use this professional template in a lifestyle metric and we can then breakdown hypothesis on what small changes we can make moving forward.
 
 Start with the things on your productivity list and try to come up with a few (2+) reasons on why this thing takes up that amount of time.
-Imagine if you had to go into an attic every time you wanted to brush your teeth, look for reasons why these things are time consuming, it does not have to be issues with the tasks, just why they take time.
+Imagine if you had to go into an attic every time you wanted to brush your teeth.
+Look for reasons why these things are time consuming, it does not have to be issues with the tasks, just why they take time.
 
-Identify a few things in this scenario that could be improved, for instance would 10 minutes of a practice problem that the instructor has gone over benefit you more than 60 minutes of grinding all sections in the book.
+Identify a few things in this scenario that could be improved.
+For instance would 10 minutes of a practice problem that the instructor has gone over benefit you more than 60 minutes of grinding all sections in the book.
 Try to fill out the possible improvements on what would time look like if I could prioritize, and then look for opportunities to prioritize.
+Write these down or discuss them and soon you will see there is always a few small changes that can be made.
 
-A non-academic example is if I want to exercise but am not a fan of free-weights is there an activity you can dedicate an hour a week to playing on a team and then prioritize your exercise schedule to match what that activity is.
-Work towards prioritizing the things that make your life simpler and more straightforward, nix the things that get in the way of what you love doing or who you want to be in this era of your life.
-Look for opportunities that give you multiple things, e.g. if you want to make friends and exercise then our team example is a great method because it can help you in two of your hobby-based missions.
+A non-academic example is if I want to exercise but am not a fan of free-weights.
+So see if there is there an activity you can dedicate an hour a week to playing on a team.
+Now we can prioritize your exercise schedule to match what that activity is.
+If your hobbies or moon estimates include exercise and making friends this activity will satisfy both categories.
+
+Work towards prioritizing the things that make your life simpler and more straightforward.
+Nix the things that get in the way of what you love doing or who you want to be in this era of your life.
+Look for opportunities that give you multiple things.
+Eventually you may find a small change in one hobby fits two or more of your criteria for this era, cherish these activities.
 
 ### Agile Mentality in Lifestyle Changes
 
 For now once you have found a few ways in which you can look for efficiency I'll leave you with a loosely-constructed poem based on the [Agile Manifesto and Principles](https://agilemanifesto.org/).
 It has been altered to apply to more fields than Software Engineering but has worked to maintain the base-mentality outlined by the original creators. 
 
-- > a revision of agile methodology for non-software fields -- niko
-- > focusing on the sanctity of time, 
-- > and the face to face personability, 
-- > of all our self-organizing motivated individuals work,
-- > and in applying themselves as volunteers,
-- > within a creative environment of support and trust,
-- > we create our valuable contributions and interactions,
-- > minimizing the number of primary measures in progress,
-- > saving and improving what is needed for further collaboration,
-- > while minimizing the count of processes, tools, and documentation necessary,
-- > prioritizing collaboration over contract negotiation,
-- > processes or awakening tools of potentially-aware existence,
-- > sustained infinitely over the time of our teams coherence,
-- > 
-- > under the welcoming of change and consequence,
-- > we maintain our willingness to deliver working product,
-- > by visualizing and preparing for our technical excellency,
-- > building mastery of surrounding environments and frequent delivery,
-- > and adjusting our teamwork effectively at given increments,
-- > to deliver continuously and collaborate daily with our peers,
-- > to tune ourselves for future problems and find competitive advantages,
-- > and regularly adjust as we are able and required for sustainable improvements,
-- > for cohesiveness and replacement of unhealthy patterns,
-- > we view this as the path to competency for ourselves and our peers,
-- > doing so simply and with a preference to the shorter timescale,
-- > without loosing sight of our highest priority
+> focusing on the sanctity of time, 
+> and the face to face personability, 
+> of all our self-organizing motivated individuals work,
+> and in applying themselves as volunteers,
+> within a creative environment of support and trust,
+> we create our valuable contributions and interactions,
+> minimizing the number of primary measures in progress,
+> saving and improving what is needed for further collaboration,
+> while minimizing the count of processes, tools, and documentation necessary,
+> prioritizing collaboration over contract negotiation,
+> processes or awakening tools of potentially-aware existence,
+> sustained infinitely over the time of our teams coherence,
+> 
+> under the welcoming of change and consequence,
+> we maintain our willingness to deliver working product,
+> by visualizing and preparing for our technical excellency,
+> building mastery of surrounding environments and frequent delivery,
+> and adjusting our teamwork effectively at given increments,
+> to deliver continuously and collaborate daily with our peers,
+> to tune ourselves for future problems and find competitive advantages,
+> and regularly adjust as we are able and required for sustainable improvements,
+> for cohesiveness and replacement of unhealthy patterns,
+> we view this as the path to competency for ourselves and our peers,
+> doing so simply and with a preference to the shorter timescale,
+> without loosing sight of our highest priority
   
-With these ideas in mind we are able to obtain a mentality in which consistent improvement over iterations in our lives yield greater successes in the long term because we can account for change as part of our mindset of adaptation.
+With these ideas in mind we are able to obtain a mentality in which consistent improvement over iterations in our lives yield greater successes in the long term.
+We can account for change as part of our mindset of adaptation and use it to accelerate our time version of cashback.
 
 ### Waste Products
 
-One of the easiest things to find and remove from your busyness in productivity activities is waste products. As you gain a capacity to recognize when something is not efficient enough it becomes something that only slows you down.
-In this instance the best thing to do is to nix it or to "reduce non-value adding wastes" *taiichi ohno* which are the additional things in an organization or in your life that cannot be changed but consume excess time or energy.
+One of the easiest things to find and remove from your busyness in productivity activities is waste products.
+As you gain a capacity to recognize when something is not efficient enough it becomes something that only slows you down.
+In this instance the best thing to do is to nix it or to "reduce non-value adding wastes" *Taiichi Ohno*.
+Non-value adding wastes are additional things in an organization or in your life that cannot be changed but consume excess time or energy.
+
 Wastes in this sense can also be small things that are marketed to us, but often lead to having more problems.
 Think carpet is marketed as comfortable, so then we also need a vacuum, carpet cleaner, or possibly a steam clean each with their own time dependency, or time required.
-Furthermore, think of the time at work required to purchase each additional expense and what value it adds in comfort over a less expensive comfy pair of socks and a paper towel in case of a spill.
+Furthermore, think of the time at work required to purchase each additional expense and what value it adds.
+A less expensive comfy pair of socks and a paper towel in case of a spill will also do just fine.
 
 My favorite example of this is to ask someone who loves artisan breads where do they slice their bread.
-Is it worth the extra few seconds to slice it at home, remember the time it takes to get out the cutting board, or is asking the person with the mechanical slicer a better use of time.
+Is it worth the extra few seconds to slice it at home, or is asking the person with the mechanical slicer a better use of time.
+Remember in our engineering mindset of tacking time wastes we factor in things like the time it takes to get out the cutting board.
 
-In *Star Wars* Darth Sidious works to convince others that the Dark Side of The Force is "a pathway to many abilities some consider to be unnatural" showcasing how powerful and influential somebody can become if they side with him.
-Analyzing time frames in life is the pathway I make a case for in this article, however I promise to not plot against the Jedi Temple in this lifetime. 
+In *Star Wars* Darth Sidious works to convince others that the Dark Side of The Force 
+  is "a pathway to many abilities some consider to be unnatural" showcasing how powerful and influential somebody can become if they side with him.
+Analyzing time frames in life is a pathway I make a case for in this article, however I promise to not plot against the Jedi Temple in this lifetime. 
 Time frame analysis allows you to make decisions based on guaranteed freedom of time, or rather, the ability to gain seconds in all life's activities.
 Thus, by accumulating seconds enough times a minute is gained.
 Consequentially, you can find yourself gaining time by refocusing on the time consumed by an activity and looking for innovative improvements in each task. 
-For some tasks like work or studying it is more difficult to reduce the time needed, however innovations or incremental learning strategies can reduce the overall time needed if you focus on the qualities of sleep, study, and skill.
-In this sense you can gain "abilities some consider to be unnatural" by making the best-timing possible choices for the lifestyle you want in that particular hobby-mission in the future.
-If some hobbies stick around, great, you have gained lifelong skills, and if we are lucky as a hobby based culture, we may have gained something, someone, or some place that makes us smile.
+For some tasks like work or studying it is more difficult to reduce the time needed.
+Innovations or incremental learning strategies can reduce the overall time needed if you focus on the qualities of sleep, study, and skill.
+In this sense you can gain "abilities some consider to be unnatural" by making the best-timing possible choices for the lifestyle.
+If some hobbies stick around, great, you have gained lifelong skills.
+If we are lucky as a hobby based culture, we may have gained something, someone, or some place that makes us smile.
 
 Eventually all the time adds up and you have achieved the ability to tackle more problems or harder problems because you planned for time optimization through efficiency.
-Rather than optimizing non-essential but expected tasks through either your own expectations or those expectations imposed upon you by society, your organization, or your peers. 
-
-> rework this
-> These will lead towards more experiences and if you plot the targeted abilities in your hobby-based missions over the capacity to grow you can arrive at a plot that shows you the skills that will be most beneficial long-term.
-> Remember the capacity for improvement is the nurturing nature of the hobby itself.
-
-#### Finding Benefits in Small Changes and Lifestyles
+We did this rather than optimizing non-essential but expected tasks through either your own expectations or those expectations imposed upon you by society, your organization, or your peers. 
 
 A small note on money and opportunity which can follow if you find what you are passionate about.
 Hopefully through discussions with mentors, friends, forums or otherwise you will find opportunities to grow your network and your skills while surrounded with like minded individuals. 
 
-I'll leave you with one last suggestion on a possible improvement, although this one falls more into the trick category. 
+#### Finding Benefits in Small Changes and Lifestyles
 
 I can provide an example of how small shifts in mentality will systematically adapt your lifestyle to what is sometimes difficult to describe.
 Place lost objects back in the location where your instincts checked first.
 As a result, by adjusting everything small steps at a time eventually everything is where you expect it to be.
 This can occur even if you can't fully articulate exactly why you want it there.
-Simple procedures like this can accumulate over the course of your life and you can use your intuitive sense of what it means to be you in improving your life.
+Simple procedures like this can accumulate over the course of your life.
+Eventually you can use your intuitive sense of what it means to be you in improving your life.
 These techniques if you help document them or share them with friends can provide a collection of tactics to your life.
 Optional activity: try to build some in a group, see what tricks you come up with for identifying anti-worst-case scenarios.
 Also, to those thinking of even worse cases, yes they exist, and you have now presented us with an even greater challenge.
@@ -439,11 +459,18 @@ In this mentality I'll leave you with two more sections on different mentalities
 
 ### Question not Doubt
 
-When focusing on yourself and making decisions, in order to avoid viewing yourself in a negative light: question but don't doubt your past or your ability to have done better in those situations.
+When focusing on yourself and making decisions, in order to avoid viewing yourself in a negative light, I'll add the following phrase.
+Question not doubt your past or your ability to have done better in those situations.
+
 Questioning through asking productive open ended questions brings a clarity of ideals, additional topics, as well as opens the door for future expansion.
 Often times we ask for or attempt to give constructive criticism in our interactions with our peers, you deserve no less respect when talking to yourself.
 Attempts to make constructive criticism on your past can be difficult so we can observe two different approaches and leave room for you to come up with more.
-Our first method is to ask open ended-questions about your past, as in "What decision would I make now if presented with the same situation? How would I act? What would I expect the result to be?" 
+Our first method is to ask open ended-questions about your past, as in:
+
+- What decision would I make now if presented with the same situation? 
+- How would I act? 
+- What would I expect the result to be?
+
 This method is more about harnessing the power of hindsight for the future.
 And so, by planning out a future based on past experience, you can have an action plan in place if a similar situation occurs again.
 These plans can accumulate and will help you feel more prepared for the future, whatever that may be.
@@ -454,37 +481,49 @@ Just as *Thanos* in the Marvel Cinematic Universe seeks balance among the univer
 In such instances as questioning your past learning experiences asking yourself what you learned is a way to view any experience in an opposing light.
 If the situation is negative, you can find a positive aspect to carry forward.
 If the situation is positive, you can find a negative aspect that you wish to improve.
-In this mentality everything becomes "perfectly balanced, as all things should be" *Thanos* and we can move forward balanced in the aspects of consistent improvement and good-decision-at-the-time approaches.
+In this mentality everything becomes "perfectly balanced, as all things should be" *Thanos*.
+We can move forward balanced in the aspects of consistent improvement and good-decision-at-the-time approaches.
 
-Meanwhile doubting sounds more like "I knew I'd never know what to do in that situation", "or I could have done better if only I'd known (something)". 
-Doubting is definitive, it allows less room for expansion and provides less forgiveness in moving on, moving forward, or moving up in your understanding and in your activities.
-Doubting will isolate you from your team and support network, it is often presented as inflexible, and will often lead to thinking in absolutes or negative-self talk. 
+Meanwhile doubting sounds more like 
 
-With this, hopefully we have concluded that questioning or asking open-ended questions paints our past in a more positive light and allows us room to figure out how to improve in our progress.
-Another positive mental trick gained from The University of Michigan's Psychology Clinic is re-framing and in reference to our ability to question but not doubt our past we can practice re-framing.
+- I knew I'd never know what to do in that situation
+- I could have done better if only I'd known (something)
+
+Doubting is definitive, it allows less room for expansion
+Doubting provides less forgiveness in moving on, moving forward, or moving up in your understanding and in your activities.
+Doubting will isolate you from your team and support network, it is often presented as inflexible.
+Doubting will often lead to thinking in absolutes or negative-self talk. 
+
+With this, hopefully we have concluded that questioning or asking open-ended questions paints our past in a more positive light.
+With questioning it allows us room to figure out how to improve in our progress.
+Another positive mental trick gained from The University of Michigan's Psychology Clinic is re-framing.
+In reference to our ability to question but not doubt our past we can practice re-framing.
 An example of this is instead of asking "where would I be right now if I had done (that)?" instead re-frame it into "where might I be if I start (this)?".
 
 ### Acronyms as a Hobby
 
-A hobby I picked up during my time in the professional scene was creating acronyms to help me with basic topics that I needed in my daily life to solve problems.
-Feel free to read the following and then come up with your own that might help your mentality when going through studying a new topic, preparing for interviews, or meeting new friends.
-Think of these as pre-programmed algorithms that help you in your personal interactions and build upon our idea of questioning our past to build our future success.
+A hobby I picked up during my time in the professional scene was creating acronyms.
+Acronyms help me with basic topics that I needed in my career to solve problems.
+Feel free to read the following and then come up with your own acronyms.
+These might help your mentality when going through studying a new topic, preparing for interviews, or meeting new friends.
+Think of these as pre-programmed algorithms that help you in your personal interactions.
+These can build upon our idea of questioning our past to build our future success.
 Just as a business major will talk to you about funnels, a programmer will talk to you about programs, or acronyms in this case.
 
-- acquisition, sentiment, investment, ability (a.s.i.a.) for inventory
-- capability, reliability, efficiency, wages (c.r.e.w.) for safety
-- people, enjoyments, responsibility, intelligence (p.e.r.i.) for alignment
-- situation, task, action, result (s.t.a.r.) for positives
-- logistics, actions, understanding, goals, hope (l.a.u.g.h.) for learning
-- explain, demonstrate, guide, enable (e.d.g.e.) for teaching
-- circumstances, action, result (c.a.r.) for negatives
-- citation, advancement, research, science (c.a.r.s.) for research
-- system, efficiency, new, technology (s.e.n.t.) for automation
+- acquisition, sentiment, investment, ability (a.s.i.a.) for inventory and personal belongings
+- capability, reliability, efficiency, wages (c.r.e.w.) for safety and safety devices
+- people, enjoyments, responsibility, intelligence (p.e.r.i.) for alignment and group mentality (not groupthink)
+- situation, task, action, result (s.t.a.r.) for positives and reflection
+- logistics, actions, understanding, goals, hope (l.a.u.g.h.) for learning and study
+- explain, demonstrate, guide, enable (e.d.g.e.) for teaching or instructing
+- circumstances, action, result (c.a.r.) for negatives or improvements
+- citation, advancement, research, science (c.a.r.s.) for research or education
+- system, efficiency, new, technology (s.e.n.t.) for automation and upgrades
 - cry, relative amount of time to cry, yesterday all my troubles seemed so far away (c.r.y.) for emotions
 
 ## Continuing Activities
 
-These are some potential areas covered in this article that could be useful for consideration or inclusion in your own writing.
+These are some potential areas covered in this article that could be useful for consideration or inclusion in your own writing or study.
 These were gleaned from the leadership portfolios created as part of The Roy and Marcia Engineering Leadership Institute at The University of Toledo.
 They are a great way to construct your own portfolio of positivity and see where you are, where you want to be, and how to get there.
 Thank you for everything you did to adjust my mentality and I am grateful to see the organization continue.
@@ -512,12 +551,12 @@ Thank you for everything you did to adjust my mentality and I am grateful to see
 **Disclaimer** These topics were covered during my time at The University of Toledo.
 They have been rewritten in article format for The Roy and Marcia Armes Engineering Leadership Institute.
 The subject is focused on undergraduate engineering students;
-however, this is released publicly for anyone who has interest in the topic.
-The basis for these notes was both activities participated, modules, and lectures performed at school.
+however, this is released publicly for anyone who has interest in the topics.
+The basis for these notes was both activities participated, modules, books, and lectures performed at school.
 They are not presented to be a scientific article or change someone's life only as a topic to discuss. 
 It is a look into how efficiency, opportunistic scheduling, and personal-focused research can benefit long term productivity.
 I will leave you with a final quote from *jeff* "everyday you're not getting stronger [in some way] you're getting weaker.
-For questions I am available by email at isadiewei@proton.me.
+For questions I am available by email at [isadiewei@pm.me](mailto:isadiewei@pm.me?Subject=Hello%20David%20--%20Productivity).
 
 ## References or Inspiration
 
