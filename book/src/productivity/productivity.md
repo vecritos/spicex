@@ -243,31 +243,48 @@ If our example is checking the news, maybe you have a fallback plan of having a 
 This means you can replace that time with the fallback and keep your schedule relatively consistent while also building the same habit of updating yourself.
 Other fallbacks can be formed for all you hobbies, and when you isolate when you want to do things, you can build these backup hobbies.
 In this aspect one small unplanned adjustment to your activities does not throw off your whole day.
-We build redundancies into our engineering systems in this way, why not have them for our personal or professional lives.
+We build redundancies into our engineered systems in this way, why not have them for our personal or professional lives.
 
 ### More Examples
 
-If your goal is to expand your knowledge base by reading but you're often restless, you can possibly make your worst-case (being tired during the day) and then you can wait until you are tired to begin reading.
-You'll have offset the restlessness you feel with the natural rhythm of your body and then you can still find ways to naturally make progress towards your goal of reading.
+If your goal is to expand your knowledge base by reading but you're often restless, there is hope.
+Focusing on the worst-case (being tired during the day) waiting until you are tired to begin reading can offset the restlessness.
+In this way the natural rhythm of your body will work with you towards making progress towards the goal of reading.
 
-Or a common one I'll do I'll have a repeating task that's essential to forward practice like job applications, and I'll wake up and submit two job applications before cooking breakfast.
-Another example could be reading about the news before breakfast, while you're brushing your teeth you're not up to date on the events you'll be talking about that day.
-And a personal example is that I often deal with anxiety or school and work stress so for me it was beneficial to get my workout after the days events (around 11PM) as a mental reset before bed and the next day of similar stress. 
+For simple but repetitive tasks that's essential to forward practice like job applications, doing these before a meal can ease the time between now and eating.
+Another example could be reading about the news before breakfast.
+While you are brushing your teeth, you can listen to the news to update yourself.
 
-Depending on your hobbies there is nearly an unlimited amount of potential best-order anti-worst-case scenarios you can find, and feel free to be more generic about the categorization, I thought these would fit well in the examples.
-It's all about finding ways to put forth a little effort on something you have to do, while minimizing the time difference should some aspect go wrong.
+A personal example is that I often deal with anxiety or stress so for me it was beneficial to get my workout after the days events (around 11PM).
+This sort of opportunistic scheduling allowed for a mental reset before bed and the next day of similar stress and I looked forward to it. 
+Which is one of the things about opportunistic scheduling, get to know yourself first, and then plan your day with activities to look forward to.
+Each step along the way there will be a meal, hobby, or even a friend waiting for you.
+
+Depending on your hobbies there is nearly an unlimited amount of potential best-order anti-worst-case scenarios you can find.
+Feel free to be more generic about the categorization, however, I thought these would fit well in the examples.
+
+It's all about finding ways to put forth a little effort on something you have to do.
+Alongside the effort, minimizing the time difference should some aspect go wrong.
+And to wrap up, it is beneficial to build your day around you, not another's expectations of you.
 
 ### The Learning Pit
 
-Peter's Laws or the Creed for the Sociopathic-Obsessive state "when faced without a challenge, make one" this speaks to finding opportunities to challenge yourself regardless of the organizational restrictions imposed upon you.
-These can be personal challenges using the methodology of the fibonacci sequence to numerically assign values to the different aspects of the lifestyle change or moon estimate that you want to participate in.
+Peter's Laws or the Creed for the Sociopathic-Obsessive state "when faced without a challenge, make one".
+If we search for challenges regardless of the organizational restrictions imposed upon us we can benefit long-term.
+Our long-term benefit can be growth in our hobbies and skill sets, new financial or business opportunities, or new social circles.
 
-That's enough examples so I'll touch briefly on how it will take time to move along the [Learning Pit](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fimage-the-learning-pit-v0-b76pajmc6uc91.jpg%3Fauto%3Dwebp%26s%3Dd3755db5dd6b3d30335324c60c83672ef0e71160).
-It is the idea that learning progress will be slower until a baseline knowledge amount is created and you can then build skills on top of your existing knowledge.
+These personal challenges while using the methodology of the fibonacci sequence to numerically assign sub-missions permit progress tracking.
+The different aspects of our lifestyle change or moon estimate can be plotted mathematically and we can track our progress.
+> todo modify reference
+Knowing this there has to be a catch so we will talk briefly about the [Learning Pit](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fimage-the-learning-pit-v0-b76pajmc6uc91.jpg%3Fauto%3Dwebp%26s%3Dd3755db5dd6b3d30335324c60c83672ef0e71160).
+
+The Learning Pit is the idea that learning progress will be slower until a baseline knowledge amount is created.
+Once this baseline amount or gaining the ability to discuss the problem is gained we have our skill or hobby blueprint.
 Until the blueprint is reviewed, the foundation cannot go in, and the walls cannot be constructed.
-So when you're in the pit, and I hope you are in a topic that you find interesting, embrace it, because you'll be in the pit in another topic area soon enough after climbing out on the current topic. 
-So focus on how "patience is a virtue, but persistence to the point of success is a blessing" *peter's laws* 
-  as all you'll have when practicing your hobbies is work that might be up to your expectations..for now.
+So when you're in the pit, and I hope you are in a topic that you find interesting, embrace it. 
+Soon you'll be in the pit in another topic area soon enough after climbing out on the current topic. 
+Focus on how "patience is a virtue, but persistence to the point of success is a blessing". *peter's laws*
+And drive towards a better understanding of the hobbies we refined in the first section and live up to your expectations..for now.
 
 #### Finding Room for Improvement
 
