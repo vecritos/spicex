@@ -48,8 +48,8 @@ Next we'll create a holistic view of who you are as a person right now, a curric
   so a photographer might want a [portfolio](https://www.instagram.com/astrobackyard/?hl=en) on social media, while me as a programmer might want a [website](https://ironsides.app).
 The importance of such documents stems from when talking about estimates and life directions it's easy to fall into the trap of "I haven't done anything with my life", "I can't do this",
   or any other self-defeating and counter-productive thought patterns.
-The curriculum vitae serves as a good counter-arguments to yourself because you'll start to focus on what experiences are you gaining at all moments and this can help. 
-If you're working on something you wouldn't be proud to have on your curriculum vitae, and it doesn't fall into one of your five hobbies for mental and physical health, 
+The curriculum vitae (cv) serves as a good counter-arguments to yourself because you'll start to focus on what experiences are you gaining at all moments and this can help. 
+If you're working on something you wouldn't be proud to have on your curriculum vitae (cv), and it doesn't fall into one of your five hobbies for mental and physical health, 
   it's easy to nix it or remove it from your life or equipment list---as I believe the term was coined by [Mike Clelland](https://backpackinglight.com/author/mikeclelland/) 
   for the purposes of removing items from backpacking gear lists. 
 This frees up time you can dedicate to becoming a master of other skills that do fall in line with your life's current hobbies and the goals we will set together to keep this hobbies thriving.
@@ -355,9 +355,12 @@ If the situation is positive, you can find a negative aspect that you wish to im
 In this mentality everything becomes "perfectly balanced, as all things should be" *Thanos* and we can move forward balanced in the aspects of consistent improvement and good-decision-at-the-time approaches.
 
 Meanwhile doubting sounds more like "I knew I'd never know what to do in that situation", "or I could have done better if only I'd known (something)". 
-Doubting will isolate you from your team and support network, it is often presented as inflexible and cannot be questioned, and will often lead to thinking in absolutes or negative-self talk. 
-We can now see how using open ended questions paints our past in a more positive light and allows us room to figure out how to improve in our progress.
-In addition, avoid the open-ended question "where would I be right now if I had done (that)" instead reframe it into "where might I be if I start (this)"
+Doubting is definitive, it allows less room for expansion and provides less forgiveness in moving on, moving forward, or moving up in your understanding and in your activities.
+Doubting will isolate you from your team and support network, it is often presented as inflexible, and will often lead to thinking in absolutes or negative-self talk. 
+
+With this, hopefully we have concluded that questioning or asking open-ended questions paints our past in a more positive light and allows us room to figure out how to improve in our progress.
+Another positive mental trick gained from The University of Michigan's Psychology Clinic is re-framing and in reference to our ability to question but not doubt our past we can practice re-framing.
+An example of this is instead of asking "where would I be right now if I had done (that)?" instead re-frame it into "where might I be if I start (this)?".
 
 ### Acronyms as a Hobby
 
