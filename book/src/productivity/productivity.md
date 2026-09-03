@@ -5,64 +5,100 @@
 
 ---
 
+> **CHECK FOR TODO**
 **NOTE at this point this is a rough draft and will need further modification before submission to ELI**
 
 ---
 
 ## Introduction
 
-The purpose of this revised presentation-module is to provide a mental framework in which to approach new life changes and find productivity improvements everywhere.
+The purpose of this revised presentation is to provide a mental framework in which to approach life changes and find productivity improvements.
 This article attempts to bridge the gap between Agile, Atomic Habits, and Humanocracy in regards to the self and self-improvement.
 In it we will identify hobbies and personalized hobby-missions, identify habits to form, and create estimates for the activities in the hobbies.
-We will then talk about opportunistic scheduling, preplanning our improvements, outline differences between Busyness and Productivity.
-Finally, discuss removing waste products---including time, finding benefits in small lifestyle changes, and learning to question not doubt our past.
+We will then talk about opportunistic scheduling, preplanning our improvements, and outline differences between Busyness and Productivity.
+Finally, we discuss removing waste products, including time, finding benefits in small lifestyle changes, and learning to question not doubt our past.
 This article was created for The Roy and Marcia Armes Engineering Leadership Institute at The University of Toledo as an alumni's take on old techniques.
 
-> further inclusion in the next iteration of this article: Humanocracy by Hamel + Zanini
-> I am still reading Humanocracy and at my current understanding Humanocracy is about how to restructure the organization to empower the people
-> this article serves as how do you restructure yourself while working within organizations or within your daily life. 
+> further inclusion in the next iteration of this article: Humanocracy by Hamel + Zanini (a recommended read)
+> As I am still reading Humanocracy and at my current understanding Humanocracy is about how to restructure the organization to empower the people
+> this article serves as how do you restructure yourself while working within organizations or within your daily life to empower and monitor yourself. 
 
 ## Hobbies as a Lifestyle 
 
-In order to have the skills, incentives, and information to be self-managing (*humanocracy*) within the expectations that the organization allows creative thinking it's good to take stock of your current situation.
-In this preliminary section we'll walk through a few activities that are good building blocks to identify and outline your pathway forward and create your own framework for which to build upon.
+In order to have the skills, incentives, and information to be self-managing (*humanocracy*) we first analyze our present situation.
+In this section we'll walk through hobbies, habits, and estimates as a framework to identify a path forward from what is known now.
 
-For arguments sake we'll start off with why things matter, and they matter because you'll want to have a sense of control over your own life regardless of how hopelessly lacking your control over it is.
-It's said the person who enjoys their job never works a day in their life, so we'll start off with a common breakdown seen online that showcases how hobbies can fit into your daily routines easier than expected.
-The breakdown is as follows you need ![five hobbies](https://www.reddit.com/r/IWantToLearn/comments/ouqnbt/iwtl_about_that_you_need_5_hobbies_things/) 
-a fitness routine, a creative outlet, a knowledge builder, a mindset changer, and at least one income stream to keep everything working together. 
-Go ahead and make an expansive list of all the hobbies you have that fit into these categories, it's okay to have multiple in the same category for now, we'll breakdown how to isolate them. 
+These ideas help us learn to micro-steer our life, gaining a sense of control and ability to impact our future.
+> todo add quote
+It is said the person who enjoys their job never works a day in their life.
+We are not scared of work however with this in mind we will be starting with hobbies and building to future successes.
+The common online breakdown we will use as an example is as follows, 
+
+> in order to keep the various aspects of your life working together, you need a:
+
+- fitness routine
+- a creative outlet
+- a knowledge builder
+- a mindset changer
+- and at least one income stream 
+
+Feel free to use this list or come up with your own and think of these as best practices.
+Just as your primary care physician looks at more than your eyes, we will look at multiple success paths.
+Go ahead and make a list of the hobbies you have or have dreamed of that fit into your chosen categories.
+It is okay to have multiple in the same category for now, we'll breakdown how to isolate them. 
 
 ### Personalized Goals
 
-Many times people hear "workout" and picture free-weights, but the best exercise is the one you do, so it's okay to get creative in your list of hobbies, treading water for ten minutes at the lake nearby counts.
-For creativity it's helpful to build this hobby into your income stream, humans are by nature creative problem solvers and so mitigating the *activation-energy* needed to perform the hobby will help it continue.
-  I'll use myself as an example here I am a programmer who reads and writes code, but for my creative hobby I enjoy reading and writing in english, an non-compiled but still (sometimes) thought provoking language.
-Be honest with yourself, what do you truly enjoy? These do not have to be the hobbies you stick with forever, but right now choose what works for you. These are the basis for which we'll construct remainder of the plan.
+Many times people hear "workout" and picture free-weights, but the best exercise is the one you do.
+With this in mind accepting it's okay to get creative in your list of hobbies can be a great method
+Just think treading water for ten minutes in the lake or pool nearby counts as great cardiovascular exercise.
+For your creative outlet it can be helpful to build this hobby into your income stream.
 
-Next we'll create a holistic view of who you are as a person right now, a curriculum vitae (cv), depending on your profession it can vary in format, 
-  so a photographer might want a [portfolio](https://www.instagram.com/astrobackyard/?hl=en) on social media, while me as a programmer might want a [website](https://ironsides.app).
-The importance of such documents stems from when talking about estimates and life directions it's easy to fall into the trap of "I haven't done anything with my life", "I can't do this",
-  or any other self-defeating and counter-productive thought patterns.
-The curriculum vitae (cv) serves as a good counter-arguments to yourself because you'll start to focus on what experiences are you gaining at all moments and this can help. 
-If you're working on something you wouldn't be proud to have on your curriculum vitae (cv), and it doesn't fall into one of your five hobbies for mental and physical health, 
-  it's easy to nix it or remove it from your life or equipment list---as I believe the term was coined by [Mike Clelland](https://backpackinglight.com/author/mikeclelland/) 
-  for the purposes of removing items from backpacking gear lists. 
-This frees up time you can dedicate to becoming a master of other skills that do fall in line with your life's current hobbies and the goals we will set together to keep this hobbies thriving.
+> todo quote Activation-energy in chemistry is the
+Humans are by nature creative problem solvers and so mitigating the activation-energy needed to perform the hobby can help it grow.
+I'll use myself as an example here I am a programmer who reads and writes code.
+And seeking to combine my creative hobby with my income stream I might find myself enjoying reading and writing in english.
+Spoken languages are more creative as they are non-compiling but still have the potential to be thought provoking.
+Be honest with yourself, seek to identify overlap and find what you truly enjoy.
+These do not have to be the hobbies you stick with forever so choose what works for you now.
+These are the basis for which we'll construct remainder of the plan.
 
-It's important to care about what other things people have going on as well, and you don't always have to add something to your cv. 
-So to have a fulfilling life you can start with the things that you want to define you in the future and work from there. 
+Next we will create a holistic view of who you are as a person right now.
+Often times these are called a curriculum vitae (cv), and depending on your profession it can vary in format, 
+A photographer might want a [portfolio](https://www.instagram.com/astrobackyard/?hl=en) on social media, while me as a programmer might want a [website](https://ironsides.app).
+The importance of such documents becomes clearer when talking about estimates and life directions.
+It's easy to fall into traps of "I haven't done anything with my life" or any other self-defeating and counter-productive thought patterns.
+The curriculum vitae (cv) serves as a good counter-arguments to yourself.
+With these you'll start to focus on what experiences you gaining at all moments. 
+
+Notice if you're working on something you wouldn't be proud to have on your curriculum vitae (cv).
+Notice if it doesn't fall into one of your hobbies for mental and physical health, 
+If you notice both are true then it's easy to "nix it" or remove it from your life or equipment list.
+As I believe, the term was coined by [Mike Clelland](https://backpackinglight.com/author/mikeclelland/) for the purposes of removing items from backpacking gear lists. 
+This frees up time you can dedicate to becoming a master of other skills.
+These skills are closer to your life's current hobbies and any goals we will set together to keep these hobbies thriving.
+
+It's important to care about what other things people have going on as well.
+As such, you don't always have to add something to your curriculum vitae (cv), it is okay to do things for just fun. 
+
+In contrast, in having a fulfilling life you can start with the things that you want to define you in the future and work up with that mindset. 
 If you want to give back, add a volunteer section to your cv and then work on expanding that list with more organizations that encourage volunteer work.
 
-My recommendation for relaxing hobbies, think a blanket and t.v. is to instead find a hobby that alters your mindset that is relaxing, for me this is reading. 
+My recommendation for relaxing hobbies, think a blanket and movie (a welcome inclusion at times) is to find a hobby that alters your mindset that is relaxing.
+This could be reading, meditating, or when watching entertaining shows or movies find real-life parallels that you can use as examples or relate back to.
 For extroverts it could be study groups or social mixers where they can mingle with people of varying backgrounds and learn something new through engaging with their peers. 
 
-I will make a small note that many of us enjoy memes, so to avoid doom-scrolling I like to organize a few memes until I come across one that makes me laugh and then I put my phone away and go back to my previous task.
+I will make a small note that many of us enjoy memes.
+In order to avoid doom-scrolling I like to organize memes.
+I will come across a meme that makes me laugh out loud and then I put my phone away and go back to my previous task.
 It's a good mental break, an influx of dopamine, and the habit of stopping when you've achieved a laugh prevents hours of scrolling past memes that are "moderately amusing". 
-In order to make it more personable I like to make faux-conversations up with the memes, as in I'll have two buckets and these will be the two members of the conversation, it helps me find meme-gold easier and get off my phone quicker.
+In order to make it more personable I like to make faux-conversations up with the memes.
+For this method conversation buckets help me find meme-gold easier and get off my phone quicker.
 
-Now go over the previous hobby list and see if it's something productive, if not combine hobbies in the same category, rewrite how you perform the hobby, or nix the hobbies.
-Once you have isolated individual, exciting, hobbies for each subcategory of our list we can move onto the next step, remember these are just the things you want to get better at over the course of this part of your life.
+Now go over the previous hobby list and see if it's something you can grow in abilities.
+If not, combine hobbies in the same category, rewrite how you perform the hobby, or nix the hobbies.
+Once you have isolated individual, exciting, hobbies for each subcategory of our list we can move onto the next step.
+Remember these are just the things you want to get better at over the course of this part, or time zone, of your life.
 
 #### Further Personalization
 
@@ -162,6 +198,12 @@ We'll walk through an example of best-order anti-worst-case scenario by leveragi
 In this method we use opportunistic scheduling to identify not a specific time, but a zone of success that this activity can be performed in. 
 As a result it's more flexible which can help in long term planning and you won't mind if you start walking at 8:00 one day but 9:00 the next day because your friend you haven't spoken to for a month called you on the phone. 
 You're still making progress on your goals an in this scenario you've strengthened a friendship as well, two good things in life.
+
+#### Fallback Hobbies as Anti-Worst-Case
+
+> todo it's okay to have fall back hobbies, for instance if the power goes out, instead of using the internet for your pre-breakfast routine, use an offline system that fills that space in your schedule,
+> the activity might change based on your access to the internet, but that space that you usually use for something creative is still filled by something creative, preserving the majority of your schedule
+> as well as giving you a small change that keeps life interesting but doesn't deter you or throw your whole day off
 
 ### More Examples
 
