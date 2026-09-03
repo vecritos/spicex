@@ -1,4 +1,4 @@
-# Moon Productivity
+# Moon Productivity (working title)
 
 > nicknamed Selfocracy (I'll earn this title if someone quotes it, otherwise called Moon Productivity)
 > original module called "You're Not As Busy As You Think You Are"
@@ -11,22 +11,16 @@
 
 ## Introduction
 
-> my hobby project while I read Humanocracy (Hamel + Zanini)
-> please note I have not finished the book but am reading it alongside drafting this document
-> uber-rough skeleton of the module but in written format now instead of lecture-presentation format
-> went with a argumentative report format for modification with ELI 
-> document is likely to change drastically
-> I'll find more data as I go along but for now it's more of an opinionated piece 
+The purpose of this revised presentation-module is to provide a mental framework in which to approach new life changes and find productivity improvements everywhere.
+This article attempts to bridge the gap between Agile, Atomic Habits, and Humanocracy in regards to the self and self-improvement.
+In it we will identify hobbies and personalized hobby-missions, identify habits to form, and create estimates for the activities in the hobbies.
+We will then talk about opportunistic scheduling, preplanning our improvements, outline differences between Busyness and Productivity.
+Finally, discuss removing waste products---including time, finding benefits in small lifestyle changes, and learning to question not doubt our past.
+This article was created for The Roy and Marcia Armes Engineering Leadership Institute at The University of Toledo as an alumni's take on old techniques.
 
-Many of us have frustration feeling we have not the time to approach all that we want to do in life.
-The purpose of this revised presentation-module is to provide a mental framework in which to approach productivity.
-Logical approaches to increasing time available to be allocated towards activities are presented and available for critique.
-Techniques used in the original presentation have been ported over towards a written version.
-
-> potential inclusion (still reading)
-> The text is written with new regards to Humanocracy and provides an underlying framework in which to increase employee or student capacity for creative thinking within the parent framework.
-> at my current understanding humanocracy is about how to restructure the organization to empower the people, while this module serves as how do you restructure yourself while working or within organizations. 
-> this article attempts to bridge the gap between Agile, Atomic Habits, and Humanocracy in regards to the self.
+> further inclusion in the next iteration of this article: Humanocracy by Hamel + Zanini
+> I am still reading Humanocracy and at my current understanding Humanocracy is about how to restructure the organization to empower the people
+> this article serves as how do you restructure yourself while working within organizations or within your daily life. 
 
 ## Hobbies as a Lifestyle 
 
