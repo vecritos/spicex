@@ -111,7 +111,9 @@ A fibonacci sequence is a series in which each term is the sum of the preceding 
 A more inclusive look at the sequence goes like this `0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144`. Notice the value `34` as we will come back to this.
 
 In the agile community there's a method of using the fibonacci sequence to estimate effort needed to complete a task.
+The breakdown of effort based on the fibonacci sequence was used to estimate tasks per sprint, or an iteration of work on the project, to translate: about two weeks of time.
 For example, in one of my more agile organizations we used 21 to indicate about a sprint's worth of work, in our personal lives we can use a similar approach. 
+Those semantically minded will notice my liberal use of "about" in this section to indicate that these are, in fact, estimates.
 
 When dealing with life or project directions, often times I'll set goals with a moon estimate, a 34 on the fibonacci sequence, and about a month's worth of effort to represent a consistent improvement or habit to form.
 The reasoning behind the moon is like the sun there is a "day" where it rises and sets, but also a phase.
