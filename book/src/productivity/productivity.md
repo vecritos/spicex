@@ -9,6 +9,8 @@
 
 ---
 
+## Introduction
+
 > my hobby project while I read Humanocracy (Hamel + Zanini)
 > please note I have not finished the book but am reading it alongside drafting this document
 > uber-rough skeleton of the module but in written format now instead of lecture-presentation format
@@ -389,19 +391,27 @@ Just as a business major will talk to you about funnels, a programmer will talk 
 
 ## Continuing Activities
 
-It is recommended that some portion of the activities or results formed from this article are included in either a curriculum vitae or a leadership portfolio.
-
-In the end a cv or portfolio might contain some of the following
+These are some potential areas covered in this article that could be useful for consideration or inclusion in your own writing.
+These were gleaned from the leadership portfolios created as part of The Roy and Marcia Engineering Leadership Institute at The University of Toledo.
+They are a great way to construct your own portfolio of positivity and see where you are, where you want to be, and how to get there.
+Thank you for everything you did to adjust my mentality and I am grateful to see the organization continue.
 
 - Identifying Information
-- Curriculum Vitae with Professional Experience section
-- Personality Tests, Surveys, Background Information
-- Ambitions
+- Curriculum Vitae
+  - Professional Experience
+  - Extracurricular Activities
+  - Certifications and Achievements
+- Personality
+  - Motivations
+  - Emotional Intelligence Surveys
+  - Background Information
+  - Personality Tests
+  - Ambitions (current or past ambition and result)
 - Leaders Identified With
-- Letters of Feedback
-- Letters of Recommendation
-- Hobbies listed by Era
-- Current Ambitions
+- Feedback
+  - Letters of Feedback (these are helpful to gauge peer reviews of yourself)
+  - Letters of Recommendation (always ask if senior or manager is leaving or if you are)
+- Hobbies (potentially listed by Era)
 - etc.
 
 ## Disclaimer 
