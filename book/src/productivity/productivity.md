@@ -102,30 +102,47 @@ Remember these are just the things you want to get better at over the course of 
 
 #### Further Personalization
 
-Now that we have a list of things we enjoy, take some personality tests including but not limited to Emotional Intelligence Surveys, Myers-Briggs, SWOT Analysis, DISC Assessment, or the Big Five (OCEAN) to name a few.
-These will help you isolate how you move through the world in respect to your hobbies, feel free to revise the hobby list, however, keep in mind you'd be changing what you enjoy doing for what a test says you enjoy doing.
-Feel free to do these in groups or have external feedback on how you perform as a leader or person so you can get positive feedback how others interpret you as a person, it may show you that they did not know your hobbies all along.
-In the future establishing a baseline on who you are as a person will help you rotate through different roles (*humanocracy, topeka*) to express various aspects of being you an nail down the hobbies that help you grow.
-This avoids the opportunity cost of doing a hobby you think, feel, or expect is expected of you when really the truth of who you want to be might be lurking at the pottery studio down the street.
+Now that we have accumulated a list of hobbies we enjoy we can move to the next steps.
+Take some personality tests including but not limited to Emotional Intelligence Surveys, Myers-Briggs, SWOT Analysis, DISC Assessment, or the Big Five (OCEAN).
+These will help you isolate how you move through the world in respect to your hobbies.
+Based on your results feel free to revise the hobby list, however, keep in mind you'd be changing what you enjoy doing for what a test says you enjoy doing.
+Feel free to do these in groups or have external feedback on how you perform as a leader or person.
+This allows for feedback on how others interpret you as a person.
+Activities like this may show you that your peers did not know your hobbies all along, and provide new avenues to comradery.
+In the future, establishing a baseline on who you are as a person will help you rotate through different roles (*humanocracy, topeka*).
+Rotation through different roles helps express various aspects of being you and to nail down or test the hobbies that help you grow.
+> todo quote opportunity cost
+Our goal is to avoid the opportunity cost of doing a hobby you think, feel, or expect is expected of you.
+We factor in opportunity cost because the reality of who you want to be might be lurking at the pottery studio down the street.
 
-From these personality tests work towards identifying important values that are re-occurring in your results that coincide with your hobbies, these will be the framework for which we build out the long term goals.
-For these values identify a small handful of leaders who embody the base values you have created, and if you feel you are loosing touch with the world, 
-  use these leaders and the organizations they are a part of as an entry point back into the world in which you want to participate.
-Focus on the positive aspects of these organizations, it will help with long-term productivity to not get swallowed by the negative news or events from around the world.
+From these personality tests work towards identifying important values that are re-occurring in your results that coincide with your hobbies.
+From the re-occurring results we can form the framework for which we build out the long term goals.
+For these re-occurring results, or values, identify a small handful of leaders who embody the base values you have created.
+As a backup plan if we ever feel we are loosing touch with the world, then we will use these leaders and the organizations.
+The leaders will form an entry point back into the world in which you want to participate.
+Focus on the positive aspects of these organizations, positive aspects will help with long-term productivity.
+Positive aspects allow us to not get swallowed by the negative news or events from around the world.
 Another note please keep up on safety practices as this is a good thing to keep in mind in any walk of life, wear your helmets.
 
-With goal setting there are many formats SMART goals for instance, sometimes it can be hard to fit these categories so in this instance I prefer a personalized approach where you start with your isolated hobbies.
-Ask yourself where you'd want those skills to be in a few years, it can help to break your life into era's like the era of highschool, the era of going for an undergraduate degree, the era of early-on in your professional career. 
-Breaking down life segments in this way gives you permission to have long-term goals but also to not fall into traps of what age you're accomplishing tasks on, it's okay to be ahead or behind of a communities expectations.
-So at the end of this next era what is it that I want to have accomplished in these five categories, it could be run a 5K, write a poem, make $10K, earn a level on an online skill platform, perform my favorite song, or make a friend. 
+With goal setting there are many formats.
+A common format is SMART goals.
+I argue it can be hard to fit these categories so in this article I prefer a personalized approach where you start with your isolated hobbies.
+Once you have your isolated hobbies ask yourself where you'd want those skills to be in a few years.
+This will help break your life into eras like the era of highschool, the era of going for an undergraduate degree, the era of early-on in your professional career. 
+Breaking down life segments in eras gives you permission to have long-term goals but to also abstain from participating in societal expectations.
+So, at the end of this next era what is it that we want to have accomplished in these five categories.
+Many things could count it could be running a 5K, writing a poem, saving $5K, earning a level on an online skill platform, performing a favorite song, or making a friend. 
 
 #### Reframing Long Term Goals
 
-Now dig down into the goals until you can fully answer why you want these goals in this era. 
+Now we can dig down into the goals until you can fully answer why you want these goals in this era. 
 Rephrase the goals until you can easily answer why with a "because I enjoy doing this" these will help you identify flaws in your motivation.
-Motivation isn't some awe-inspiring moment each day where you have all the energy to do something it stems from a deeper sense of discipline where the ambitions you have in each hobby is worth the effort of showing up regardless.
+Motivation isn't some awe-inspiring moment each day where you have all the energy to do something.
+Motivation stems from a deeper sense of discipline where the ambitions you have in each hobby is worth the effort of showing up regardless.
 The location and implementation of a goal becomes clearer when you dig down into the "why" behind your original goal statement.
-The test of the "why"s will result in goals that are simpler and more to the point of changing your life direction by acquiring new skills and experience rather than grind-culture-of-expectations. 
+The "test of the why" will result in goals, or hobby-missions in our case, that are simpler and more to the point of changing your life direction.
+These work by acquiring new skills and experience rather than grind-culture-of-expectations. 
+And in this instance you can learn to steer your life towards a longer term goal rather than feel lost at the helm.
 
 For example, 
 
@@ -147,32 +164,42 @@ The breakdown of effort based on the fibonacci sequence was used to estimate tas
 For example, in one of my more agile organizations we used 21 to indicate about a sprint's worth of work, in our personal lives we can use a similar approach. 
 Those semantically minded will notice my liberal use of "about" in this section to indicate that these are, in fact, estimates.
 
-When dealing with life or project directions, often times I'll set goals with a moon estimate, a 34 on the fibonacci sequence, and about a month's worth of effort to represent a consistent improvement or habit to form.
+When dealing with life or project directions, often times I'll set goals with a moon estimate.
 The reasoning behind the moon is like the sun there is a "day" where it rises and sets, but also a phase.
-Thus giving us two timing algorithms for just one celestial body, what a magnificent addition to our universe, to read about [how the moon was formed, please consult NASA](https://science.nasa.gov/moon/formation/).
-The breakdown of about a month of effort fits nicely into the `30-60-90 days to form a habit` mentality, and our moon-estimate allows us to add condensed verbiage to the indication that you're attempting to make a lifestyle change.
+Thus giving us two timing algorithms for just one celestial body, to read about [how the moon was formed, please consult NASA](https://science.nasa.gov/moon/formation/).
+The moon estimate is a 34 on the fibonacci sequence, and about a month's worth of effort.
+A moon estimate will represent a consistent improvement or habit to form.
+The breakdown of about a month of effort fits nicely into the `30-60-90 days to form a habit` mentality.
+And in this way our moon-estimate allows us to add fun verbiage to the indication that you're attempting to make a lifestyle change.
 For more tips on how to form the habits once you decide on what to do please consult [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear.
 
-Because the process of working on the hobby is itself is rewarding we can adapt how we approach tasks and assign the moon estimate, 
-  "When you fall in love with the process rather than the product, 
-  you don’t have to wait to give yourself permission to be happy. 
-  You can be satisfied anytime your system is running. 
-  And a system can be successful in many different forms, 
-  not just the one you first envision." *James Clear*
+Because the process of working on the hobby is itself is rewarding we can adapt how we approach tasks and assign the moon estimate. 
 
-This can compound and eventually you're surrounded by new approaches to life, keeping the novelty, and satisfying the "change addicts" (*humanocracy*)
-The smaller estimates like 8, 13, or 21 become metrics by which you can evaluate your progress and whether you're enjoying it.
+> "When you fall in love with the process rather than the product, 
+> you don’t have to wait to give yourself permission to be happy. 
+> You can be satisfied anytime your system is running. 
+> And a system can be successful in many different forms, 
+> not just the one you first envision." *James Clear*
+
+This can compound and eventually you're surrounded by new approaches to life, keeping the novelty, and satisfying the "change addicts". *Humanocracy*
+The smaller estimates like `8`, `13`, or `21` become metrics by which you can evaluate your progress and whether you're enjoying it.
+
 For instance in the example of volunteering you can say for my moon estimate I'm going to volunteer more.
-So for a sub-goal it may make sense for every time I complete 8 (or go to a weekly volunteer event) I will add it to my cv;
-and every time I meet somebody in need twice I'll consider them a new friend (a 13 on the fibonacci sequence in our moon estimate).
+So for a sub-goal it may make sense for every time I complete `8` (or go to a weekly volunteer event) I will add it to my cv;
+and every time I meet somebody in need twice I'll consider them a new friend (a `21` on the fibonacci sequence in our moon estimate).
 This allows for a quantitative and qualitative metric based on the original goal of changing the world for the better through volunteering. 
+And through this method we can create mini-games for your life, giving us a sense of progress with a fun preliminary mindset.
 
 Also, if you're someone that enjoys performing lots of projects or switching up layouts and hobbies, you can use the fibonacci sequence again.
-In this method you assign many of the ordinary tasks in your hobby to the sequence and then upon reaching a cumulative score of 89 you can switch hobbies.
-This will give you goals within the hobby you started to achieve and give you an ability to track the metrics.
+In this method you assign many of the ordinary tasks in your hobby to the sequence and then upon reaching a cumulative score of `89` or above you can switch hobbies.
+This will give you goals within the hobby you started to make your life better, and give you an ability to track the metrics.
 Bonus contributions are this also gives you an end goal in sight in case you want to switch it up later on, who knows what will happen, that's the beauty of fibonacci based estimates.
-An example of this could be painting, every painting is worth 13 points and when you have reached 7 (or 89 divided by 13 = 6.85) paintings you can switch to another hobby.
+
+An example of this could be painting, every painting is worth `13` points and when you have reached **7** (or `89` divided by `13` = 6.85) paintings you can switch to another hobby.
 Additionally, in our painting example you could assign different fibonacci sequence values to different sized paintings, and a 0 could be that you picked up the paintbrush at all that day.
+
+Another example is being happy, a `1` could mean forcing a smile for a minute and the other `1` could mean forcing the superman pose for a minute.
+The world is yours, and the sequence is flexible, have fun finding your own hobbies, creating your estimates, and playing your mini-games.
 
 I hope you've seen some possible methods of how we can go about making estimates and how to build adaptation into this mental framework. 
 
@@ -183,27 +210,40 @@ I hope you've seen some possible methods of how we can go about making estimates
 Identifying a schedule can cause lots of anxiety for someone who realizes the reality of the situation is that we don't know what will happen tomorrow.
 A route that usually takes five minutes can take twenty if you are unfortunate to come across a traffic accident---or be in it. 
 
-With this in mind we instead focus on creating best-order anti-worst-case scenarios in your life that are easier to manage over time.
-These are formed in the basis of habit forming but during the initial segment of a moon-estimate you might not know what habit needs to be formed right away.
-In this instance, we build a template zoned in on activities that helps us isolate and identify the next steps while working on the hobby, or goal, itself. 
+We can focus on creating best-order anti-worst-case scenarios in your life that assist in managing your life over the course of your growth.
+These are formed using the basis of habit creation.
+During the initial segment of a moon-estimate you might not know what habits need to be formed right away.
+You might have collected an end term, or `89` and a few smaller activities `8, 13, 5`.
+In this instance, we build a zoned activities that helps us isolate and identify the next steps.
+These zoned activities, or habits, work while working on the hobby, or goal, itself. 
+The habits do this through slowly, incrementally adjusting, or steering your life towards less worry.
+
 We'll walk through an example of best-order anti-worst-case scenario by leveraging the power of combining our hobbies, in our example we'll take exercise, one of the five core hobbies.
 
 - Hobby: I want to begin going for walks.
 - Given: I often get frustrated or anxious during the day.
 - Given: I cannot find places to go for nice walks.
 - Given: I'm not sure I can dedicate the time to go for a walk when I'm so busy.
-- Best-Order: I'll wait until I get frustrated and then the next opportunity I have for a walk I'll go de-stress, otherwise I'll take it during the timeframe the sun comes out (especially in winter).
-- Anti-Worst-Case: This prevents my fear of going back for a walk and then immediately getting frustrated, at least in this aspect I can mitigate one instance of being frustrated per-day.
+- Best-Order: I'll wait until I get frustrated and then the next opportunity I have for a walk I'll go de-stress. Otherwise I'll take it during the timeframe the sun comes out (especially in winter).
+- Anti-Worst-Case: In this aspect I can mitigate one instance of being frustrated per-day.
 
 In this method we use opportunistic scheduling to identify not a specific time, but a zone of success that this activity can be performed in. 
-As a result it's more flexible which can help in long term planning and you won't mind if you start walking at 8:00 one day but 9:00 the next day because your friend you haven't spoken to for a month called you on the phone. 
+
+As a result it's more flexible which can help in long term planning.
+You won't mind if you start walking at 8:00 one day but 9:00 the next day because your friend you haven't spoken to for a month called you on the phone. 
 You're still making progress on your goals an in this scenario you've strengthened a friendship as well, two good things in life.
+A small adjustment that makes this easier to manage is block timing, or allowing a chunk of time to complete either hobby A or hobby B in a specific time zone.
+Some time zones like a working schedule are more restrictive on which hobbies can be performed, however working on a relevant certification may be allowed so ask your manager.
 
 #### Fallback Hobbies as Anti-Worst-Case
 
-> todo it's okay to have fall back hobbies, for instance if the power goes out, instead of using the internet for your pre-breakfast routine, use an offline system that fills that space in your schedule,
-> the activity might change based on your access to the internet, but that space that you usually use for something creative is still filled by something creative, preserving the majority of your schedule
-> as well as giving you a small change that keeps life interesting but doesn't deter you or throw your whole day off
+It is beneficial when working with finding zones of time, or working on a subset of your hobby list to have fall back plans.
+In the scenario when the power goes out, your morning routine of checking the news may not be available, so instead of skipping that time, reallocate it.
+If our example is checking the news, maybe you have a fallback plan of having a book ready, an older, politically savvy account of history.
+This means you can replace that time with the fallback and keep your schedule relatively consistent while also building the same habit of updating yourself.
+Other fallbacks can be formed for all you hobbies, and when you isolate when you want to do things, you can build these backup hobbies.
+In this aspect one small unplanned adjustment to your activities does not throw off your whole day.
+We build redundancies into our engineering systems in this way, why not have them for our personal or professional lives.
 
 ### More Examples
 
