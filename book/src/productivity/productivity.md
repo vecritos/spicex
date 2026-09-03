@@ -132,9 +132,15 @@ This can compound and eventually you're surrounded by new approaches to life, ke
 The smaller estimates like 8, 13, or 21 become metrics by which you can evaluate your progress and whether you're enjoying it.
 For instance in the example of volunteering you can say for my moon estimate I'm going to volunteer more.
 So for a sub-goal it may make sense for every time I complete 8 (or go to a weekly volunteer event) I will add it to my cv;
-and every time I meet somebody in need twice I'll consider them a new friend (a 13).
+and every time I meet somebody in need twice I'll consider them a new friend (a 13 on the fibonacci sequence in our moon estimate).
 This allows for a quantitative and qualitative metric based on the original goal of changing the world for the better through volunteering. 
-Also, if you're someone that enjoys performing lots of projects or switching up layouts and hobbies, you can give yourself a score of every 89 you switch hobbies.
+
+Also, if you're someone that enjoys performing lots of projects or switching up layouts and hobbies, you can use the fibonacci sequence again.
+In this method you assign many of the ordinary tasks in your hobby to the sequence and then upon reaching a cumulative score of 89 you can switch hobbies.
+This will give you goals within the hobby you started to achieve and give you an ability to track the metrics.
+Bonus contributions are this also gives you an end goal in sight in case you want to switch it up later on, who knows what will happen, that's the beauty of fibonacci based estimates.
+An example of this could be painting, every painting is worth 13 points and when you have reached 7 (or 89 divided by 13 = 6.85) paintings you can switch to another hobby.
+Additionally, in our painting example you could assign different fibonacci sequence values to different sized paintings, and a 0 could be that you picked up the paintbrush at all that day.
 
 In terms of why you should care about this, it's your life, I won't tell you what to do with it.
 All I can do is provide possible methods of how you go about it and how to build adaptation into this mental framework. 
