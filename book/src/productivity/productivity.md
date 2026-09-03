@@ -424,7 +424,7 @@ Remember in our engineering mindset of tacking time wastes we factor in things l
 
 In *Star Wars* Darth Sidious works to convince others that the Dark Side of The Force 
   is "a pathway to many abilities some consider to be unnatural" showcasing how powerful and influential somebody can become if they side with the Dark Side of the Force.
-Analyzing time frames in life is a pathway I make a case for in this article, however I promise to not plot against the Jedi Temple in this lifetime. 
+Analyzing time frames in life is a pathway I make a case for in this article, however I promise to not plot against the Jedi Temple in this era. 
 Time frame analysis allows you to make decisions based on guaranteed freedom of time, or rather, the ability to gain seconds in all life's activities.
 Thus, by accumulating seconds enough times a minute is gained.
 Consequentially, you can find yourself gaining time by refocusing on the time consumed by an activity and looking for innovative improvements in each task. 
