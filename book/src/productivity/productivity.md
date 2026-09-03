@@ -368,7 +368,8 @@ An example of this is instead of asking "where would I be right now if I had don
 
 A hobby I picked up during my time in the professional scene was creating acronyms to help me with basic topics that I needed in my daily life to solve problems.
 Feel free to read the following and then come up with your own that might help your mentality when going through studying a new topic, preparing for interviews, or meeting new friends.
-Think of these as pre-programmed algorithms that help you in your personal interactions, just as a business major will talk to you about funnels, a programmer will talk to you about programs, or acronyms in this case.
+Think of these as pre-programmed algorithms that help you in your personal interactions and build upon our idea of questioning our past to build our future success.
+Just as a business major will talk to you about funnels, a programmer will talk to you about programs, or acronyms in this case.
 
 - acquisition, sentiment, investment, ability (a.s.i.a.) for inventory
 - capability, reliability, efficiency, wages (c.r.e.w.) for safety
@@ -437,3 +438,4 @@ For questions I am available by email at isadiewei@proton.me.
   - Jeff Sutherland
   - Dave Thomas
 - Jeff (who was also not consulted, sorry)
+- John Flanagan (they always forget to look up, this helped with the moon estimate section)
