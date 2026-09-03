@@ -142,8 +142,7 @@ Bonus contributions are this also gives you an end goal in sight in case you wan
 An example of this could be painting, every painting is worth 13 points and when you have reached 7 (or 89 divided by 13 = 6.85) paintings you can switch to another hobby.
 Additionally, in our painting example you could assign different fibonacci sequence values to different sized paintings, and a 0 could be that you picked up the paintbrush at all that day.
 
-In terms of why you should care about this, it's your life, I won't tell you what to do with it.
-All I can do is provide possible methods of how you go about it and how to build adaptation into this mental framework. 
+I hope you've seen some possible methods of how we can go about making estimates and how to build adaptation into this mental framework. 
 
 ## Opportunistic Scheduling
 
