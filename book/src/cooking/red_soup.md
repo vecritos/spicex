@@ -20,7 +20,7 @@ bay leaf 1 (only 1 leaf) --|                       |                      |
 salt     2 (add to taste) -|                       |                      |
 parsley  2 ----------------|                       |                      |
                                                    |                      |
-potatoes (optionally peel) ------------------------|                      |
+potatoes (optionally peel, and chop) --------------|                      |
                                                                           |
 water -|- roux (if wanted for thickness) ---------------------------------|
 flour -|
