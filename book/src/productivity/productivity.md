@@ -1,7 +1,6 @@
 # Moon Productivity (working title)
 
 > nicknamed Selfocracy (I'll earn this title if someone quotes it, otherwise called Moon Productivity)
-> original module called "You're Not As Busy As You Think You Are"
 
 ---
 
@@ -552,6 +551,7 @@ Thank you for everything you did to adjust my mentality and I am grateful to see
 They have been rewritten in article format for The Roy and Marcia Armes Engineering Leadership Institute.
 The subject is focused on undergraduate engineering students;
 however, this is released publicly for anyone who has interest in the topics.
+It was originally adapted from the module for Sigma Phi Epsilon nicknamed "You're Not As Busy As You Think You Are"
 The basis for these notes was both activities participated, modules, books, and lectures performed at school.
 They are not presented to be a scientific article or change someone's life only as a topic to discuss. 
 It is a look into how efficiency, opportunistic scheduling, and personal-focused research can benefit long term productivity.
