@@ -11,25 +11,23 @@
 The purpose of this revised presentation is to provide a mental framework in which to approach life changes and find productivity improvements.
 This article attempts to bridge the gap between Agile, Atomic Habits, and Humanocracy in regards to the self and self-improvement.
 In it we will identify hobbies and personalized hobby-missions, identify habits to form, and create estimates for the activities in the hobbies.
-We will then talk about opportunistic scheduling, preplanning our improvements, and outline differences between Busyness and Productivity.
-Finally, we discuss removing waste products, including time, finding benefits in small lifestyle changes, and learning to question not doubt our past.
+We will then talk about opportunistic scheduling, pre-planning our improvements, and outline differences between Busyness and Productivity.
+Finally, we discuss removing waste products, finding benefits in small lifestyle changes, and learning to question not doubt our actions.
 This article was created for The Roy and Marcia Armes Engineering Leadership Institute at The University of Toledo as an alumni's take on old techniques.
 
-> further inclusion in the next iteration of this article: Humanocracy by Hamel + Zanini (a recommended read)
-> As I am still reading Humanocracy and at my current understanding Humanocracy is about how to restructure the organization to empower the people
-> this article serves as how do you restructure yourself while working within organizations or within your daily life to empower and monitor yourself. 
+> further inclusion in the next iteration of this article: Humanocracy by Hamel + Zanini (loving it so far).
 
 ## Hobbies as a Lifestyle 
 
-In order to have the skills, incentives, and information to be self-managing (*humanocracy*) we first analyze our present situation.
+In order to have the skills, incentives, and information to be self-managing *Humanocracy* we first analyze our present situation.
 In this section we'll walk through hobbies, habits, and estimates as a framework to identify a path forward from what is known now.
 
-These ideas help us learn to micro-steer our life, gaining a sense of control and ability to impact our future.
+These ideas help us learn to micro-steer our life, gaining a sense of control and an ability to impact our future.
 It is said "the person who enjoys their job never works a day in their life". *Possibly Confucius or Mark Twain*
 We are not scared of work however with this in mind we will be starting with hobbies and building to future successes.
-The common online breakdown we will use as an example is as follows, 
+The common online breakdown we will use as an example is as follows. 
 
-> in order to keep the various aspects of your life working together, you need a:
+### Hobby Categories
 
 - fitness routine
 - a creative outlet
@@ -44,17 +42,20 @@ It is okay to have multiple in the same category for now, we'll breakdown how to
 
 ### Personalized Goals
 
-Many times people hear "workout" and picture free-weights, but the best exercise is the one you do.
-With this in mind accepting it's okay to get creative in your list of hobbies can be a great method
+Many times people hear "workout" and picture free-weights, and yet the best exercise is the one you do.
+With this in mind accepting it is okay to get creative in your list of hobbies can be a great method.
 Just think treading water for ten minutes in the lake or pool nearby counts as great cardiovascular exercise.
-For your creative outlet it can be helpful to build this hobby into your income stream.
 
 Activation energy is the minimum amount of energy needed to start a chemical reaction. *Study.com*
-In our sense we use activation energy as the amount of a change to the course of the days events to perform your hobby.
+In our sense we use activation energy as the amount of a change in routine to perform our hobbies.
 Humans are by nature creative problem solvers and so mitigating the activation-energy needed to perform the hobby can help it grow.
+To assist with the activation-energy mindset we can think about hobbies can be combine.
+
+Creative outlets can be combined in method to your income stream lowering the activation-energy.
 I'll use myself as an example here I am a programmer who reads and writes code.
 And seeking to combine my creative hobby with my income stream I might find myself enjoying reading and writing in english.
-Spoken languages are more creative as they are non-compiling but still have the potential to be thought provoking.
+Spoken languages are thought provoking and creative, but do not need to be interpreted by a computer.
+
 Be honest with yourself, seek to identify overlap and find what you truly enjoy.
 These do not have to be the hobbies you stick with forever so choose what works for you now.
 These are the basis for which we'll construct remainder of the plan.
@@ -62,6 +63,7 @@ These are the basis for which we'll construct remainder of the plan.
 Next we will create a holistic view of who you are as a person right now.
 Often times these are called a curriculum vitae (cv), and depending on your profession it can vary in format, 
 A photographer might want a [portfolio](https://www.instagram.com/astrobackyard/?hl=en) on social media, while me as a programmer might want a [website](https://ironsides.app).
+
 The importance of such documents becomes clearer when talking about estimates and life directions.
 It's easy to fall into traps of "I haven't done anything with my life" or any other self-defeating and counter-productive thought patterns.
 The curriculum vitae (cv) serves as a good counter-arguments to yourself.
@@ -70,7 +72,7 @@ With these you'll start to focus on what experiences you gaining at all moments.
 Notice if you're working on something you wouldn't be proud to have on your curriculum vitae (cv).
 Notice if it doesn't fall into one of your hobbies for mental and physical health, 
 If you notice both are true then it's easy to "nix it" or remove it from your life or equipment list.
-As I believe, the term was coined by [Mike Clelland](https://backpackinglight.com/author/mikeclelland/) for the purposes of removing items from backpacking gear lists. 
+I believe, the term was coined by [Mike Clelland](https://backpackinglight.com/author/mikeclelland/) for the purposes of removing items from backpacking gear lists. 
 This frees up time you can dedicate to becoming a master of other skills.
 These skills are closer to your life's current hobbies and any goals we will set together to keep these hobbies thriving.
 
@@ -84,6 +86,13 @@ My recommendation for relaxing hobbies, think a blanket and movie (a welcome inc
 This could be reading, meditating, or when watching entertaining shows or movies find real-life parallels that you can use as examples or relate back to.
 For extroverts it could be study groups or social mixers where they can mingle with people of varying backgrounds and learn something new through engaging with their peers. 
 
+Now go over the previous hobby list and see if it's something you can grow in abilities.
+If not, combine hobbies in the same category, rewrite how you perform the hobby, or nix the hobbies.
+Once you have isolated individual, exciting, hobbies for each subcategory of our list we can move onto the next step.
+Remember these are just the things you want to get better at over the course of this part, or time zone, of your life.
+
+#### Meme Conversations and Relaxing
+
 I will make a small note that many of us enjoy memes.
 In order to avoid doom-scrolling I like to organize memes.
 I will come across a meme that makes me laugh out loud and then I put my phone away and go back to my previous task.
@@ -91,26 +100,17 @@ It's a good mental break, an influx of dopamine, and the habit of stopping when 
 In order to make it more personable I like to make faux-conversations up with the memes.
 For this method conversation buckets help me find meme-gold easier and get off my phone quicker.
 
-Now go over the previous hobby list and see if it's something you can grow in abilities.
-If not, combine hobbies in the same category, rewrite how you perform the hobby, or nix the hobbies.
-Once you have isolated individual, exciting, hobbies for each subcategory of our list we can move onto the next step.
-Remember these are just the things you want to get better at over the course of this part, or time zone, of your life.
-
 #### Further Personalization
 
 Now that we have accumulated a list of hobbies we enjoy we can move to the next steps.
-Take some personality tests including but not limited to Emotional Intelligence Surveys, Myers-Briggs, SWOT Analysis, DISC Assessment, or the Big Five (OCEAN).
+Take some personality tests including but not limited to: Emotional Intelligence Surveys, Myers-Briggs, SWOT Analysis, DISC Assessment, or the Big Five (OCEAN).
 These will help you isolate how you move through the world in respect to your hobbies.
 Based on your results feel free to revise the hobby list, however, keep in mind you'd be changing what you enjoy doing for what a test says you enjoy doing.
-Feel free to do these in groups or have external feedback on how you perform as a leader or person.
+Feel free to do these in groups or, additionally, have an external feedback session on how you perform as a leader or person.
 This allows for feedback on how others interpret you as a person.
 Activities like this may show you that your peers did not know your hobbies all along, and provide new avenues to comradery.
 In the future, establishing a baseline on who you are as a person will help you rotate through different roles (*humanocracy, topeka*).
 Rotation through different roles helps express various aspects of being you and to nail down or test the hobbies that help you grow.
-Opportunity cost is the value of the next-best alternative you give up when you make a choice.
-AN example of this is because you chose to go to the beach, you cannot go into town on the same day.
-Our goal is to avoid the opportunity cost of doing a hobby you think, feel, or expect is expected of you.
-We factor in opportunity cost because the reality of who you want to be might be lurking at the pottery studio down the street.
 
 From these personality tests work towards identifying important values that are re-occurring in your results that coincide with your hobbies.
 From the re-occurring results we can form the framework for which we build out the long term goals.
@@ -119,15 +119,20 @@ As a backup plan if we ever feel we are loosing touch with the world, then we wi
 The leaders will form an entry point back into the world in which you want to participate.
 Focus on the positive aspects of these organizations, positive aspects will help with long-term productivity.
 Positive aspects allow us to not get swallowed by the negative news or events from around the world.
-Another note please keep up on safety practices as this is a good thing to keep in mind in any walk of life, wear your helmets.
+Another note, please keep up on safety practices as this is a good thing to keep in mind in any walk of life, wear your helmets.
+
+Opportunity cost is the value of the next-best alternative you give up when you make a choice.
+An example of this is because you chose to go to the beach, you cannot go into town on the same day.
+Our goal is to avoid the opportunity cost of doing a hobby you think, feel, or expect is expected of you.
+We factor in opportunity cost when personalizing our hobbies because the reality of who you want to be might be lurking at the pottery studio down the street.
 
 With goal setting there are many formats.
 A common format is SMART goals.
-I argue it can be hard to fit these categories so in this article I prefer a personalized approach where you start with your isolated hobbies.
+I argue it can be hard to fit these categories so I prefer starting with your isolated hobbies.
 Once you have your isolated hobbies ask yourself where you'd want those skills to be in a few years.
 This will help break your life into eras like the era of highschool, the era of going for an undergraduate degree, the era of early-on in your professional career. 
-Breaking down life segments in eras gives you permission to have long-term goals but to also abstain from participating in societal expectations.
-So, at the end of this next era what is it that we want to have accomplished in these five categories.
+Breaking down life segments in eras gives you permission to have long-term goals while also abstaining from societal expectations.
+So, at the end of this next era what is it that we want to have accomplished in our hobbies.
 Many things could count it could be running a 5K, writing a poem, saving $5K, earning a level on an online skill platform, performing a favorite song, or making a friend. 
 
 #### Reframing Long Term Goals
