@@ -1,6 +1,28 @@
 # red soup
 
-oregano, basil, bay leaf, salt, parsely, water,
-potatoes, garlic, onion, carrots, sun dried tomato,
-beef, flour
+> renders well on larger screens
+
+```
+onion ---|- chop, mix, caramelize -|- incorporate -|- combine, let cook
+carrots -|                         |               |
+celery --|                         |               |
+                                   |               |
+beef -brown off in souper ---------|               |
+                                                   |
+water ---------------------|- combine -------------|
+                           |                       |   
+sun dried tomatoes saute --|                       |
+garlic | mince | saute ----|                       |
+                                                   |
+oregano  3 ----------------|- mix -----------------|
+basil    2 ----------------|                       |
+bay leaf 1 (only 1 leaf) --|                       |
+salt     2 (add to taste) -|                       |
+parsley  2 ----------------|                       |
+                                                   |
+potatoes (optionally peel) ------------------------|
+                                                   |
+water -|- roux (if wanted for thickness) ----------|
+flour -|
+```
 
