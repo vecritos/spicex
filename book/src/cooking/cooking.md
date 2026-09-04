@@ -21,12 +21,42 @@ We will focus on how food practices combine two main goals.
 The first is how different foods trigger different psychological and physiological responses in an individual.
 Our second goal is to analyze how foods have different chemical makeups that allow us to harness our diets for a competitive advantage. 
 
+The psychological traits of different foods can be found in the chemicals of foods.
+An example of this is how sugar or artificial sweeteners can have an anxious response.
+A healthy alternative is oats or kiwi or collard greens can have an anti-anxiety response.
+The makeup of these different foods can have an impact on how your diet impacts your mental health.
+Believe me I am not above the chomping of a burger and fries on a night off, but I understand the impact of this.
+An example of the response from particular foods is how the following breakdown occurs when eating.
+> todo fact check  domaine < tyrosine < phenylalanine
+The dopamine is often attributed to a want or a pathway to desire of particular foods.
+An eventual need in cases of addiction can occur and these are usually substitutes for the underlying chemical dopamine.
+
+We will dive more into the impact of different foods on psychological responses.
+The physiological responses of foods are a bit more obvious to us, in [Eat This Not That]() **todo author** describes healthy alternatives.
+These alternatives are obvious in both visual appearance as well as physical capability.
+
+The chemical makeups of food can allow us to chart the competitive advantage.
+There has long been a problem in The United States of food deserts, these are disadvantageous to the longevity of the population.
+The disadvantage comes from the inability to provide the populace with the essential nutrients needed for growth.
+An example of this
+> todo quote examples of food deserts
+
+Your diet could not be complete without taste.
+A friend of mine Matthew Garrett once suggested mustard as a way to spice up mundane proteins like turkey..he was absolutely correct.
+However, and he mentioned this as well that the acidity and salt in the mustard was something to watch out for, so be careful when over seasoning things for the desire of taste. 
+With this in mind we still cannot deny taste is crucial in a diet to keep us coming back for more.
+Taste can also help us moderate our diets for instance spicy dried fruit means you won't eat as much fruit usually, because it's spicy fruit.
+This can bring back the feeling of the Golden Apple in Minecraft, what makes it golden is the question we ask, is it saffron?
+
+Religion has long stood the test of time, and many religions have dietary restrictions or food based worship ceremonies.
+Food is central to who we are as human beings and acceptance of this does not mean accepting the religion but understanding our humanity.
+A long withstood expression in Christianity is "daily bread" in my opinion daily bread meant you get bread everyday, not a cracker once a week, but we will see how the Church responds.
+
+You know some say to eat ice cream is to eat it one spoon at a time.
+Some may grab a single spoon, stand by the freezer and perfectly form the spoonful and suck on it.
+Others may grab the entire tub like the dirty whores you are and eat it from lid to bottom in one sitting.
+
 ---
 
-for instance sugar or artificial sweeteners can have an anxious response while oats or kiwi or collard greens can have an anti-anxiety response
-daily bread meant you get it everyday and lots of it, not a cracker once a week
 
-- domaine < tyrosine < phenylalanine
-
-spicy dried fruit means you won't eat as much fruit usually, because it's spicy fruit
 
