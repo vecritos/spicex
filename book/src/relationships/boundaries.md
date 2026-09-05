@@ -54,5 +54,3 @@
 - not allowing someone to take advantage of your generosity
 - recognizing that friends and partners are not mindreaders
 - clearly communicating your wants and needs (and recognizing that you may be turned down but you can ask.)
-
-
