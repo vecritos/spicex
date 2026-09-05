@@ -8,11 +8,20 @@
 
 ## Introduction
 
-The purpose of this revised presentation is to provide a mental framework in which to approach life changes and find productivity improvements.
-This article attempts to bridge the gap between Agile, Atomic Habits, and Humanocracy in regards to the self and self-improvement.
-In it we will identify hobbies and personalized hobby-missions, identify habits to form, and create estimates for the activities in the hobbies.
-We will then talk about opportunistic scheduling, pre-planning our improvements, and outline differences between Busyness and Productivity.
-Finally, we discuss removing waste products, finding benefits in small lifestyle changes, and learning to question not doubt our actions.
+The purpose of this revised presentation is to provide a mental framework.
+The framework is how to approach life changes and find productivity improvements.
+This article attempts to combine knowledge.
+Some included topics are Agile, Atomic Habits, and Humanocracy.
+Context of the article regards the self and self-improvement.
+In it we will identify hobbies and personalized hobby-missions.
+We continue with which habits to form.
+We cover creating estimates for the activities in the hobbies.
+We will then talk about opportunistic scheduling.
+Discuss pre-planning our improvements.
+As well as outlining differences between Busyness and Productivity.
+We will also look for how to go about removing waste products.
+We search for benefits in small lifestyle changes
+Finally we discuss how to question not doubt our actions.
 This article was created for The Roy and Marcia Armes Engineering Leadership Institute at The University of Toledo as an alumni's take on old techniques.
 
 > further inclusion in the next iteration of this article: Humanocracy by Hamel + Zanini (loving it so far).
