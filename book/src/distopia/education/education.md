@@ -30,3 +30,6 @@ Access to full meals have drastic impacts on the wellbeing and success of the st
 Securing funding is an aspect that I may touch on at a later note.
 Funding utilized in the creation of this book, or article, went into materials and configurability research.
 Funding for S.T.E.M project based study is beneficial in building out long term success and passionate projects.
+
+Funding for a few timeframes on common kids shows where instead of advertisements it is short segments on educational topics.
+Think a 60 second clip of Bill Nye instead of two 30 second segments on Paper Towels and Beef-Nacho-Cheese Chips.
