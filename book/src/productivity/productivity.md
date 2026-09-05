@@ -163,7 +163,7 @@ The leaders will form an entry point back into the world in which you want to pa
 Focus on the positive aspects of these organizations.
 Positive aspects allow us to not get swallowed by the negative news or events from around the world.
 That does not mean ignore warning signs, but to cherish the good moments.
-Another note, please keep up on safety practices as this is a good thing to keep in mind in any walk of life.
+Another note, please keep up on safety practices as this is a good thing to keep in mind in any walk of life, wear your helmets.
 
 Opportunity cost is the value of the next-best alternative you give up when you make a choice.
 An example of this is because you chose to go to the beach, you cannot go into town on the same day.
