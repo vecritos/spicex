@@ -85,5 +85,3 @@
 - momentum of wheels turning (forces to slow aftermarkets)
 - suspension/ride height
 - wheel diameter (already states, importatnt)
-
-
