@@ -31,6 +31,14 @@ Bring essential ingredients to a successful trip but make sure to remember the d
 9. pocket knife, leave what you find
   - i use my knife all the time, even for opening envelopes, i barely notice it, but if you're packing light, razor blades work well
 10. headlamp, be considerate of other visitors
-11. watch, bear spray, other region essential equipment
+
+--- Optional Depending on Location ---
+
+- watch, bear spray, other region essential equipment
   - watches can even be used in combination with mother nature to tell directions, just be considerate when it gets late
+    - mostly these are used when synchronous activities are required like meetings, or camporee events, or dinner time at mess
+  - bear spray
+    - this is an essential safety piece of equipment
+  - other region essential equipment
+    - usually falls into safety categories, harnesses, crampons, those basics
 
