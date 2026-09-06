@@ -1,5 +1,12 @@
 # Brainstorming
 
+---
+
+**ROUGH DRAFT**
+
+---
+
+
 Sometimes brainstorming takes a toll on our psychological well being.
 I myself have drafted some ideas that are quite out-there, and some are possibly not considerations for the dinner table.
 These have included some of the following:
