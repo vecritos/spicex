@@ -477,7 +477,7 @@ Eventually you may find a small change in one hobby fits two or more of your cri
 Now we have found a few ways in which you can look for efficiency I'll leave you with a loosely-constructed poem based on the [Agile Manifesto and Principles](https://agilemanifesto.org/).
 It has been altered to apply to more fields than Software Engineering but attempts to maintain the base-mentality outlined by the original creators. 
 
-> focusing on the sanctity of time, 
+> Focusing on the sanctity of time, 
 > and the face to face personability, 
 > of all our self-organizing motivated individuals work,
 > and in applying themselves as volunteers,
