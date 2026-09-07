@@ -1,4 +1,46 @@
-# Peter's Laws 
+# Interfacing
+
+---
+
+**ROUGH DRAFT**
+
+---
+
+communication ergonomics
+
+## terminals
+
+these are customimzed devices specialized to the profession
+
+- computer keyboards more like linguistics
+- scalpels neurosurgery hooked up to mechanized operators
+- stethoscopes with microphones hooked up to ai hooked up to your charts
+- cameras hooked up to editing software on a non-terminal device with better video processing speeds
+- knives hooked up to language software to print tickets in minimal formats
+- phones for transportability but keyed with private keys that can connect to suits or have 15 min delay exiting pockets
+- etc (i don't feel like listing more)
+
+## Interfacing Offline Tooling
+
+publickey(alias symbol for privatekey)
+privatekey(asymmetric with password) pairs of 32 NFTs w/ 34TB enabled flashlight-lazer
+  - network side => program on the net (6 ring segment concentric side)
+  - secret side => off network meta programming and (3 bar segment concentric side)
+  - vv built, waiting on manufacturing for v0# moti
+
+## Digitalized Society
+
+> motion cluster organic digitalized intelligence
+
+- artisitic psychology
+- multidimensional nature versus nurtue
+- dissociative identify disphoria
+- psychological gradient
+- hypothesis
+- meimei
+- void library
+
+## Peter's Laws 
 
 > the creed of the sociopathic obsessive compulsive
 > got this from Kennedy Space Center
@@ -61,3 +103,8 @@
 - the best way to predict the future is to create it yourself
   - when you wish something was a part of the world, start on it, share your experiences, i love little art reels and stuff like i saw some with dancing leaves people it is beautiful, seriously, there's also a kinda goth? maybe? i forget the distinctions cartoon lady singing a song i love, so when you have a thing that feels like it needs to be created or the world wouldn't it's best possible place, do that thing, if you want to give up that's okay too, share how it went, someone else might pick it up, but you can always come back to it, it's better than doing something you begun to hate over and over and over until you eventually don't even have the passion for it again, (it's okay to pause;ediya)
 
+## Armor
+
+continuance of interface devices and further terminal equipment with ergonomics built in 
+
+a guide to wearing armor and discussions on possible enhancements in the future, e.g. a cooling layer

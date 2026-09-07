@@ -58,5 +58,42 @@ Others may grab the entire tub like the dirty whores you are and eat it from lid
 
 ---
 
+## Balanced Diets
 
+Target expected ranges, here are some numbers I pulled from a metabolic chart
+> todo expand and double check number, define metabolic 
 
+[3,5]mmo\dL Potassium
+[5,7.5]g/dL Protein
+
+## Simplified Recepies
+
+> expand on good techniques and proper safety either food or equipment
+
+### red soup
+
+> renders well on larger screens
+
+```
+onion ---|- chop, mix, caramelize -|- incorporate -|- combine, let cook --|- later on
+carrots -|                         |               |                      |
+celery --|                         |               |                      |
+                                   |               |                      |
+beef -brown off in souper ---------|               |                      |
+                                                   |                      |
+water ---------------------|- combine -------------|                      |
+                           |                       |                      |   
+sun dried tomatoes saute --|                       |                      |
+garlic | mince | saute ----|                       |                      |
+                                                   |                      |
+oregano  3 ----------------|- mix -----------------|                      |
+basil    2 ----------------|                       |                      |
+bay leaf 1 (only 1 leaf) --|                       |                      |
+salt     2 (add to taste) -|                       |                      |
+parsley  2 ----------------|                       |                      |
+                                                   |                      |
+potatoes (optionally peel, and chop) --------------|                      |
+                                                                          |
+water -|- roux (if wanted for thickness) ---------------------------------|
+flour -|
+```

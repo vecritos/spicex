@@ -1,4 +1,3 @@
-# The Book of Weimes
+# Articles
 
 - [Recognitions](./recognitions.md)
-- [Chapter 1](./chapter_1.md)

@@ -1,3 +1,0 @@
-# Interfacing
-
-communication ergonomics

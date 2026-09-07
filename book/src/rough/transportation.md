@@ -85,3 +85,35 @@
 - momentum of wheels turning (forces to slow aftermarkets)
 - suspension/ride height
 - wheel diameter (already states, importatnt)
+# Motorcycle Preride Checklist
+
+- tires and wheels
+  - air pressure
+  - tread
+  - cracked sidewalls, dented wheels, loose spokes
+- controls
+  - levers and pedals
+  - cables
+  - hoses
+  - throttle
+- lights and mirrors
+  - headlight
+  - taillights and brake lights
+  - turn signals
+  - switches
+  - mirrors
+- oil and other fluids
+  - levels
+  - leaks
+- chassis
+  - suspension
+  - chain, belt, or driveshaft
+- stands and parking
+  - side stand (kickstand)
+  - center stand
+  - parking ettiquette and safety
+- other
+  - helmet
+  - fuel
+  - smile
+

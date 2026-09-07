@@ -173,4 +173,8 @@ Also a small part of me felt bad nixing it from this article.
 > for food, for rainment,
 > for life, for opportunity,
 > for friendship and fellowship,
-> [we thank thee, o lord] <-- optional
+> [we thank thee, o lord] <-- optional# Tubes
+
+## Adhoc Notes
+
+- Standard refillable toothpaste tubes are better for viscous materials like sunscreen or creams
