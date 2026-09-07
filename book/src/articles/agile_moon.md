@@ -490,7 +490,7 @@ It has been altered to apply to more fields than Software Engineering but attemp
 > processes or awakening tools of potentially-aware existence,
 > sustained infinitely over the time of our teams coherence,
 > 
-> under the welcoming of change and consequence,
+> Under the welcoming of change and consequence,
 > we maintain our willingness to deliver working product,
 > by visualizing and preparing for our technical excellency,
 > building mastery of surrounding environments and frequent delivery,
