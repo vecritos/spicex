@@ -2,9 +2,7 @@
 
 ---
 
-**NOTE at this point this is a rough draft and will need further modification before submission to ELI**
-
-**CHECK TODO**
+**NOTE Working Draft**
 
 ---
 
@@ -36,7 +34,6 @@ These ideas help us learn to slowly adjust, or micro-steer, our life.
 Micro-steering helps us gain a sense of control and an ability to impact our future.
 The beginning of the path is where we are now, so we seek to identify those aspects.
 It is said "the person who enjoys their job never works a day in their life". *Possibly Confucius or Mark Twain*
-> todo double check source
 We are not scared of work.
 However, leveraging our hobbies will be our path forward.
 With this in mind we will be starting with hobbies as a concept.
@@ -64,7 +61,6 @@ With this in mind, accept it is okay to get creative in your list of hobbies.
 Just remember, treading water for ten minutes in the lake or pool nearby counts as great cardiovascular exercise.
 
 Activation energy is the minimum amount of energy needed to start a chemical reaction. *Study.com*
-> todo replace quote with another source
 In our sense we use activation energy as the amount of a change in routine to perform our hobbies.
 So we will discuss reducing the activation energy needed to perform the hobby.
 To assist with the activation energy mindset we can think about hobbies can be combine.
