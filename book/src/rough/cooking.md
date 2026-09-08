@@ -1,5 +1,11 @@
 # Cooking
 
+---
+
+**ROUGH DRAFT**
+
+---
+
 a simplified look at RATIOS and testing new recipes based off strong fundamentals in the kitchen
 
 A kitchen's main purpose was to perfect the combination of foods, some of the earliest kitchens were a cave and a fire.
@@ -97,3 +103,9 @@ potatoes (optionally peel, and chop) --------------|                      |
 water -|- roux (if wanted for thickness) ---------------------------------|
 flour -|
 ```
+
+## References and Inspiration 
+
+- leo's diner
+- maumee bay brewing company
+- nols cookery

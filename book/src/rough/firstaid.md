@@ -1,14 +1,12 @@
-# First Aid Acronyms
+# First Aid Acronyms and Equipment
 
-> credits
-> firstaid merit badge book
-> nols cookery
-> auerbach wilderness medicine 5th
-> 'tis myself
+## Acronyms in Medicine
 
-# Suicide Awareness
+First-Aid and First Aid Treatments there are often a set of procedures that are followed.
+Think about how it is good to clean a wound before putting a band-aid on.
+Here are some fun acronyms to help you remember different warning signs or treatments.
 
-> IHELPED prevent suicide (things to watch out for)
+### Suicide Awareness
 
 (I)nvolvement drops
 (H)opelessness
@@ -18,27 +16,21 @@
 (E)nvironmental stressors
 (D)epression
 
-# Sprains
-
-> I ate too much RICE before the football game
+### Sprains
 
 (R)est
 (I)ce
 (C)ompression
 (E)levation
 
-# Breaks and Contusions
-
-> your x-ray makes your femur look like DOTS
+### Breaks and Contusions
 
 (D)eformity
 (O)pen wounds
 (T)enderness
 (S)welling
 
-# Heart Attack
-
-> has a heart attack after we got to the LUNAR station without our snacks
+### Heart Attack
 
 (L)eft side pain
 (U)pper body pain
@@ -46,9 +38,7 @@
 (A)ccellerated breathing
 (R)eleasing sweat
 
-# Stroke
-
-> he HADSSS a stroke
+### Stroke
 
 (H)eadache
 (A)rms
@@ -57,9 +47,7 @@
 (S)eeing
 (S)peech
 
-# Triage
-
-> check the patients pockets for LICORICE
+### Triage
 
 (L)ogistics
 (I)njuries
@@ -70,23 +58,14 @@
 (C)aution universal precautions
 (E)nvironmental risks
 
-# Stress
-
-> mamallians dive reflex during our texting
-
-(C)old water head immersion
-(H)eart rate lowers
-(A)nimals, you are probably a mammal (RIGHT???)
-(T)IPP idk this acronym failed me 
-
-> TIPP yourself into better relaxation
+### Stress Management
 
 (T)emperature
 (I)ntense exercise
 (P)aced breathing
 (P)rogressive muscle relaxation
 
-# Dehydration Symptoms
+### Dehydration Symptoms
 
 (W)eakness
 (H)eart rate
@@ -99,10 +78,17 @@
 (S)weating decrease
 (E)xcriment witholding# first aid notes
 
-> patrol first aid kit for philmont scout ranch
-> author: pat
-> references: (Philmont Guidebook) (Rick Grassley)
+## First-Aid Kit Materials
 
+When designing a first aid kit consider the various possible incidents that can occur.
+There are many kinds of trips, some more intense than others.
+The more exploration in the outing the more likely someone will get hurt and the increased the severity.
+This article does not seek to provide advice on combat situations, although some of the equipment is useful for us as well.
+Thing like a tourniquet are great for emergencies even when working with chainsaws at home.
+
+Here is an example of a two week backpacking trip first aid kit for a group of about ten people.
+
+> todo organize
 - 25 assorted bandaids (consider including [knuckle | butterfly sutures])
 - 10 4x4 gauze pads
 - duct tape (replaced 1 tape 1inchx5yards)
@@ -140,3 +126,11 @@
 - lanacane (recommended to replace with the hydrocortisone for rashes)
 - imodium AD
 
+## References and Inspiration 
+
+- First-Aid Merit Badge Book
+- Auerbach Wilderness Medicine 5th Edition
+- Wilderness First Responder Course Materials
+- Philmont Scout Ranch
+- Rick Grassley
+- Pat 

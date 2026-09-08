@@ -137,3 +137,12 @@ Here are a few examples of where shelters can be made.
 You'll notice I have a lot of water examples, this is because many humans have done a terrible job maintaining the planet.
 Movements into water locations and reallocation of natural lands to nature parks would allow the land to recover.
 Designing a planet for environmentalism and working with our fellow carbon species will be beneficial long-term.
+
+### Reallocation
+
+reallocation happens automatically based on location to what you want,
+some want to be closer to nature, some to libraries, some to kitchens, and some to other things.
+This as needed reallocation of human resources yields an automated system that allows transfer of people.
+Building for density of people and allocation towards requested places would mean more people get what they want.
+> If everybody moved to one location people would spread back out automatically, the basis for human expansion is not monetary.
+
