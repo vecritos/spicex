@@ -1,8 +1,6 @@
-# Agile Moon
+# Productivity through Hobbies
 
----
-
-**NOTE Working Draft**
+**Working Draft**
 
 ---
 
