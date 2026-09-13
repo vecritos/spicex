@@ -41,11 +41,11 @@ A common online breakdown we will use as an example is as follows:
 
 ### Hobby Categories
 
-- fitness routine
-- a creative outlet
-- a knowledge builder
-- a mindset changer
-- and at least one income stream 
+- Fitness routine
+- Creative outlet
+- Knowledge builder
+- Mindset changer
+- At least one income stream 
 
 Feel free to use this list, or come up with your own.
 Just as your primary care physician looks at more than your eyes, we will look at multiple hobbies.
@@ -61,7 +61,7 @@ Just remember, treading water for ten minutes in the lake or pool nearby counts 
 Activation energy is the minimum amount of energy needed to start a chemical reaction. *Study.com*
 In our sense we use activation energy as the amount of a change in routine to perform our hobbies.
 So we will discuss reducing the activation energy needed to perform the hobby.
-To assist with the activation energy mindset we can think about hobbies can be combine.
+To assist with the activation energy mindset we can think about how hobbies can be combined.
 
 Humans are by nature creative problem solvers. 
 Creative outlets can be combined with your income stream.
@@ -192,13 +192,13 @@ In this instance you can learn to adjust your life towards a longer term goal.
 
 For example, 
 
-- your goal is financial freedom.
-- why: I want more time to spend with my family.
-- why: I feel we've been drifting apart.
-- why: I'm worried I spend too much time working.
-- why: I keep focusing on work so we can have financial freedom.
-- counter-argument: I'll focus on a career switch in the next two years that gives better hours.
-- knowledge-goal: I'm going to focus my knowledge goal on getting a new certification in economics so I can switch my focus.
+- Your goal is financial freedom.
+- Why: I want more time to spend with my family.
+- Why: I feel we've been drifting apart.
+- Why: I'm worried I spend too much time working.
+- Why: I keep focusing on work so we can have financial freedom.
+- Counter-argument: I'll focus on a career switch in the next two years that gives better hours.
+- Knowledge-goal: I'm going to focus my knowledge goal on getting a new certification in economics so I can switch my focus.
 
 ### Moon Estimates
 
@@ -299,7 +299,7 @@ In this method we use opportunistic scheduling to identify not a specific time, 
 As a result it's more flexible which can help in long term planning or progress.
 You won't mind if you start walking at 8:00 one day but 9:00 the next day because your friend you haven't spoken to for a month called you on the phone. 
 Additionally, we can combine walking and talking to save time.
-You're still making progress on your goals an in this scenario
+You're still making progress on your goals in this scenario.
 Bonus, you've strengthened a friendship as well, two good things in life.
 A small adjustment that makes this easier to manage is block timing.
 Block timing allows a chunk of time to complete either hobby A or hobby B in a specific time zone.
@@ -518,8 +518,8 @@ We make our goal to "reduce non-value adding wastes" *Taiichi Ohno*.
 
 Wastes in this sense can also be small things that are marketed to us.
 Think carpet is marketed as comfortable. 
-If we choose carper we also need a vacuum, carpet cleaner, or possibly a steam clean.
-Each of these expenses has their own time dependency, or time required.
+If we choose carpet we also need a vacuum, carpet cleaner, or possibly a steam clean.
+Each of these expenses has their own time dependency, or time requirement.
 Furthermore, think of the time at work required to purchase each additional item.
 Compare this to the added value of the product.
 A less expensive comfy pair of socks will solve the cozy-ness.
