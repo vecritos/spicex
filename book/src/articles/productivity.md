@@ -203,7 +203,7 @@ For example,
 ### Moon Estimates
 
 A fibonacci sequence is a series in which each term is the sum of the preceding two terms.
-The sequence starts at 0,1 so 0+1=1, and 0,1,1,2 is the first four terms of the sequence.
+The sequence starts at `0,1` so `0+1=1`, and `0,1,1,2` is the first four terms of the sequence.
 A more inclusive look at the sequence goes like this `0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144`.
 Notice the value `34` as we will come back to this.
 
