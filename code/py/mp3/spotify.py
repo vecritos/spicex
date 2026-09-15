@@ -98,7 +98,7 @@ def download_spotify_playlist(playlist_url: str):
         )
 
         print(
-            f"\n✨ Playlist download successfully completed: "
+            f"\nPlaylist download successfully completed: "
             f"{playlist_title}"
         )
 
@@ -106,7 +106,7 @@ def download_spotify_playlist(playlist_url: str):
 
     except subprocess.CalledProcessError as e:
         print(
-            f"\n❌ An error occurred downloading "
+            f"\nAn error occurred downloading "
             f"'{playlist_title}': {e}"
         )
 
@@ -143,7 +143,7 @@ def read_playlist_file(filename: str):
                 "https://open.spotify.com/playlist/"
             ):
                 print(
-                    f"⚠️ Skipping invalid URL on line "
+                    f"Skipping invalid URL on line "
                     f"{line_number}: {url}"
                 )
                 continue
@@ -186,7 +186,7 @@ def main():
         ).strip()
 
         if not playlist_url:
-            print("❌ No URL provided.")
+            print("No URL provided.")
             return
 
         download_spotify_playlist(playlist_url)
@@ -200,7 +200,7 @@ def main():
         urls = read_playlist_file(args.file)
 
         if not urls:
-            print("❌ No valid playlist URLs found.")
+            print("No valid playlist URLs found.")
             return
 
         print(
@@ -232,7 +232,7 @@ def main():
 
             except Exception as e:
                 print(
-                    f"❌ Failed to process "
+                    f"Failed to process "
                     f"{playlist_url}: {e}"
                 )
                 failed += 1
