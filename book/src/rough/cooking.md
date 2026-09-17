@@ -46,11 +46,51 @@ We will dive more into the impact of different foods on psychological responses.
 The physiological responses of foods are a bit more obvious to us, in [Eat This Not That]() **todo author** describes healthy alternatives.
 These alternatives are obvious in both visual appearance as well as physical capability.
 
+## Varied Diets
+
+### Advice from MyPlate 
+
+We often hear advice like the following from MyPlate, courtesy of Michelle Obama.
+
+- Make half your foods varied fruits and vegetables
+- Focus on whole fruits
+- Eat low-fat foods
+- Vary protein choices
+- Replace:
+  - Sodium
+  - Saturated fats
+  - Added sugars (especially drinks)
+
+### Target Ranges The Goal of Healthy Eating
+
+Similar to insulin measures
+
+Target expected ranges, here are some numbers I pulled from a metabolic chart
+> todo expand and double check number, define metabolic 
+
+[3,5]mmo\dL Potassium
+[5,7.5]g/dL Protein
+
+### True Variance in Diets
+
 The chemical makeups of food can allow us to chart the competitive advantage.
 There has long been a problem in The United States of food deserts, these are disadvantageous to the longevity of the population.
 The disadvantage comes from the inability to provide the populace with the essential nutrients needed for growth.
 An example of this
 > todo quote examples of food deserts
+
+#### healthy food chemicals
+
+Examples of healthy foods that give us some chemical make up are as follows
+
+- attempt for complete protiens due to essential amino acids body cannot produce
+
+chemical | foods | benefit
+omega3 | walnuts, flax seeds, oily fishes | heart health
+potassium | bananas | muscle relaxation (for spasms)
+melatonin | cherry, pistashio | for sleep
+
+### Taste Variances and Spices
 
 Your diet could not be complete without taste.
 A friend of mine Matthew Garrett once suggested mustard as a way to spice up mundane proteins like turkey..he was absolutely correct.
@@ -67,57 +107,20 @@ You know some say to eat ice cream is to eat it one spoon at a time.
 Some may grab a single spoon, stand by the freezer and perfectly form the spoonful and suck on it.
 Others may grab the entire tub like the fiends you are and eat it from lid to bottom in one sitting.
 
----
+## When to Eat
 
-## Balanced Diets
+Now that we know more about what to eat, we need to figure out when to eat.
 
-### My Plates
-
-We often hear advice like the following from MyPlate in the USA.
-
-- half your foods varied fruits and vegetables
-- focus on whole fruits
-- low-fat foods
-- vary protien routine
-- replace:
-  - sodium
-  - saturated fats
-  - added sugars (especially drinks)
-
-### Target Ranges
-
-Similar to insulin measures
-
-Target expected ranges, here are some numbers I pulled from a metabolic chart
-> todo expand and double check number, define metabolic 
-
-[3,5]mmo\dL Potassium
-[5,7.5]g/dL Protein
-
-
-### healthy food chemicals
-
-chemical | foods | benefit
-omega3 | walnuts, flax seeds, oily fishes | heart health
-potassium | bananas | muscle relaxation (for spasms)
-melatonin | cherry, pistashio | for sleep
-
-## Targeting Zones 
-
-### repair calories
+### Repair Calories
 
 - [30,60]g carbohydrates per hour exercise
 - [15,30]minutes post exercise for carbohydrate replacement
 - [00,60]minutes for protien resupplication
 
-### Fat Calculations (not BMI)
+## Food Planning
 
-- fats require mote oxygen than glucose stores
-- recommend [15,30]% total calories be fats
-
-### Protien Calculations
-
-- attempt for complete protiens due to essential amino acids body cannot produce
+Often times meal planning is difficult, you're not sure what "sounds good tonight".
+With these ranges we can dive more into how to go about finding the right amounts even if we can't determine what sounds good.
 
 ### ppppd
 
@@ -125,50 +128,50 @@ melatonin | cherry, pistashio | for sleep
 - zones [(1.25, 1.5) (1.5, 1.75) (1.75,2) (2,2.5)]ppppd
 - weather (temperature, duration, intensity)
 
+---
+
+### Fat Calculations (not BMI)
+
+- fats require mote oxygen than glucose stores
+- recommend [15,30]% total calories be fats
+
 ## Simplified Recepies
 
-> expand on good techniques and proper safety either food or equipment
-
-### red soup
+### red stew 
 
 Stews are actually one of the ways to cook while retaining all nutrients within the dish.
 Other cooking methods can render off nutrients, things like grilling some of the juice is wasted as it cooks.
 
 > renders well on larger screens
-2 lbs beef stew meat, cubed
-1 cup sliced carrot
-1 chopped onion
-1 tsp. salt
-1 dash of pepper 
-1 can cream of tomato soup
-1/2 soup can water
-1 big row potato sliced
-5 hours 275*F
-
-Cream
 
 ```
-onion ---|- chop, mix, caramelize -|- incorporate -|- combine, let cook --|- later on
-carrots -|                         |               |                      |
-celery --|                         |               |                      |
-                                   |               |                      |
-beef -brown off in souper ---------|               |                      |
-                                                   |                      |
-water ---------------------|- combine -------------|                      |
-                           |                       |                      |   
-sun dried tomatoes saute --|                       |                      |
-garlic | mince | saute ----|                       |                      |
-                                                   |                      |
-oregano  3 ----------------|- mix -----------------|                      |
-basil    2 ----------------|                       |                      |
-bay leaf 1 (only 1 leaf) --|                       |                      |
-salt     2 (add to taste) -|                       |                      |
-parsley  2 ----------------|                       |                      |
-                                                   |                      |
-potatoes (optionally peel, and chop) --------------|                      |
-                                                                          |
-water -|- roux (if wanted for thickness) ---------------------------------|
-flour -|
+5H @ 275F if ingredients go in raw, otherwise cook as depicted on stove top
+
+onion ---|- chop, mix, caramelize -|- incorporate -|- combine, let cook --|- later on -| serve
+carrots -|                         |               |                      |            |
+celery --|                         |               |                      |            |
+                                   |               |                      |            |
+beef | cube, brown off ------------|               |                      |            |
+                                                   |                      |            |
+water ---------------------|- combine -------------|                      |            |
+cream of tomato soup ------|                       |                      |            |
+                           |                       |                      |            |  
+sun dried tomatoes | saute |                       |                      |            |
+garlic | mince | saute ----|                       |                      |            |
+                                                   |                      |            |
+oregano  3 ----------------|- mix -----------------|                      |            |
+basil    2 ----------------|                       |                      |            |
+bay leaf 1 ----------------|                       |                      |            |
+salt     2 (add to taste) -|                       |                      |            |
+parsley  2 ----------------|                       |                      |            |
+pepper   1 ----------------|                       |                      |            |
+                                                   |                      |            |
+potatoes (optionally peel, chop) ------------------|                      |            |
+                                                                          |            |
+water -|- roux (if wanted for thickness) ---------------------------------|            |
+flour -|                                                                               |
+                                                                                       | 
+cream (this is optional if you want a richer taste as a finishing addition) -----------|
 ```
 ## ginger carrot soup
 
