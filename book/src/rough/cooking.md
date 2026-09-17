@@ -11,7 +11,6 @@
 
 `80*F 80%humidity` "summer time"
 
-a simplified look at RATIOS and testing new recipes based off strong fundamentals in the kitchen
 baking mix { 4 cup flour, 2.5 Tbsp baking powder, 0.25 cup powdered milk, 2 tsp salt }
 
 A kitchen's main purpose was to perfect the combination of foods, some of the earliest kitchens were a cave and a fire.
@@ -66,7 +65,7 @@ A long withstood expression in Christianity is "daily bread" in my opinion daily
 
 You know some say to eat ice cream is to eat it one spoon at a time.
 Some may grab a single spoon, stand by the freezer and perfectly form the spoonful and suck on it.
-Others may grab the entire tub like the dirty whores you are and eat it from lid to bottom in one sitting.
+Others may grab the entire tub like the fiends you are and eat it from lid to bottom in one sitting.
 
 ---
 
