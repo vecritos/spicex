@@ -6,7 +6,13 @@
 
 ---
 
+
+## making bread
+
+`80*F 80%humidity` "summer time"
+
 a simplified look at RATIOS and testing new recipes based off strong fundamentals in the kitchen
+baking mix { 4 cup flour, 2.5 Tbsp baking powder, 0.25 cup powdered milk, 2 tsp salt }
 
 A kitchen's main purpose was to perfect the combination of foods, some of the earliest kitchens were a cave and a fire.
 These various things that we have learned to do, including the influx of victorian sugar cakes and other delicious novelties were based in our desire to create.
@@ -66,11 +72,59 @@ Others may grab the entire tub like the dirty whores you are and eat it from lid
 
 ## Balanced Diets
 
+### My Plates
+
+We often hear advice like the following from MyPlate in the USA.
+
+- half your foods varied fruits and vegetables
+- focus on whole fruits
+- low-fat foods
+- vary protien routine
+- replace:
+  - sodium
+  - saturated fats
+  - added sugars (especially drinks)
+
+### Target Ranges
+
+Similar to insulin measures
+
 Target expected ranges, here are some numbers I pulled from a metabolic chart
 > todo expand and double check number, define metabolic 
 
 [3,5]mmo\dL Potassium
 [5,7.5]g/dL Protein
+
+
+### healthy food chemicals
+
+chemical | foods | benefit
+omega3 | walnuts, flax seeds, oily fishes | heart health
+potassium | bananas | muscle relaxation (for spasms)
+melatonin | cherry, pistashio | for sleep
+
+## Targeting Zones 
+
+### repair calories
+
+- [30,60]g carbohydrates per hour exercise
+- [15,30]minutes post exercise for carbohydrate replacement
+- [00,60]minutes for protien resupplication
+
+### Fat Calculations (not BMI)
+
+- fats require mote oxygen than glucose stores
+- recommend [15,30]% total calories be fats
+
+### Protien Calculations
+
+- attempt for complete protiens due to essential amino acids body cannot produce
+
+### ppppd
+
+- reasonable metric 1.5 lbs ~> [2500,3000] calories
+- zones [(1.25, 1.5) (1.5, 1.75) (1.75,2) (2,2.5)]ppppd
+- weather (temperature, duration, intensity)
 
 ## Simplified Recepies
 
@@ -78,7 +132,21 @@ Target expected ranges, here are some numbers I pulled from a metabolic chart
 
 ### red soup
 
+Stews are actually one of the ways to cook while retaining all nutrients within the dish.
+Other cooking methods can render off nutrients, things like grilling some of the juice is wasted as it cooks.
+
 > renders well on larger screens
+2 lbs beef stew meat, cubed
+1 cup sliced carrot
+1 chopped onion
+1 tsp. salt
+1 dash of pepper 
+1 can cream of tomato soup
+1/2 soup can water
+1 big row potato sliced
+5 hours 275*F
+
+Cream
 
 ```
 onion ---|- chop, mix, caramelize -|- incorporate -|- combine, let cook --|- later on
@@ -103,9 +171,31 @@ potatoes (optionally peel, and chop) --------------|                      |
 water -|- roux (if wanted for thickness) ---------------------------------|
 flour -|
 ```
+## ginger carrot soup
+
+> measured by ratios per subsection
+
+- add
+  - dice 30x
+    - 6 carrot
+    - 2 onion
+    - 1 celery
+  - mix 10
+    - 3 black pepper
+    - 2 salt
+    - 1 oregano
+    - 1 basil
+    - 5 cumin
+    - 5 ginger
+    - 2 garlic
+  - stir (to taste)
+    - lime, zested and juiced
+    - honey
 
 ## References and Inspiration 
 
 - leo's diner
 - maumee bay brewing company
 - nols cookery
+- MyPlate Stuff
+- Ultralight Backpackin' Tips# Family Stew
