@@ -6,13 +6,6 @@
 
 ---
 
-
-## making bread
-
-`80*F 80%humidity` "summer time"
-
-baking mix { 4 cup flour, 2.5 Tbsp baking powder, 0.25 cup powdered milk, 2 tsp salt }
-
 A kitchen's main purpose was to perfect the combination of foods, some of the earliest kitchens were a cave and a fire.
 These various things that we have learned to do, including the influx of victorian sugar cakes and other delicious novelties were based in our desire to create.
 Some of the original recipes were no-heat recipes and these have over time either become updated heat-full recipes or in some Eastern cultures no-heat medicinal supplements.
@@ -70,6 +63,24 @@ Target expected ranges, here are some numbers I pulled from a metabolic chart
 
 [3,5]mmo\dL Potassium
 [5,7.5]g/dL Protein
+
+#### Ratios in Baking
+
+just like ranges exist within the body they exist with foods too, but baking is part science part cooking, the ratios do matter
+
+baking mix { 4 cup flour, 2.5 Tbsp baking powder, 0.25 cup powdered milk, 2 tsp salt } great at 80*F 80% humidity for most breads
+
+#### Body Processing
+
+These ranges come from how your body processes different foods
+Often times one of the main things people notice is an end result, fat.
+Fats are not inherently a bad thing, often times stocking up on fats can actually be a dense source of calories.
+However too much will accumulate 
+
+##### Fat Calculations (not BMI)
+
+- fats require mote oxygen than glucose stores
+- recommend [15,30]% total calories be fats
 
 ### True Variance in Diets
 
@@ -130,11 +141,6 @@ With these ranges we can dive more into how to go about finding the right amount
 
 ---
 
-### Fat Calculations (not BMI)
-
-- fats require mote oxygen than glucose stores
-- recommend [15,30]% total calories be fats
-
 ## Simplified Recepies
 
 ### red stew 
@@ -177,22 +183,17 @@ cream (this is optional if you want a richer taste as a finishing addition) ----
 
 > measured by ratios per subsection
 
-- add
-  - dice 30x
-    - 6 carrot
-    - 2 onion
-    - 1 celery
-  - mix 10
-    - 3 black pepper
-    - 2 salt
-    - 1 oregano
-    - 1 basil
-    - 5 cumin
-    - 5 ginger
-    - 2 garlic
-  - stir (to taste)
-    - lime, zested and juiced
-    - honey
+The above procedure might seem complicated so we can break out a simple recipe instead.
+The following using ratios of vegetables and spices.
+
+`(6 carrot, 2 onion, 1 celery), (3 black pepper, 2 salt, 1 oregano, 1 basil, 5 cumin, 5 ginger, 2 garlic, lime(juice, zest))`
+
+Use common sense when cooking if you want more spices add more.
+Remember when adding ingredients, add small amounts and sample.
+You can always add more spices, but taking them out is not recommended or practical.
+There are ways to correct some spice additions, certain flavors can cancel each other out.
+For the purposes of this article we will focus on adding small amounts.
+If you want to learn more ask! Cooking is a hobby shared worldwide.
 
 ## References and Inspiration 
 
