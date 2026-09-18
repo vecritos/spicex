@@ -6,18 +6,39 @@
 
 ---
 
-A kitchen's main purpose was to perfect the combination of foods, some of the earliest kitchens were a cave and a fire.
-These various things that we have learned to do, including the influx of victorian sugar cakes and other delicious novelties were based in our desire to create.
-Some of the original recipes were no-heat recipes and these have over time either become updated heat-full recipes or in some Eastern cultures no-heat medicinal supplements.
-The chefs from all around the world have made it their mission to deliver food faster and with more flavor or care into each order.
-I myself have been a career cook at points but I am saddened to say I am not quite kitchen material, the speed, the technique, the vocalization, these are things I have not mastered.
-I have met many people of various backgrounds in my cooking career and to say I regret nothing about my experiences.
-These are people who can stand on the line all day with nair an order missed nor a customer not satisfied in the end.
-I have not spent much time in the front of the house, however equally important and equally talented people are to be found there as well.
+A kitchen's main purpose was to perfect the combination of foods.
+Some of the earliest kitchens were a cave and a fire.
+There are various things that we as a species have learned to do in the kitchen.
+The influx of victorian sugar cakes and other delicious novelties were based in our desire to create, and to eat.
 
-The restaurant industry and cooking in general are some things that cannot be removed from society, everybody no matter how small, has to eat.
-Eating is by nature an essential ingredient to success and it cannot be offset by ketchup as a vegetable. 
-Eating is essential to health as it allows us to gain the essential nutrients that we need as we grow and age.
+Some of the original recipes were no-heat recipes.
+These have over time either become updated heat-full recipes or in some Eastern cultures no-heat medicinal supplements.
+> todo expand and quote
+
+I myself have had my moments as a career cook.
+I have met many people of various backgrounds in my cooking career.
+I regret nothing about my experiences in the kitchens.
+The chefs have their mission to deliver food faster and with more flavor.
+The speed, the technique, the vocalization, these are things that always inspired me.
+This article serves as a culmination of what I have learned that I think is important.
+It seeks to bridge the gap between classroom knowledge of healthy eating and real world application.
+Hopefully, by the end you will have a wide view of what eating and cooking can look like.
+
+---
+
+## Essentiality of Cooking
+
+The restaurant industry and cooking in general are essential.
+Eating is something that cannot be removed from society.
+Everybody no matter how small, has to eat.
+Eating is by nature an essential ingredient to success.
+Eating cannot be offset by ketchup as a vegetable. 
+Eating is essential to health as it allows us to gain the nutrients that we need as we grow and age.
+And in order to eat there has to be some provision of cooking and food.
+> todo add what we will talk about
+
+---
+
 Health by your own definition can be many things, there are standard practices, but you do not need to become someone else to be healthy.
 Health is permitted in all walks of life and this article we approach practices that allow us to view the best parts of cooking for health.
 
@@ -53,6 +74,9 @@ We often hear advice like the following from MyPlate, courtesy of Michelle Obama
   - Sodium
   - Saturated fats
   - Added sugars (especially drinks)
+
+The reason for these ranges is the nutrients the foods provide.
+Some foods provide more nutrients while others do not.
 
 ### Target Ranges The Goal of Healthy Eating
 
