@@ -2,3 +2,12 @@
 title = "Exploration of a Quantum Species"
 authors = []
 language = "en"
+
+[preprocessor.katex]
+after = ["links"]
+no-css = false
+output = "html"
+throw-on-error = true
+
+[output.html]
+mathjax-support = false
