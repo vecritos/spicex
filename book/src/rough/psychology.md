@@ -11,8 +11,10 @@
 A look into mental health tactics.
 Moving over notes on depression for how to work asynchronously.
 
-> These tricks do not replace the need or recommendation for professional help,
+> These ideas do not replace the need or recommendation for professional help,
 > Please consult your doctor if you are dealing with any mental health issues.
+
+Mental health conditions work 'round the clock. Conventional therapy may not be enough in some situations. This is because therapy and consultations are typically at most once a week. Many people need help beyond what can be covered in therapy. There is also a common issue of what to do in free time. How do those seeking help bridge the gap between what happens in therapy and what happens in daily life. This article seeks to inspire how to come up with creative ideas that can be practiced in off-time from therapy. This article also seeks to talk about common stressors and the idea of reframing and how to approach new situations with old wisdom. 
 
 - stress disorders
   - anxiety based projects, things to correct the worry e.g. bug-out bag
