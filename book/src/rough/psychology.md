@@ -8,13 +8,19 @@
 
 ---
 
-A look into mental health tactics.
-Moving over notes on depression for how to work asynchronously.
-
 > These ideas do not replace the need or recommendation for professional help,
 > Please consult your doctor if you are dealing with any mental health issues.
 
-Mental health conditions work 'round the clock. Conventional therapy may not be enough in some situations. This is because therapy and consultations are typically at most once a week. Many people need help beyond what can be covered in therapy. There is also a common issue of what to do in free time. How do those seeking help bridge the gap between what happens in therapy and what happens in daily life. This article seeks to inspire how to come up with creative ideas that can be practiced in off-time from therapy. This article also seeks to talk about common stressors and the idea of reframing and how to approach new situations with old wisdom. 
+Mental health conditions work 'round the clock. Conventional therapy may not be enough in some situations. This is because therapy and consultations are typically at most once a week. Many people need help beyond what can be covered in therapy. There is also a common issue of what to do in free time. How do those seeking help bridge the gap between what happens in therapy and what happens in daily life. This article seeks to inspire how to come up with creative ideas that can be practiced in off-time from therapy. This article also seeks to talk about common stressors and the idea of reframing and how to approach new situations with old wisdom.
+
+## Stress
+
+> Stress disorders often occur based on 
+
+With anxiety and stress a feeling of being unable to impact future events weighs heavily on the mind. There are psychological tricks to help persuade your mind to feeling safe. And there are also active work tactics that can be employed to make you feel a sense of accomplishment and progress. In this article we'll focus on these two methods. First we'll run though examples of how projects can help mitigate anxious feelings. Secondly, we'll look at methods that can calm anxious minds. 
+
+Let's dive in starting with a few examples of how projects can impact our anxiety. 
+  
 
 - stress disorders
   - anxiety based projects, things to correct the worry e.g. bug-out bag
