@@ -90,11 +90,6 @@ if you don't have it it kinda winds up feeling underwhelming when you sign your 
 | blaming                       | disgregarding your impact on the events that transpired |
 | personalization               | overidentification with events or their outcomes, non|objective thinking |
 
-sources:
-  david d burns
-  cognitive biases
-  university of michigan
-  saint joseph mercy hospital
 
 ---
 
@@ -130,12 +125,17 @@ don't try to achieve your plan but instead work towards making it foolproof
 
 ---
 
-heuristic observations from study
-
 - younger students higher levels of [depression, academic pressure, financial stress]
 - academic pressure increases with financial stress and study hours
 - study satisfaction decreases with increased academic pressure
 - higher performing students feel increased academic pressure
 - younger students have a higher cumulative gpa
 - signs of depression increase with financial stresscontrol fallacy: feeling of responsability to fix, solve, or assist in others problems
+
+sources:
+  david d burns
+  cognitive biases
+  university of michigan
+  saint joseph mercy hospital
+
   
