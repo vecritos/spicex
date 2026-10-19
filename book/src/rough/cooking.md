@@ -145,6 +145,8 @@ Others may grab the entire tub like the fiends you are and eat it from lid to bo
 ## When to Eat
 
 Now that we know more about what to eat, we need to figure out when to eat.
+We base when to eat our replenishing calories off of our workout schedules.
+We will eat at other times but the essential times to rebuild your body come at these times.
 
 ### Repair Calories
 
