@@ -127,16 +127,10 @@ melatonin | cherry, pistashio | for sleep
 
 ### Taste Variances and Spices
 
-Your diet could not be complete without taste.
-A friend of mine Matthew Garrett once suggested mustard as a way to spice up mundane proteins like turkey..he was absolutely correct.
-However, and he mentioned this as well that the acidity and salt in the mustard was something to watch out for, so be careful when over seasoning things for the desire of taste. 
-With this in mind we still cannot deny taste is crucial in a diet to keep us coming back for more.
-Taste can also help us moderate our diets for instance spicy dried fruit means you won't eat as much fruit usually, because it's spicy fruit.
-This can bring back the feeling of the Golden Apple in Minecraft, what makes it golden is the question we ask, is it saffron?
+Golden Apple in Minecraft, what makes it golden is the question we ask, is it saffron?
 
 Religion has long stood the test of time, and many religions have dietary restrictions or food based worship ceremonies.
 Food is central to who we are as human beings and acceptance of this does not mean accepting the religion but understanding our humanity.
-A long withstood expression in Christianity is "daily bread" in my opinion daily bread meant you get bread everyday, not a cracker once a week, but we will see how the Church responds.
 
 You know some say to eat ice cream is to eat it one spoon at a time.
 Some may grab a single spoon, stand by the freezer and perfectly form the spoonful and suck on it.
