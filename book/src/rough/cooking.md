@@ -150,9 +150,11 @@ We will eat at other times but the essential times to rebuild your body come at 
 
 ### Repair Calories
 
-- [30,60]g carbohydrates per hour exercise
-- [15,30]minutes post exercise for carbohydrate replacement
-- [00,60]minutes for protien resupplication
+- Carbohydrates
+  - [15,30] minutes post exercise for carbohydrate replacement
+  - [30,60] grams carbohydrates per hour exercise
+- Proteins
+  - [00,60] minutes for protien resupplication
 
 ## Food Planning
 
