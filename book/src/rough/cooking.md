@@ -154,6 +154,7 @@ We will eat at other times but the essential times to rebuild your body come at 
 
 Often times meal planning is difficult, you're not sure what "sounds good tonight".
 With these ranges we can dive more into how to go about finding the right amounts even if we can't determine what sounds good.
+The focus of these helps assist with caloric replacement, or the ability to replenish used calories during the day or exercise.
 
 ### ppppd
 
